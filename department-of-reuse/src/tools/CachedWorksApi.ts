@@ -5,6 +5,10 @@ export class CachedWorksApi extends WorksApi {
     private apiCache = new WorksCache();
 
     async worksDoiGet(requestParameters: WorksDoiGetRequest): Promise<WorkMessage> {
+        return this.worksDoiGetInteral(requestParameters, false);
+    }
+
+    async worksDoiGetInteral(requestParameters: WorksDoiGetRequest, requestOnCacheMiss : boolean): Promise<WorkMessage> {
         if (this.apiCache.recordExists(requestParameters.doi)) {
             //console.debug("Cache hit")
             return new Promise(resolve => 
@@ -16,10 +20,17 @@ export class CachedWorksApi extends WorksApi {
                 }
                 )
             );
+        } else {
+            if(requestOnCacheMiss) {
+                console.debug("Cache miss")
+                const response = await super.worksDoiGet(requestParameters);
+                this.apiCache.set(requestParameters.doi, response.message);
+                return response;
+            } else {
+                throw new Error('Cache miss');   
+            }
+        
         }
-        //console.debug("Cache miss")
-        const response = await super.worksDoiGet(requestParameters);
-        this.apiCache.set(requestParameters.doi, response.message);
-        return response;
+
     }
 }

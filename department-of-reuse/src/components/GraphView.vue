@@ -1,35 +1,38 @@
 <template>
-  <div ref="cyroot" class="h-full w-full mx-auto pt-14 pb-10 pr-10"></div>
+  <div id="cyroot" class="w-full h-full fixed"></div>
 </template>
 
 <script lang="ts">
 import cytoscape, { Core, CytoscapeOptions, ElementsDefinition, NodeDefinition, EdgeDefinition } from "cytoscape";
+//import popper from "cytoscape-popper";
 import fcose from "cytoscape-fcose";
+//import cola from "cytoscape-cola";
+//import d3Force from 'cytoscape-d3-force';
 
-import { ref, onMounted, PropType } from "vue";
+import { ref, PropType, onBeforeMount } from "vue";
 
 import Reuse from "../backend/models/Reuse";
 import { CachedWorksApi } from "../tools/CachedWorksApi";
 import { CachedArxivApi } from "../tools/CachedArxivApi";
-import { Author, WorkMessage } from "../clients/crossref";
+import { Author, Work, WorkMessage } from "../clients/crossref";
 import { Feed } from "../clients/arxiv";
 
 import CompoundSet from "../tools/CompoundSet";
 
-const websiteFilter = (id: string): boolean => !id.startsWith("https://github.com")&&(id.startsWith("http://")||id.startsWith("https://"));
+const websiteFilter = (id: string): boolean => !id.startsWith("https://github.com/")&&(id.startsWith("http://")||id.startsWith("https://"));
 
 export default {
   props: {
-    reuseData: Array as PropType<Array<Reuse>>,
+    reuseData: Array as PropType<Array<Reuse>>
   },
   setup(props: any) {
-    const cyroot = ref(null);
     const cyInstance = ref<Core | null>(null);
     const worksApi = new CachedWorksApi();
     const arxivApi = new CachedArxivApi();
 
     async function transformToGraph(data: Array<Reuse>) : Promise<ElementsDefinition> {
       const transformedNodes = await getNodes(data);
+      
       return {
         nodes: transformedNodes,
         edges: getLinks(data),
@@ -59,7 +62,7 @@ export default {
 
       const githubRepos = Array.from(new Set(data
                         .map(entry => entry.alternativeID)
-                        .filter(id => id.startsWith("https://github.com"))
+                        .filter(id => id.startsWith("https://github.com/"))
                         .map(id => trimGitHubURL(id))));
 
       const urls = Array.from(new Set(data
@@ -107,8 +110,19 @@ export default {
     
 
     async function createNodeFromDOI(doi : string) : Promise<NodeDefinition> {
-      const title = await getItemTitle(doi);
-      return { data: {id: doi, name : title}, classes: "crossref" };
+      const work = await worksApi.worksDoiGet({ doi: doi })
+        .catch((err) => {
+          console.warn(err);
+        });
+
+      if (work as WorkMessage) {
+        const message = (work as WorkMessage).message
+        const citationCount =  message.isReferencedByCount;
+        const title = getItemTitle(message);
+        return { data: {id: doi, name : title, citations: citationCount}, classes: "crossref" };
+      } else {
+        return { data: {id: doi, name : doi, citations: 0}, classes: "crossref" };
+      }
     }
     
     function getLinks(data: Array<Reuse>) : Array<EdgeDefinition> {
@@ -120,7 +134,7 @@ export default {
           return { data: { source: item.sourceDOI, target: item.alternativeID } };
       })));
 
-      const linksToGithub = Array.from(new CompoundSet(data.filter(item => item.alternativeID.startsWith("https://github.com")).map((item: Reuse) => {
+      const linksToGithub = Array.from(new CompoundSet(data.filter(item => item.alternativeID.startsWith("https://github.com/")).map((item: Reuse) => {
           return { data: { source: item.sourceDOI, target: trimGitHubURL(item.alternativeID) } };
       })));
 
@@ -133,23 +147,13 @@ export default {
               .concat(linksToGithub)
               .concat(linksToWebsites);
     }
-    async function getItemTitle(doi: string) {
-      const work = await worksApi.worksDoiGet({ doi: doi })
-        .catch((err) => {
-          console.warn(err);
-        });
-
-      if (work as WorkMessage) {
-        const workMessage = (work as WorkMessage).message
-        if (workMessage.issued) 
-          return getAuthors(workMessage.author) + " (" + workMessage.issued.dateParts[0][0] + ")"; 
-        else 
-          return getAuthors(workMessage.author) + "(???)";
-      } else {
-        return doi;
-      }
- 
+    function getItemTitle(work: Work) {
+      if (work.issued) 
+        return getAuthors(work.author) + " (" + work.issued.dateParts[0][0] + ")"; 
+      else 
+        return getAuthors(work.author) + "(???)"; 
     }
+
     function getAuthors(authors: Array<Author>): string {
       if (!authors) return "";
       if (!authors[0]) return "";
@@ -157,15 +161,16 @@ export default {
       return authors[0].family + " et al.";
     }
 
-    const elementsPromise = transformToGraph(props.reuseData);
 
-    onMounted(() => {
+
+    onBeforeMount(async () => {
+      const elements = await transformToGraph(props.reuseData);
+
       var cytoConfig = {
-        container: cyroot.value,
-        elements: elementsPromise,
-        layout: {
-          name: "fcose",
-        },
+        container: document.getElementById('cyroot'),
+        elements: elements,
+        animate: true,
+        layout: { name: "fcose" },
         style: [
           {
             selector: "node",
@@ -209,51 +214,38 @@ export default {
             },
           },
         ],
-        // initial viewport state:
-        zoom: 2,
-        pan: { x: 0, y: 0 },
-        // interaction options:
-        minZoom: 1e-50,
-        maxZoom: 1e50,
-        zoomingEnabled: true,
-        userZoomingEnabled: true,
-        panningEnabled: true,
-        userPanningEnabled: true,
-        boxSelectionEnabled: true,
-        selectionType: "single",
-        touchTapThreshold: 8,
-        desktopTapThreshold: 4,
-        autolock: false,
-        autoungrabify: false,
-        autounselectify: false,
-        // rendering options:
-        headless: false,
-        styleEnabled: true,
-        hideEdgesOnViewport: false,
-        textureOnViewport: false,
-        motionBlur: false,
-        motionBlurOpacity: 0.1,
-        animate: true,
-        pixelRatio: "auto",
       } as CytoscapeOptions;
-      cytoscape.use(fcose);
-      var cy = cytoscape(cytoConfig);
-      cy.layout({ name: "fcose" }).run();
-      cyInstance.value = cy;
 
-      var throttle: any;
-      function handleWindowResize() {
+      cytoscape.use(fcose);
+      //cytoscape.use(popper);
+      var cy = cytoscape(cytoConfig);
+      cyInstance.value = cy;
+      
+      /* This function is a work-in-progress. How to get the tooltip
+      is one of the world's greatest mysteries. For whoever attempts
+      this task, may God be with you. */
+      /*cy.on("click", "node", event => {
+        //let element = cy.getElementById(event.target._private.data.id);
+        var node = event.target._private;
+        console.log(node.data.citations);
+      });*/
+
+      cy.layout({ name: "fcose" }).run();
+
+
+      //var throttle: any;
+      /*function handleWindowResize() {
         clearTimeout(throttle);
         throttle = setTimeout(function () {
           cyInstance.value!.layout({ name: "fcose" }).run();
         }, 100);
-      }
+      }*/
 
-      window.addEventListener("resize", handleWindowResize);
-    });
+      // window.addEventListener("resize", handleWindowResize);
+    })
+
 
     return {
-      cyroot,
       cyInstance,
     };
   },
