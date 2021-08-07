@@ -1,53 +1,79 @@
 <template>
   <div>
-    <h2 class="text-xl bg-opacity-80 bg-blue-200">Researchers</h2>
+    <h2 class="text-base bg-opacity-80 bg-blue-200">Researchers</h2>
 
-    <h3 class="text-l bg-opacity-40 bg-blue-200">Most reused (R+)</h3>
+    <h3 class="text-sm bg-opacity-40 bg-blue-200">Most reused (R+)</h3>
       <div v-if="isLoading">
         <p>Loading...</p>
       </div>
       <div v-else>
         <table class="m-1 table-auto text-xs w-full bg-opacity-40 bg-white">
           <tr v-for="(p, index) in researchers.reused" :key="index" :class="index % 2 ? 'bg-opacity-80 bg-white' : ''">
-            <td class="text-left">{{p.entry.given}} {{p.entry.family}}</td>
+            <td class="text-left hover:bg-blue-50">{{p.entry.given}} {{p.entry.family}}</td>
             <td>{{p.frequency}}</td>
           </tr>
         </table>
       </div>
-    <h3 class="text-l bg-opacity-40 bg-blue-200">Most reusing (R)</h3>
+    <h3 class="text-sm bg-opacity-40 bg-blue-200">Most reusing (R)</h3>
       <div v-if="isLoading">
         <p>Loading...</p>
       </div>
       <div v-else>    
         <table class="m-1 table-auto text-xs w-full bg-opacity-40 bg-white">
           <tr v-for="(p, index) in researchers.reusing" :key="index" :class="index % 2 ? 'bg-opacity-80 bg-white' : ''">
-            <td class="text-left">{{p.entry.given}} {{p.entry.family}}</td>
+            <td class="text-left hover:bg-blue-50">{{p.entry.given}} {{p.entry.family}}</td>
             <td>{{p.frequency}}</td>
           </tr>
         </table>
       </div>
-    <h2 class="text-xl bg-opacity-80 bg-blue-200 mt-5">Artifacts</h2>
+    <h2 class="text-base bg-opacity-80 bg-blue-200 mt-3">Artifacts</h2>
 
-    <h3 class="text-l bg-opacity-40 bg-blue-200">Most reused (R+)</h3>
+    <h3 class="text-sm bg-opacity-40 bg-blue-200">Most reused (R+)</h3>
       <div v-if="isLoading">
         <p>Loading...</p>
       </div>
       <div v-else>    
         <table class="m-1 table-auto text-xs bg-opacity-40 bg-white">
           <tr v-for="(p, index) in publications.reused" :key="index" :class="index % 2 ? 'bg-opacity-80 bg-white' : ''">
-            <td class="text-left"><a :href="'https://doi.org/' + p.entry.dOI" target="_blank">{{p.entry.title[0]}}</a></td>
+            <td class="text-left">
+              <router-link
+              class="hover:bg-blue-50"
+              :to="{
+                  name: 'paper',
+                  params: {
+                  doiPrefix: p.entry.dOI.split('/')[0],
+                  doiSuffix: p.entry.dOI.split('/')[1],
+                  },
+              }"
+              >
+              {{ p.entry.title[0] }}
+              </router-link>
+            </td>
             <td>{{p.frequency}}</td>
           </tr>
         </table>
       </div>
-    <h3 class="text-l bg-opacity-40 bg-blue-200">Most reusing (R)</h3>
+    <h3 class="text-sm bg-opacity-40 bg-blue-200">Most reusing (R)</h3>
       <div v-if="isLoading">
         <p>Loading...</p>
       </div>
       <div v-else>    
         <table class="m-1 table-auto text-xs bg-opacity-40 bg-white">
           <tr v-for="(p, index) in publications.reusing" :key="index" :class="index % 2 ? 'bg-opacity-80 bg-white' : ''">
-            <td class="text-left"><a :href="'https://doi.org/' + p.entry.dOI" target="_blank">{{p.entry.title[0]}}</a></td>
+            <td class="text-left">
+              <router-link
+              class="hover:bg-blue-50"
+              :to="{
+                  name: 'paper',
+                  params: {
+                  doiPrefix: p.entry.dOI.split('/')[0],
+                  doiSuffix: p.entry.dOI.split('/')[1],
+                  },
+              }"
+              >
+              {{ p.entry.title[0] }}
+              </router-link>
+            </td>
             <td>{{p.frequency}}</td>
           </tr>
           </table>
