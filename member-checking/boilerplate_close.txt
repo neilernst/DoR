@@ -1,0 +1,30 @@
+
+
+<p>
+<b>Part I.</b> Considering the various reuse we identified in your paper, do they all correctly capture the source and type of reuse your paper used? If YES, simply respond by typing YES in the space below:
+<br><br><br>
+
+<p>
+If NO, please type NO above and identify the row and updates or corrections you may have for us. This might include reuse of artifacts that we missed in reading your paper. In that case, please provide a short reference - to a URL or DOI - alongside the type of reuse you believe we missed.
+<br><br><br>
+
+<b>Part II</b>
+Did you have any further comments we should be aware of for your paper? 
+<br><br><br>
+<p>
+This study protocol has been approved by the IRB of the University of Victoria available at https://bit.ly/dor-cert. 
+We will openly publish the generalized results so everyone can benefit from them, but we will anonymize everything before doing so. 
+Please note that you are not obligated to participate in the survey or respond to this email. 
+If at some point during the survey you want to stop, you are free to do so without any negative consequences. 
+Please review details of the ethics protocol for this research at https://github.com/neilernst/DoR/blob/main/member-checking/Consent-uvic.pdf. 
+By responding to this email, you are providing your implied consent to participate in the study.
+<p>
+Thanks for your help in checking our approach. 
+You can find more information about this effort at GitHub.com/bhermann/DoR.
+
+<p>
+Neil Ernst, University of Victoria<br/>
+Ben Hermann, TU Dortmund<br/>
+Maria Teresa Baldassarre, University of Bari<br/>
+Tim Menzies, NC State<br/>
+Andre Lustosa, NC State<br/>

@@ -1,0 +1,14 @@
+Dear Authors, 
+
+Artifact evaluation and use have been of increasing importance and focus in recent years. 
+We are conducting a study into how artifacts are being used in software engineering. 
+We have identified your paper as possibly re-using artifacts from other research papers. 
+This is commendable and an important part of open science! 
+However, we wish to ensure we are correctly identifying the nature of the reuse in your paper. 
+We would appreciate a response by **Aug 20, 2021**. 
+And please note that we only ask that one of the authors of the paper respond to this survey request. 
+
+In the following table, we list your paper’s citation to another paper, that paper’s DOI, 
+and our assessment of what sort of re-use we identified. Feel free to add clarification for each re-use.
+
+

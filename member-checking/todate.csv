@@ -1,0 +1,1543 @@
+gh_id,paper_doi,reuse_type,comment,citation_number,reused_doi,alt_url,page_num,time
+anjiperera,10.1145/3377811.3380373,method,judgement study,57,10.1145/3241743,,3,45
+anjiperera,10.1145/3377811.3380373,dataset,ASTRail was the case study,footnote 1,,http://astrail.eu/,"2,3",
+anjiperera,10.1145/3377811.3380373,tool,UMC,footnote 5,,http://fmt.isti.cnr.it/umc/V4.8/umc.html,4,
+anjiperera,10.1145/3377811.3380373,tool,UPPAAL SMC,footnote 6,,http://people.cs.aau.dk/~adavid/smc/,4,
+anjiperera,10.1145/3377811.3380373,tool,Atelier B - Free community edition available,footnote 7,,https://www.atelierb.eu/en/,4,
+anjiperera,10.1145/3377811.3380373,tool,ProB,footnote 8,,https://www3.hhu.de/stups/prob,4,
+anjiperera,10.1145/3377811.3380373,tool,NuSMV - extended in [21],21,10.1007/978-3-319-10575-8,http://nusmv.fbk.eu,4,
+anjiperera,10.1145/3377811.3380373,tool,SPIN,footnote 12,,http://spinroot.com/spin/whatispin.html,4,
+anjiperera,10.1145/3377811.3380373,tool,CADP - free academic license,footnote 13,,https://cadp.inria.fr,4,
+anjiperera,10.1145/3377811.3380373,tool,FDR4 -free academic and research license,footnote 14,,https://www.cs.ox.ac.uk/projects/fdr/,4,
+anjiperera,10.1145/3377811.3380373,method,Thematic analysis,58,10.1111/nhs.12048,,6,
+anjiperera,10.1145/3377811.3380367,tool,Pin framework,37,10.1145/1065010.1065034,,2,25
+anjiperera,10.1145/3377811.3380367,method,lock dependency,6,10.1109/TSE.2014.2301725,,2,
+anjiperera,10.1145/3377811.3380367,method,lock dependency,29,10.1145/1542476.1542489,,2,
+anjiperera,10.1145/3377811.3380367,stepping stones,UNDEAD,54,10.1109/ASE.2017.8115684,,7,
+anjiperera,10.1145/3377811.3380367,stepping stones,MAGICLOCK,6,10.1109/TSE.2014.2301725,,"1,7",
+anjiperera,10.1145/3377811.3380367,tool,Stress testing tool ,footnote 6,,https://github.com/akopytov/sysbench,9,
+anjiperera,10.1145/3377811.3380353,tool,Udacity,47,,https://github.com/udacity/self-driving-car-sim,2,30
+anjiperera,10.1145/3377811.3380353,tool,DAVE-2,9,,arxiv:1604.07316,6,
+anjiperera,10.1145/3377811.3380353,tool,Epoch,41,,https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/cg23,6,
+anjiperera,10.1145/3377811.3380353,tool,Chauffeur,40,,https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur,6,
+anjiperera,10.1145/3377811.3380353,tool,Unity3D snow mountain track,46,,https://assetstore.unity.com/packages/3d/environments/roadways/mountain-race-track-53775,6,
+anjiperera,10.1145/3377811.3380353,tool,Unity3D particle system,32,,https://docs.unity3d.com/ScriptReference/ParticleSystem.html,7,
+anjiperera,10.1145/3377811.3380353,stepping stones,re-implemented since tool is not publicly available,55,10.1145/3238147.3238187,,8,
+anjiperera,10.1145/3377811.3380338,tool,"JGenProg, JKali, JMutRepair",38,10.1145/2931037.2948705,,4,35
+anjiperera,10.1145/3377811.3380338,tool,Cardumen,39,10.1007/978-3-319-99241-9_3,,4,
+anjiperera,10.1145/3377811.3380338,tool,DynaMoth,8,10.1109/AST.2016.021,,4,
+anjiperera,10.1145/3377811.3380338,tool,Nopol,64,10.1109/TSE.2016.2560811,,4,
+anjiperera,10.1145/3377811.3380338,tool,ACS,63,10.1109/ICSE.2017.45,,4,
+anjiperera,10.1145/3377811.3380338,tool,SimFix,15,10.1145/3213846.3213871,,4,
+anjiperera,10.1145/3377811.3380338,tool,kPAR,29,10.1109/ICST.2019.00020,,4,
+anjiperera,10.1145/3377811.3380338,tool,FixMiner,19,10.1007/s10664-019-09780-z,,4,
+anjiperera,10.1145/3377811.3380338,tool,AVATAR,30,10.1109/SANER.2019.8667970,,4,
+anjiperera,10.1145/3377811.3380338,tool,TBar,31,10.1145/3293882.3330577,,4,
+anjiperera,10.1145/3377811.3380338,tool,"ARJA, GenProg-A, Kali-A, RSRepair-A",67,10.1109/TSE.2018.2874648,,4,
+anjiperera,10.1145/3377811.3380338,dataset,Defects4J,16,10.1145/2610384.2628055,,5,
+anjiperera,10.1145/3377811.3380338,metric,Ochiai ranking metric,1,10.1109/TAIC.PART.2007.13,,5,
+anjiperera,10.1145/3377811.3380338,tool,GZoltar v1.7.2,,,https://github.com/GZoltar/gzoltar/releases/tag/v1.7.2,5,
+anjiperera,10.1145/3377811.3380338,metric,efficiency metric,47,10.1145/2483760.2483785,,6,
+anjiperera,10.1145/3377811.3380336,method,"SLR guidelines, Kitchenham et al.",34,,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.471&rep=rep1&type=pdf,3,30
+anjiperera,10.1145/3377811.3380336,method,survey guidelines,30,,The Survey Research Handbook,3,
+anjiperera,10.1145/3377811.3380336,method,puposive sampling frame,44,,"Impact Evaluation of Smoke-Free Mass Media Campaign On Knowledge, Attitude and Behavior of the Target Audience In India",4,
+anjiperera,10.1145/3377811.3380336,method,grounded theory,,10.1145/2884781.2884833,,6,
+anjiperera,10.1145/3377811.3380924,method,BERT,6,10.18653/v1/N19-1423,,4,40
+anjiperera,10.1145/3377811.3380924,method,,18,,https://aclanthology.org/N04-1020.pdf,4,
+anjiperera,10.1145/3377811.3380924,method,,19,,10.5555/1622572.1622576,4,
+anjiperera,10.1145/3377811.3380924,method,USE,2,,arxiv:1803.11175,6,
+anjiperera,10.1145/3377811.3380924,method,en_core_web_lg,footnote 7,,https://spacy.io/models/en,7,
+anjiperera,10.1145/3377811.3380924,method,GloVe,31,10.3115/v1/D14-1162,,8,
+anjiperera,10.1145/3377811.3380924,method,Adam Optimiser,15,,arxiv:1412.6980,8,
+anjiperera,10.1145/3377811.3380924,tool,Common Crawl,footnote 8,,https://commoncrawl.org/,8,
+anjiperera,10.1145/3377811.3380924,method,Negative Sampling,23,,10.5555/2999792.2999959,8,
+anjiperera,10.1145/3377811.3380359,tool,FPGen,footnote 8,,https://github.com/ucd-plse/FPGen,8,20
+anjiperera,10.1145/3377811.3380359,stepping stones,S3FP,16,10.1145/2555243.2555265,,2,
+anjiperera,10.1145/3377811.3380359,stepping stones,KLEE-FLOAT,28,10.1109/ASE.2017.8115670,,2,
+anjiperera,10.1145/3377811.3380359,sanity check,Cancellation check,10,10.1145/2509136.2509526,,5,
+anjiperera,10.1145/3377811.3380359,sanity check,Cancellation check,25,10.1016/j.parco.2012.08.002,,5,
+anjiperera,10.1145/3377811.3380359,tool,KLEE-Float - SE engine,3,,https://github.com/srg-imperial/klee-float,8,
+anjiperera,10.1145/3377811.3380359,method,,16,10.1145/2555243.2555265,,9,
+anjiperera,10.1145/3377811.3380405,method,taxonomy of documentation issues,2,10.1109/ICSE.2019.00122,,,20
+anjiperera,10.1145/3377811.3380332,tool,ProM,"56,66",10.1007/11575771_11,http://www.promtools.org/,"5,6",30
+anjiperera,10.1145/3377811.3380332,stepping stones,BS,35,10.1109/ICSM.2003.1235404,,8,
+anjiperera,10.1145/3377811.3380332,stepping stones,FS,44,10.1145/2950290.2950293,,8,
+aaleti,10.1145/3377811.3380927,tool,Adapting requirements models to varying environments,1,,http://formal.cs.utah.edu:8080/pbl/PBL.php,58
+aaleti,10.1145/3377811.3380927,tool,NuSMV2 2.6,16,10.1007/3-540-45657-0_29,,58
+aaleti,10.1145/3377811.3380927,tool,RASPAL learning-based revision tool,10,10.1007/978-3-319-23708-4_2,,58
+aaleti,10.1145/3377811.3380392,dataset,AndroZoo,5,10.1109/MSR.2016.056,,1325
+aaleti,10.1145/3377811.3380392,tool,Android Monkey,8,,https://developer.android.com/studio/test/monkey.html,1326
+aaleti,10.1145/3377811.3380392,statistical,ESD,45,10.1109/TSE.2016.2584050,,1327
+aaleti,10.1145/3377811.3380392,tool,NLTK library,34,,https://www.nltk.org,1327
+aaleti,10.1145/3377811.3380354,tool,AndroGuard tool,Desnos et al. 2011,,http://lilicoding.github.io/SA3Repo/papers/2011_desnos2011android.pdf,1563
+aaleti,10.1145/3377811.3380354,tool,"PScout, which produces a mapping between per- missions and API calls",Au et al. 2012,10.1145/2382196.2382222,,1563
+aaleti,10.1145/3377811.3380354,dataset,Android Malware Genome Project (Genome),Zhou and Jiang 2012,10.1109/SP.2012.16,,1563
+aaleti,10.1145/3377811.3380354,dataset,Drebin Dataset (Drebin),Arp et al. 2014,http://dx.doi.org/10.14722/ndss.2014.23247,,1563
+aaleti,10.1145/3377811.3380354,dataset,AMD Project (AMD),Wei et al. 2017,10.1007/978-3-319-60876-1_12,,1563
+aaleti,10.1145/3377811.3380438,tool,FlowDroid,1,10.1145/2594291.2594299,,1063
+aaleti,10.1145/3377811.3380438,tool,Soot,14,,http://www.bodden.de/pubs/lblh11soot.pdf,1063
+aaleti,10.1145/3377811.3380438,tool,Spark,15,10.1007/3-540-36579-6_12,,1063
+aaleti,10.1145/3377811.3380438,tool,Apktool,footnote 5,,https://ibotpeaches.github.io/Apktool/,1065
+aaleti,10.1145/3377811.3380328,method,Faster R-CNN,66,,https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf,311
+aaleti,10.1145/3377811.3380328,method,VGGNet,69,,https://arxiv.org/abs/1409.1556,311
+aaleti,10.1145/3377811.3380328,method,AlexNet,45,,https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf,311
+aaleti,10.1145/3377811.3380328,tool,TensorFlow Object Detection API,19,,https://github.com/tensorflow/models/tree/master/research/object_detection,312
+aaleti,10.1145/3377811.3380328,method,RERAN,35,10.1109/ICSE.2013.6606553,,313
+anjiperera,10.1145/3377811.3380328,tool,FFmpeg tool,10,,http://ffmpeg.org/,312
+anjiperera,10.1145/3377811.3380328,dataset,ReDraw dataset,59,10.1109/TSE.2018.2844788,,312
+aaleti,10.1145/3377811.3380369,sanity check,"selecting a subset of tests, instead of prioritizing them",22,10.1109/ICSE-SEIP.2017.16,,3
+aaleti,10.1145/3377811.3380369,sanity check,using a temporal threshold excluding the lowest priority ones,28,10.1145/3092703.3092709,,3
+aaleti,10.1145/3377811.3380369,tool,scitools,footnote 2,,http://scitools.com,3
+aaleti,10.1145/3377811.3380369,sanity check,"use pointwise, pairwise or listwise algorithms ",18,10.2200/S00348ED1V01Y201104HLT012,,3
+aaleti,10.1145/3377811.3380369,tool,Weka,footnote 4,,https://www.cs.waikato.ac.nz/ml/weka/,4
+aaleti,10.1145/3377811.3380369,tool,Knime,footnote 5,,https://www.knime.com/knime-software,4
+aaleti,10.1145/3377811.3380369,tool,RankLib library,footnote 6,,https://sourceforge.net/p/lemur/wiki/RankLib/,4
+aaleti,10.1145/3377811.3380369,statistical,Iman and Davemport extension,11,10.1080/03610928008827904,,6
+aaleti,10.1145/3377811.3380432,dataset,introduced in Blazer,7,10.1145/3140587.3062378,,1011
+aaleti,10.1145/3377811.3380432,dataset,introduced in Themis,17,10.1145/3133956.3134058,,1011
+aaleti,10.1145/3377811.3380432,dataset,introduced in DiffFuzz,39,10.1109/ICSE.2019.00034,,1011
+anjiperera,10.1145/3377811.3380432,tool,Blazer,7,10.1145/3140587.3062378,,1019
+anjiperera,10.1145/3377811.3380432,tool,Themis,17,10.1145/3133956.3134058,,1019
+anjiperera,10.1145/3377811.3380432,tool,DiffFuzz,39,10.1109/ICSE.2019.00034,,1019
+aaleti,10.1145/3377811.3380432,tool,grey-box fuzzer AFL,53,,http://lcamtuf.coredump.cx/afl/,1013
+aaleti,10.1145/3377811.3380432,tool,Janalyzer,8,,https://www.isis.vanderbilt.edu/node/4850,1014
+aaleti,10.1145/3377811.3380432,method,system dependence graph (SDG),29,10.1145/53990.53994,,1014
+aaleti,10.1145/3377811.3380344,method,categorising projects Souza et al.,23,10.1109/MSR.2013.6624030,,803
+aaleti,10.1145/3377811.3380344,method,guidelines presented by Kalliamvakou et al. for mining Git repositories,36,10.1145/2597073.2597074,,803
+aaleti,10.1145/3377811.3380344,method,"grouped these factors into five unique di- mensions: size, complexity, diffusion, development pattern and comment ",62,10.1145/2961111.2962606,,804
+aaleti,10.1145/3377811.3380344,method,checked for multicollinearity using the Variance Inflation Factor (VIF),19,,https://www.taylorfrancis.com/books/mono/10.4324/9781410606266/applied-multiple-regression-correlation-analysis-behavioral-sciences-patricia-cohen-patricia-cohen-stephen-west-leona-aiken,805
+aaleti,10.1145/3377811.3380344,sanity check,used a subset of these factors as a proxy for difficulty of a conflict,37,10.1109/ICSE.2013.6606619,,805
+aaleti,10.1145/3377811.3380344,sanity check,used a subset of these factors as a proxy for difficulty of a conflict,51,10.1016/j.jss.2011.04.065,,805
+aaleti,10.1145/3377811.3380344,tool,Auto-WEKA,38,10.1007/978-3-030-05318-5_4,,806
+aaleti,10.1145/3377811.3380398,method,SMT-LIB standard,12,,https://smtlib.cs.uiowa.edu/language.shtml,1460
+aaleti,10.1145/3377811.3380398,method,reprocessing rules,35,10.1145/2491411.2491456,,1461
+aaleti,10.1145/3377811.3380398,method,SMT- LIB specification,5,,http://smtlib.cs.uiowa.edu/theories-,1463
+aaleti,10.1145/3377811.3380398,tool,utomata-based solver MT-ABC,11,10.1145/3236024.3236064,,1464
+anjiperera,10.1145/3377811.3380398,stepping stones,StringFuzz,16,10.1007/978-3-319-96142-2_6,,1468
+anjiperera,10.1145/3377811.3380398,tool,Z3-seq,7,,https://github.com/Z3Prover/z3/,1460
+anjiperera,10.1145/3377811.3380398,tool,Z3str3,13,10.23919/FMCAD.2017.8102241,,1460
+anjiperera,10.1145/3377811.3380398,tool,CVC4,25,10.1007/s10703-016-0247-6,,1460
+aaleti,10.1145/3377811.3380330,method,user study design,40,10.1007/s10664-008-9102-8,,655
+aaleti,10.1145/3377811.3380330,method,negotiated agreement,13,10.1016/j.iheduc.2005.11.001,,656
+aaleti,10.1145/3377811.3380330,method,categorising interviews with Pattern Coding,33,,https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128,656
+aaleti,10.1145/3377811.3380330,method,qualitative coding,41,,https://us.sagepub.com/en-us/nam/book/coding-manual-qualitative-researchers-1,656
+aaleti,10.1145/3377811.3380330,method,observed biases,34,10.1109/TSE.2018.2877759,,657
+aaleti,10.1145/3377811.3380330,method,the definitions of biases in cognitive science literature,50,10.1016/0010-0285(73)90033-9,,657
+aaleti,10.1145/3377811.3380330,method,the definitions of biases in cognitive science literature,51,10.1126/science.185.4157.1124,,657
+aaleti,10.1145/3377811.3380330,statistical,Cramer’s V measure,39,,https://analysis.mitre.org/proceedings/Final_Papers_Files/206_Camera_Ready_Paper.pdf,658
+anjiperera,10.1145/3377811.3380350,method,queue-based model checker for the testing procedure,27,10.1145/263699.263717,,1489,35
+anjiperera,10.1145/3377811.3380350,tool,QEMU,12,,10.5555/1247360.1247401,1490,
+anjiperera,10.1145/3377811.3380350,tool,CrashMonkey,41,,10.5555/3154601.3154607,1490,
+anjiperera,10.1145/3377811.3380350,stepping stones,Syzkaller (informal comparison),5,,https://github.com/google/syzkaller,1491,
+anjiperera,10.1145/3377811.3380350,stepping stones,CrashMonkey has a built-in workload generator ACE,45,,abs/10.5555/3291168.3291172,1491,
+anjiperera,10.1145/3377811.3380350,tool,KProbes,58,,https://lwn.net/Articles/132196/,1491,
+anjiperera,10.1145/3377811.3380327,tool,app explorer,32,10.1145/3180155.3180240,,324,40
+anjiperera,10.1145/3377811.3380327,statistical ,Spearman rank-order correlation test,67,10.1093/ije/dyq191,,325,
+anjiperera,10.1145/3377811.3380327,method,Transformer model,68,,10.5555/3295222.3295349,325,
+anjiperera,10.1145/3377811.3380327,method,"CNN, ResNet-101 architecture",46,10.1109/CVPR.2016.90,,325,
+anjiperera,10.1145/3377811.3380327,dataset,MS COCO dataset (used to pretrain CNN),57,10.1007/978-3-319-10602-1_48,https://cocodataset.org/,328,
+anjiperera,10.1145/3377811.3380327,tool,Adam Optimiser,51,,arxiv:1412.6980,328,
+anjiperera,10.1145/3377811.3380327,metric,BLEU,62,10.3115/1073083.1073135,,328,
+anjiperera,10.1145/3377811.3380327,metric,METEOR,26,,10.5555/1626355.1626389,328,
+anjiperera,10.1145/3377811.3380327,metric,ROGUE,56,10.3115/1073445.1073465,,328,
+anjiperera,10.1145/3377811.3380327,metric,CIDEr,69,10.1109/CVPR.2015.7299087,,328,
+anjiperera,10.1145/3377811.3380327,tool,coco-caption code,39,,arxiv:1504.00325,328,
+anjiperera,10.1145/3377811.3380327,stepping stones,CNN + LSTM,70,10.1109/CVPR.2015.7298935,,328,
+anjiperera,10.1145/3377811.3380327,stepping stones,CNN + CNN,22,10.1109/CVPR.2018.00583,,329,
+anjiperera,10.1145/3377811.3380327,metric,accessibility score,45,,https://www.semanticscholar.org/paper/Overview-of-the-Patent-Machine-Translation-Task-at-Goto-Chow/7c27562748cb9e7b970f516c0eb89e11986dcc4b,330,
+anjiperera,10.1145/3377811.3380417,method,WORD2VEC,57,,arxiv:1301.3781,1313,25
+anjiperera,10.1145/3377811.3380417,tool,SUPOR,52,,10.5555/2831143.2831205,1313,
+anjiperera,10.1145/3377811.3380417,stepping stones,AndroBugs,2,,https://github.com/AndroBugs/,1315,
+anjiperera,10.1145/3377811.3380417,stepping stones,QARK,16,,https://github.com/linkedin/qark,1315,
+anjiperera,10.1145/3377811.3380417,stepping stones,MOBSF,13,,https://github.com/MobSF/Mobile-Security-Framework-MobSF,1315,
+anjiperera,10.1145/3377811.3380417,stepping stones,"Qihoo360, industry tool",17,,http://appscan.360.cn/,1315,
+anjiperera,10.1145/3377811.3380417,stepping stones,FlowDroid,29,10.1145/2666356.2594299,,1315,
+anjiperera,10.1145/3377811.3380417,stepping stones,ICCTA,54,10.1109/ICSE.2015.48,,1315,
+anjiperera,10.1145/3377811.3380389,dataset,PROMISE,,,http://openscience.us/repo/defect/,579,40
+anjiperera,10.1145/3377811.3380389,method,AlexNet,19,10.1145/3065386,,579,
+anjiperera,10.1145/3377811.3380389,method,deep transfer learning,20,,10.5555/3045118.3045130,579,
+anjiperera,10.1145/3377811.3380389,method,self attention mechanism,21,,arxiv:1805.08318,579,
+anjiperera,10.1145/3377811.3380389,metric,MK-MMD,69,,10.5555/2999134.2999269,"580,583",
+anjiperera,10.1145/3377811.3380389,method,"DANs, multi-kernal MMD strategy",68,10.1109/TPAMI.2018.2868685,,582,
+anjiperera,10.1145/3377811.3380389,sanity check,why padding is used,74,,https://www.semanticscholar.org/paper/An-Overview-of-Convolutional-Neural-Network-for-Murphy/64db333bb1b830f937b47d786921af4a6c2b3233,582,
+anjiperera,10.1145/3377811.3380389,stepping stones,"Semantic, PROMISE-DP, DBN-CP",16,10.1145/2884781.2884804,,584,
+anjiperera,10.1145/3377811.3380389,stepping stones,"Semantic, DBN-CP",75,10.1109/TSE.2018.2877612,,584,
+anjiperera,10.1145/3377811.3380389,stepping stones,DP-LSTM,18,,arxiv:1802.00921,584,
+anjiperera,10.1145/3377811.3380389,stepping stones,DP-CNN,17,10.1109/QRS.2017.42,,584,
+anjiperera,10.1145/3377811.3380389,stepping stones,TCA+,45,10.1109/ICSE.2013.6606584,,584,
+anjiperera,10.1145/3377811.3380389,method,processes to obtain the training and testing data,16,10.1145/2884781.2884804,,584,
+anjiperera,10.1145/3377811.3380436,method ,MMR,30,10.1145/290941.291025,,113,30
+anjiperera,10.1145/3377811.3380436,tool,ASM bytecode analysis framework,6,,https://asm.ow2.io/,113,
+anjiperera,10.1145/3377811.3380436,tool,Indri IR framework,8,,http://www.lemurproject.org/indri.php,113,
+anjiperera,10.1145/3377811.3380436,method,Gibbs sampling generative model,61,10.1145/1401890.1401960,,115,
+anjiperera,10.1145/3377811.3380436,method,BM25,82,,book/10.5555/1121636,115,
+anjiperera,10.1145/3377811.3380436,method,STARTS,50,10.1145/2950290.2950361,,116,
+anjiperera,10.1145/3377811.3380408,dataset,GHTorrent,20,10.1109/MSR.2013.6624034,,398,15
+anjiperera,10.1145/3377811.3380408,method,...classified the size of these projects into the following five bins...,47,10.1145/2858965.2814300,,399,
+anjiperera,10.1145/3377811.3380381,dataset,Simulink models corpus,14,10.1145/3196478.3196484,,341,25
+anjiperera,10.1145/3377811.3380381,stepping stones,SLForge,13,10.1145/3180155.3180231,https://github.com/verivital/slsf_randgen/wiki,341,
+anjiperera,10.1145/3377811.3380381,metrics,number of model blocks,47,10.1145/2993412.3004853,,341,
+anjiperera,10.1145/3377811.3380404,method,adapted methodologies of prior SO analysis work,10,10.1109/ICSME.2014.88,,1585,30
+anjiperera,10.1145/3377811.3380404,method,adapted methodologies of prior SO analysis work,37,10.1145/3210459.3210466,,1585,
+anjiperera,10.1145/3377811.3380404,method,SO question classification schemes,1,10.1109/ICSE.2019.00122,,"1585, 1588",
+anjiperera,10.1145/3377811.3380404,method,SO question classification schemes,9,10.1145/3196321.3196333,,"1585, 1588",
+anjiperera,10.1145/3377811.3380404,dataset,Google BigQuery,footnote 4,,https://cloud.google.com/blog/topics/public-datasets/google-bigquery-public-datasets-now-include-stack-overflow-q-a,1587,
+anjiperera,10.1145/3377811.3380404,tool,irr computational R package,17,,https://rdrr.io/cran/irr/,1588,
+anjiperera,10.1145/3377811.3380404,method,"concept of ""technical domain""",4,,https://researchbank.swinburne.edu.au/items/458ce762-3ba9-441c-a389-933640d828fb/1/,1591,
+anjiperera,10.1145/3377811.3380387,method,built on work of Johnson et al.,46,10.1109/ICSE.2013.6606613,,136,20
+anjiperera,10.1145/3377811.3380387,method,GT study is based on [21],21,10.1177/1077800414545235,,138,
+anjiperera,10.1145/3377811.3380387,method,3 stage pretesting process,30,,"Don A Dillman. 2011. Mail and Internet surveys: The tailored design method–2007 Update with new Internet, visual, and mixed-mode guide. John Wiley & Sons",138,
+anjiperera,10.1145/3377811.3380387,method,theoretical sampling,26,10.1046/j.1365-2648.1997.t01-25-00999.x,,138,
+anjiperera,10.1145/3377811.3380387,method,"constructivist grounded theory method, have 4 citations in the paper, [22] is the recent one",22,10.1111/j.2044-8295.2012.02104.x,,140,
+anjiperera,10.1145/3377811.3380387,method,to obtain inter-coder agreement,18,10.1177/0049124113500475,,141,
+anjiperera,10.1145/3377811.3380351,tool,word2vec model trained over 15GB of textual data from Stack Overflow posts,19,10.1145/3196398.3196448,,1437,20
+anjiperera,10.1145/3377811.3380351,tool,"psutil, github link in the paper is broken",41,,https://pypi.org/project/psutil/,1438,
+anjiperera,10.1145/3377811.3380351,tool,scikit-learn,39,,10.5555/1953048.2078195,1441,
+anjiperera,10.1145/3377811.3380351,tool,ScottKnottESD,footnote 10,,https://github.com/klainfo/ScottKnottESD,1442,
+afonsohfontes,10.1145/3377811.3380350,method,,27,10.1145/263699.263717,,,
+afonsohfontes,10.1145/3377811.3380350,stepping stones,,45,,abs/10.5555/3291168.3291172,,
+afonsohfontes,10.1145/3377811.3380350,tool,,12,,10.5555/1247360.1247401,,
+afonsohfontes,10.1145/3377811.3380350,tool,,41,,10.5555/3154601.3154607,,
+afonsohfontes,10.1145/3377811.3380351,tool,,19,10.1145/3196398.3196448,,,
+afonsohfontes,10.1145/3377811.3380381,dataset,,14,10.1145/3196478.3196484,,,
+afonsohfontes,10.1145/3377811.3380381,metrics,,47,10.1145/2993412.3004853,,,
+afonsohfontes,10.1145/3377811.3380381,stepping stones,,13,10.1145/3180155.3180231,,,
+afonsohfontes,10.1145/3377811.3380387,method,,46,10.1109/ICSE.2013.6606613,,,
+afonsohfontes,10.1145/3377811.3380387,method,,21,10.1177/1077800414545235,,,
+afonsohfontes,10.1145/3377811.3380387,method,,26,10.1046/j.1365-2648.1997.t01-25-00999.x,,,
+afonsohfontes,10.1145/3377811.3380387,method,,22,10.1111/j.2044-8295.2012.02104.x,,,
+afonsohfontes,10.1145/3377811.3380387,method,,18,10.1177/0049124113500475,,,
+afonsohfontes,10.1145/3377811.3380389,method,,19,10.1145/3065386,,,
+afonsohfontes,10.1145/3377811.3380389,method,,20,,10.5555/3045118.3045130,,
+afonsohfontes,10.1145/3377811.3380389,method,,68,10.1109/TPAMI.2018.2868685,,,
+afonsohfontes,10.1145/3377811.3380389,method,,16,10.1145/2884781.2884804,,,
+afonsohfontes,10.1145/3377811.3380389,metric,,69,,10.5555/2999134.2999269,,
+afonsohfontes,10.1145/3377811.3380389,sanity check,,74,,https://www.semanticscholar.org/paper/An-Overview-of-Convolutional-Neural-Network-for-Murphy/64db333bb1b830f937b47d786921af4a6c2b3233,,
+afonsohfontes,10.1145/3377811.3380389,stepping stones,,16,10.1145/2884781.2884804,,,
+afonsohfontes,10.1145/3377811.3380389,stepping stones,,75,10.1109/TSE.2018.2877612,,,
+afonsohfontes,10.1145/3377811.3380389,stepping stones,,17,10.1109/QRS.2017.42,,,
+afonsohfontes,10.1145/3377811.3380389,stepping stones,,45,10.1109/ICSE.2013.6606584,,,
+afonsohfontes,10.1145/3377811.3380404,method,,10,10.1109/ICSME.2014.88,,,
+afonsohfontes,10.1145/3377811.3380404,method,,37,10.1145/3210459.3210466,,,
+afonsohfontes,10.1145/3377811.3380404,method,,1,10.1109/ICSE.2019.00122,,,
+afonsohfontes,10.1145/3377811.3380404,method,,9,10.1145/3196321.3196333,,,
+afonsohfontes,10.1145/3377811.3380408,dataset,,20,10.1109/MSR.2013.6624034,,,
+afonsohfontes,10.1145/3377811.3380408,method,,47,10.1145/2858965.2814300,,,
+afonsohfontes,10.1145/3377811.3380417,stepping stones,,29,10.1145/2666356.2594299,,,
+afonsohfontes,10.1145/3377811.3380417,stepping stones,,54,10.1109/ICSE.2015.48,,,
+afonsohfontes,10.1145/3377811.3380417,tool,,52,,10.5555/2831143.2831205,,
+afonsohfontes,10.1145/3377811.3380436,method,,61,10.1145/1401890.1401960,,,
+afonsohfontes,10.1145/3377811.3380436,method,,50,10.1145/2950290.2950361,,,
+afonsohfontes,10.1145/3377811.3380436,method ,,30,10.1145/290941.291025,,,
+anjiperera,10.1145/3377811.3380402,stepping stones,sapienz,36,10.1145/2931037.2931054,,482,25
+anjiperera,10.1145/3377811.3380402,stepping stones,stoat,40,10.1145/3106237.3106298,,482,
+anjiperera,10.1145/3377811.3380402,tool,monkey,3,,https://developer.android.com/studio/test/monkey,482,
+anjiperera,10.1145/3377811.3380402,dataset,AndroTest benchmark,23,10.1145/2950290.2983958,,482,
+anjiperera,10.1145/3377811.3380402,tool,Emma coverage tool,9,,http://emma.sourceforge.net/,483,
+anjiperera,10.1145/3377811.3380402,tool,Ella coverage tool,8,,https://github.com/saswatanand/ella,483,
+anjiperera,10.1145/3377811.3380402,tool,pyvbox,11,,https://pypi.org/project/pyvbox/,485,
+anjiperera,10.1145/3377811.3380402,tool,Android UI automater,10,,https://developer.android.com/training/testing/ui-automator,485,
+anjiperera,10.1145/3377811.3380402,tool,ADB,5,,https://developer.android.com/studio/command-line/adb,485,
+anjiperera,10.1145/3377811.3380402,stepping stones,"monkey, random event sequence generator",3,,https://developer.android.com/studio/test/monkey,486,
+anjiperera,10.1145/3377811.3380402,dataset,IndustrialApps,42,10.1145/3238147.3240465,,486,
+anjiperera,10.1145/3377811.3380402,method,identify a unique crash from error stack,40,10.1145/3106237.3106298,,486,
+anjiperera,10.1145/3377811.3380364,tool,HoneyBadger,41,,10.5555/3361338.3361449,531,20
+anjiperera,10.1145/3377811.3380364,tool,Maian,32,10.1145/3274694.3274743,,531,
+anjiperera,10.1145/3377811.3380364,tool,Manticore,30,10.1109/ASE.2019.00133,,532,
+anjiperera,10.1145/3377811.3380364,tool,Mythril,31,,"Bernhard Mueller. 2018. Smashing ethereum smart contracts for fun and real profit. In 9th Annual HITB Security Conference (HITBSecConf). HITB, Amsterdam, Netherlands, 54",532,
+anjiperera,10.1145/3377811.3380364,tool,Osiris,40,10.1145/3274694.3274737,,532,
+anjiperera,10.1145/3377811.3380364,tool,Oyente,27,10.1145/2976749.2978309,,532,
+anjiperera,10.1145/3377811.3380364,tool,Securify,42,10.1145/3243734.3243780,,532,
+anjiperera,10.1145/3377811.3380364,tool,Slither,16,10.1109/WETSEB.2019.00008,,532,
+anjiperera,10.1145/3377811.3380364,tool,Smartcheck,39,10.1145/3194113.3194115,,532,
+anjiperera,10.1145/3377811.3380364,dataset,BigQuery,29,,https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics,533,
+anjiperera,10.1145/3377811.3380414,,,,,,,10
+anjiperera,10.1145/3377811.3380413,tool,Servo,3,10.1145/2889160.2889229,,250,15
+anjiperera,10.1145/3377811.3380415,method,optimisation problem for training a DNN,21,,arxiv:1706.06083,1150,45
+anjiperera,10.1145/3377811.3380415,tool,"models for GTSRB, FM, SVHN, IMDB datasets",28,,arxiv:1409.1556,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for GTSRB dataset,38,,https://github.com/chsasank/Traffic-Sign-Classification.keras,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for GTSRB dataset,39,,https://github.com/xitizzz/Traffic-Sign-Recognition-using-Deep-Neural-Network,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for FM dataset,36,,https://github.com/umbertogriffo/Fashion-mnist-cnn-keras,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for FM dataset,37,,https://github.com/markjay4k/Fashion-MNIST-with-Keras,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for CIFAR-10,44,10.5244/C.30.87,,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for CIFAR-10,13,10.1109/CVPR.2016.90,,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for CIFAR-10,30,10.1145/3180155.3180220,,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for SVHN,34,,https://github.com/yh1008/deepLearning,1152,
+anjiperera,10.1145/3377811.3380415,tool,models for IMDB,35,,https://github.com/abars/YoloKerasFaceDetection,1152,
+anjiperera,10.1145/3377811.3380415,method,restrict the space of allowed perturbations,8,,http://proceedings.mlr.press/v97/engstrom19a.html,1152,
+anjiperera,10.1145/3377811.3380415,tool,Keras,,,https://keras.io/,1153,
+anjiperera,10.1145/3377811.3380415,stepping stones,W-10,8,,arxiv:1712.02779,1153,
+anjiperera,10.1145/3377811.3380415,stepping stones,mixup,46,,arxiv:1710.09412,1154,
+anjiperera,10.1145/3377811.3380415,method,neuron-coverage,24,10.1145/3361566,,1156,
+anjiperera,10.1145/3377811.3380397,,,,,,,15
+anjiperera,10.1145/3377811.3380391,dataset,MNIST,45,,http://yann.lecun.com/exdb/mnist/,703,40
+anjiperera,10.1145/3377811.3380391,dataset,"CIFAR-10, link in paper is broken",1,,https://keras.io/api/datasets/cifar10/,703,
+anjiperera,10.1145/3377811.3380391,dataset,Udacity,2,,https://github.com/udacity/self-driving-car,703,
+anjiperera,10.1145/3377811.3380391,tool,Dave-2,13,,arxiv:1604.07316,703,
+anjiperera,10.1145/3377811.3380391,tool,LeNet,45,,http://yann.lecun.com/exdb/mnist/,703,
+anjiperera,10.1145/3377811.3380391,tool,"CIFAR-10, link in paper is broken",1,,https://keras.io/zh/examples/cifar10_cnn_tfaugment2d/,703,
+anjiperera,10.1145/3377811.3380391,method,layer-wise relevance propogation,11,10.1371/journal.pone.0130140,,"705, 708",
+anjiperera,10.1145/3377811.3380391,method,footnote 1,54,10.1016/j.patcog.2016.11.008,,705,
+anjiperera,10.1145/3377811.3380391,tool,keras,21,,https://keras.io/,707,
+anjiperera,10.1145/3377811.3380391,tool,Tensorflow,6,,10.5555/3026877.3026899,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,,18,10.1145/3128572.3140444,,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,,29,,arxiv:1412.6572,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,,44,,arxiv:1607.02533,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,,57,10.1109/EuroSP.2016.36,,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,neuron coverage,58,10.1145/3361566,,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,k-multisection neuron coverage,50,10.1145/3238147.3238202,,707,
+anjiperera,10.1145/3377811.3380391,stepping stones,surprise adequacy,43,10.1109/ICSE.2019.00108,,707,
+anjiperera,10.1145/3377811.3380391,method,FGSM,29,,arxiv:1412.6572,708,
+anjiperera,10.1145/3377811.3380391,method,BIM,44,,arxiv:1607.02533,708,
+anjiperera,10.1145/3377811.3380391,method,JSMA,57,10.1109/EuroSP.2016.36,,708,
+anjiperera,10.1145/3377811.3380391,method,C&W,19,10.1109/SP.2017.49,,708,
+anjiperera,10.1145/3377811.3380391,tool,Cleverhans,56,,arxiv:1610.00768,708,
+anjiperera,10.1145/3377811.3380374,method,,42,10.1109/ICSE.2015.334,,668,20
+anjiperera,10.1145/3377811.3380374,method,,19,10.1002/smr.1673,,668,
+anjiperera,10.1145/3377811.3380374,method,SAM,2,10.1016/0005-7916(94)90063-9,,669,
+anjiperera,10.1145/3377811.3380374,method,,15,10.1109/ACII.2017.8273589,,669,
+anjiperera,10.1145/3377811.3380374,dataset,DEAP,29,10.1109/T-AFFC.2011.15,,669,
+anjiperera,10.1145/3377811.3380374,tool,lme4,footnote 6,,https://cran.r-project.org/web/packages/lme4/index.html,670,
+anjiperera,10.1145/3377811.3380374,method,cvxEDA algorithm,20,10.1109/TBME.2015.2474131,,672,
+anjiperera,10.1145/3377811.3380374,tool,caret R package,31,,http://topepo.github.io/caret/index.html,673,
+anjiperera,10.1145/3377811.3380428,tool,KLEE,17,,10.5555/1855741.1855756,1236,15
+anjiperera,10.1145/3377811.3380428,tool,LLVM,48,,10.1109/CGO.2004.1281665,1236,
+anjiperera,10.1145/3377811.3380428,stepping stones,,78,10.1145/3314221.3314647,,1243,
+anjiperera,10.1145/3377811.3380339,tool,BERT,19,,arxiv:1810.04805,964,25
+anjiperera,10.1145/3377811.3380339,method,shift-reduce constituency parser,99,,https://aclanthology.org/P13-1043/,965,
+anjiperera,10.1145/3377811.3380339,tool,CoreNLP library,31,,https://stanfordnlp.github.io/CoreNLP/,965,
+anjiperera,10.1145/3377811.3380339,dataset,CWMT corpus,16,,http://nlp.nju.edu.cn/cwmt-wmt/,969,
+anjiperera,10.1145/3377811.3380339,tool,global attention,51,,arxiv:1508.04025,969,
+anjiperera,10.1145/3377811.3380339,tool,Adam optimiser,40,,arxiv:1412.6980,970,
+anjiperera,10.1145/3377811.3380339,metric,BLEU score,67,10.3115/1073083.1073135,,970,
+anjiperera,10.1145/3377811.3380339,dataset,WMT,85,,http://statmt.org/wmt17/translation-task.html,970,
+asslisa,10.1145/3377811.3380437,Tool,HW17,[23],10.1109/ESEM.2017.23,,14
+asslisa,10.1145/3377811.3380437,Dataset,TravisTorrent,[3],10.1109/MSR.2017.62,,16
+asslisa,10.1145/3377811.3380437,Metric,Filtering Criteria for toy projects,[27],10.1109/MSR.2017.30 ,,16
+asslisa,10.1145/3377811.3380437,Metric,Filtering Criteria for toy projects,[43],10.1109/MSR.2017.26,,16
+asslisa,10.1145/3377811.3380437,Statistical,LOD,[60],10.4103/2229-5186.79345,,16
+asslisa,10.1145/3377811.3380437,Metric,Correlated Features with all build failures,[27],10.1109/MSR.2017.30 ,,16
+asslisa,10.1145/3377811.3380437,Metric,Correlated Features with all build failures,[47],10.1109/MSR.2017.54,,16
+asslisa,10.1145/3377811.3380437,Method�,cold-start problem,[71],,https://en.wikipedia.org/w/index.php?title=Cold_start_(computing)&oldid=883021431,17
+asslisa,10.1145/3377811.3380437,Metric,Correlated features with all failures ,[23],10.1109/ESEM.2017.23,,18
+asslisa,10.1145/3377811.3380437,Method,Build-prediction techniques,[23] ,10.1109/ESEM.2017.23,,18
+asslisa,10.1145/3377811.3380437,Method,Build-prediction techniques,[43],10.1109/MSR.2017.26,,18
+asslisa,10.1145/3377811.3380437,Method,Build-prediction techniques,[73],10.1109/MSR.2017.26,,18
+asslisa,10.1145/3377811.3380377,Tool,EvoSuite,[26],10.1109/TSE.2012.14,,91
+asslisa,10.1145/3377811.3380377,Tool,PEACH ,,,https://github.com/MozillaSecurity/peach,91
+asslisa,10.1145/3377811.3380377,Tool,FUZZER,,,https://github.com/mapbox/fuzzer ,91
+asslisa,10.1145/3377811.3380377,Tool,InTrace,[36],,https://mchr3k.github.io/org.intrace/,92
+asslisa,10.1145/3377811.3380377,Dataset,Defects4J benchmark,[45],10.1145/2610384.2628055,,94
+asslisa,10.1145/3377811.3380342,Dataset,The Java Corpus,[6],10.1109/MSR.2013.6624029 ,,1083
+asslisa,10.1145/3377811.3380342,Dataset,The Java Corpus,[41],10.1145/3106237.3106290,10.7488/ds/1690,1083
+asslisa,10.1145/3377811.3380342,Dataset,The C Corpus,[29],,10.5281/zenodo.3628775,1083
+asslisa,10.1145/3377811.3380342,Dataset,The Python Corpus,[31],,10.5281/zenodo.3628784,1083
+asslisa,10.1145/3377811.3380342,Replication,Similar Experiment,[75],10.1145/2884781.2884848,,1074
+asslisa,10.1145/3377811.3380342,Tool,Java Lexer,[41],10.1145/3106237.3106290,https://github.com/SLP-team/SLP-Core,1076
+asslisa,10.1145/3377811.3380342,Tool,Pygments Library ,,,http://pygments.org/docs/lexers/,1076
+asslisa,10.1145/3377811.3380342,Method�,Word Splitting,[3],10.1145/2786805.2786849,,1077
+asslisa,10.1145/3377811.3380342,Tool,Byte Pair Encoding (BPE) Algorithm,[34],,10.5555/177910.177914,1077
+asslisa,10.1145/3377811.3380342,Replication,GRU,[56],10.18653/v1/P18-1027,,1078
+asslisa,10.1145/3377811.3380342,Tool,BPE Implementation,,,https://github.com/rsennrich/subword-nmt,1078
+asslisa,10.1145/3377811.3380342,Method�,Code Completion Scenarios ,[41],10.1145/3106237.3106290,,1080
+asslisa,10.1145/3377811.3380342,Tool,n-gram Implementation,[41],10.1145/3106237.3106290,https://github.com/SLP-team/SLP-Core,1080
+asslisa,10.1145/3377811.3380342,Dataset,Defects4j dataset,[53],10.1145/2610384.2628055,,1082
+asslisa,10.1145/3377811.3380341,Method ,Typestate Analysis ,[61],10.1109/TSE.1986.6312929,,1448
+asslisa,10.1145/3377811.3380341,Tool,Checker Framework ,[50],10.1145/1390630.1390656,,1453
+asslisa,10.1145/3377811.3380341,Tool,Object Construction Checker ,,,https://github.com/kelloggm/object-construction-checker,1453
+asslisa,10.1145/3377811.3380324,Tool,OCL,[37],,http://www.eclipse.org/modeling/mdt/?project= ocl,1497
+asslisa,10.1145/3377811.3380324,Tool,Modisco,[36],,http://www.eclipse.org/modeling/mdt/?project=modisco,1497
+asslisa,10.1145/3377811.3380324,Tool,Papyrus,[38],,http://www.eclipse.org/modeling/mdt/?project=papyrus,1497
+asslisa,10.1145/3377811.3380324,Method,Impact Analysis,[22],10.5381/jot.2012.11.3.a3,,1500
+asslisa,10.1145/3377811.3380324,Tool,JDT API,,,https://www.eclipse.org/jdt/core/,1501
+asslisa,10.1145/3377811.3380355,Statistical ,ANOVA F-test,[30],10.1093/bioinformatics/btm344,,227
+asslisa,10.1145/3377811.3380355,Method ,Structural Similarity Index Method (SSIM),[41],10.1109/TIP.2003.819861,,228
+asslisa,10.1145/3377811.3380355,Tool,Tree Edit Distance ,[45],10.1137/0218082,,228
+asslisa,10.1145/3377811.3380355,Tool,V8 Engine ,[6],,https://v8.dev/,228
+asslisa,10.1145/3377811.3380329,Tool,Blender ,[17],,https://www.blender.org,76
+asslisa,10.1145/3377811.3380329,Tool,Assimp,[5],,http://www.assimp.org,76
+asslisa,10.1145/3377811.3380329,Tool,Appleseed,[43],,https://appleseedhq.net,76
+asslisa,10.1145/3377811.3380329,Tool,JQ,[15],,https://stedolan.github. io/jq/,76
+asslisa,10.1145/3377811.3380329,Tool,JSON-Simple,[30],,https://github.com/fangyidong/ json-simple,76
+asslisa,10.1145/3377811.3380329,Tool,Minimal-JSON ,[51],,https://github.com/ralfstx/minimal-json,76
+asslisa,10.1145/3377811.3380329,Tool,Graphviz,[47],,https: //www.graphviz.org/,76
+asslisa,10.1145/3377811.3380329,Tool,Gephi,[19],,https://gephi.org/,76
+asslisa,10.1145/3377811.3380329,Dataset,ANTLR Grammar Repository,[20],,https://github.com/antlr/ grammars-v4,76
+asslisa,10.1145/3377811.3380329,Tool,Github API for crawling,[27],,https://developer.github.com/v3/,76
+asslisa,10.1145/3377811.3380329,Metric,Levenshtein Distance ,[34],,,79
+asslisa,10.1145/3377811.3380329,Tool,ANTLR 4.5 Parser Generator Framework,[44],,http://www.antlr.org,82
+asslisa,10.1145/3377811.3380329,Tool,The Delta Debugging Algorithm,[56],10.1109/32.988498,,83
+asslisa,10.1145/3377811.3380348,Method,Functional Magnetic Resonance Imaging (fMRI),[44],10.1016/j.nec.2010.11.001,,679
+asslisa,10.1145/3377811.3380348,Tool,Turing's Craft,[3],,https://www.turingscraft.com/,681
+asslisa,10.1145/3377811.3380348,Method,The Canonical Hemodynamic Response Function,[77],10.1073/pnas.87.24.9868,,683
+asslisa,10.1145/3377811.3380348,Method,Robust Weighted Least Squares (rWLS),[32],10.1016/j.neuroimage.2005.04.039,,683
+asslisa,10.1145/3377811.3380348,Tool,The Standard Brodmann Anatomical Classification System ,[43],,,683
+asslisa,10.1145/3377811.3381749,Method ,Flaky Tests,[10] ,,https://martinfowler. com/articles/nonDeterminism.html,1471
+asslisa,10.1145/3377811.3381749,Method ,Flaky Tests,[20],10.1145/2635868.2635920,,1471
+asslisa,10.1145/3377811.3381749,Replication,Flaky Tests of Prior Studies,[20],10.1145/2635868.2635920,,1472
+asslisa,10.1145/3377811.3381749,Replication,Flaky Tests of Prior Studies,[25],10.1109/ICSME.2017.12,,1472
+asslisa,10.1145/3377811.3381749,Dataset,The Flaky Tests Lifecycle Data,[4],,https://github.com/ winglam/flaky-test-lifecycle-data,1472
+asslisa,10.1145/3377811.3381749,Tool,CloudBuild,[9],10.1145/2889160.2889222,,1472
+asslisa,10.1145/3377811.3381749,Tool,Azure Data Explorer,[1],,https://docs.microsoft.com/en-us/azure/dataexplorer,1473
+asslisa,10.1145/3377811.3380433,Dataset,Stack Overflow Post Dataset Released on 5 Jun 2018,[1],,https://archive.org/details/stackexchange,914
+asslisa,10.1145/3377811.3380433,Method,Open Card Sorting,[37],10.1145/2786805.2786809,,914
+asslisa,10.1145/3377811.3380433,Metric,Inter-coder Agreement,[6],10.1162/coli.07-034-R2,,915
+asslisa,10.1145/3377811.3380433,Metric,Inter-coder Agreement,[32],,,915
+asslisa,10.1145/3377811.3380433,Statistical�,Krippendorff's alpha,[6],10.1162/coli.07-034-R2,,915
+asslisa,10.1145/3377811.3380433,Statistical�,Krippendorff's alpha,[31],,,915
+asslisa,10.1145/3377811.3380433,Statistical�,Krippendorff's alpha,[32],,https://repository.upenn.edu/asc_papers/43,915
+asslisa,10.1145/3377811.3380433,Tool,Java Abstract Syntax Tree Parser ,[25],,https://javaparser.org/,918
+asslisa,10.1145/3377811.3380433,Tool,Symbolic Link Resolver Java Parser ,[25],,https://javaparser.org/,918
+asslisa,10.1145/3377811.3380433,Tool,Hibernate,[53],,http://hibernate.org/orm,920
+asslisa,10.1145/3377811.3380433,Tool,Jackson,[24],,https://github.com/FasterXML/jackson,920
+asslisa,10.1145/3377811.3380433,Tool,Junit,[26],,https://junit.org/junit4,920
+asslisa,10.1145/3377811.3380433,Tool,Apache Log4j,[5],,https://github.com/apache/logging-log4j2,920
+aysetosun,10.1145/3377811.3380324,dataset,OCL,37,,http://www.eclipse.org/modeling/mdt/?project=ocl,1497
+aysetosun,10.1145/3377811.3380324,dataset,Modisco,36,,http://www.eclipse.org/modeling/mdt/?project=modisco,1497
+aysetosun,10.1145/3377811.3380324,dataset,Papyrus,38,,http://www.eclipse.org/modeling/mdt/?project=papyrus,1497
+aysetosun,10.1145/3377811.3380324,method,code impact analysis based on AST,22,10.5381/jot.2012.11.3.a3,,1500
+aysetosun,10.1145/3377811.3380329,dataset,Blender,17,,https://www.blender.org,76
+aysetosun,10.1145/3377811.3380329,dataset,Assimp,5,,http://www.assimp.org,76
+aysetosun,10.1145/3377811.3380329,dataset,Appleseed,43,,https://appleseedhq.net,76
+aysetosun,10.1145/3377811.3380329,dataset,JQ,15,,https://stedolan.github.io/jq/,76
+aysetosun,10.1145/3377811.3380329,dataset,JSON-Simple,30,,https://github.com/fangyidong/ json-simple,76
+aysetosun,10.1145/3377811.3380329,dataset,Minimal-JSON,51,,https://github.com/ralfstx/minimal-json,76
+aysetosun,10.1145/3377811.3380329,dataset,Graphviz,47,,https://www.graphviz.org/,76
+aysetosun,10.1145/3377811.3380329,dataset,Gephi,19,,https://gephi.org/,76
+aysetosun,10.1145/3377811.3380329,dataset,ANTLR Grammar repository,20,,https://github.com/antlr/ grammars-v4,76
+aysetosun,10.1145/3377811.3380329,dataset,Wave OBJ grammar,42,,https://www.cs.utah.edu/~boulos/cs3505/obj_spec.pdf,76
+aysetosun,10.1145/3377811.3380329,dataset,JSON grammar,11,,https://www.json.org/,76
+aysetosun,10.1145/3377811.3380329,dataset,DOT grammar,31,,https://www.ocf.berkeley.edu/~eek/index.html/tiny_examples/thinktank/src/gv1.7c/doc/dotguide.pdf,76
+aysetosun,10.1145/3377811.3380329,tool,ddmin,56,10.1109/32.988498,,83
+aysetosun,10.1145/3377811.3380329,tool,Python ImageHash library,7,,https://pypi.org/project/ImageHash/,80
+aysetosun,10.1145/3377811.3380329,tool,ANTLR error recovery strategy,44,,http://www.antlr.org,82
+aysetosun,10.1145/3377811.3380341,tool,Lombok code generation library,66,,https://projectlombok.org/,1449
+aysetosun,10.1145/3377811.3380341,tool,AutoValue annotation processor,12,,https://github.com/google/auto/tree/master/value,1449
+aysetosun,10.1145/3377811.3380341,tool,Java atop the Checker framework,50,10.1145/1390630.1390656,,1453
+aysetosun,10.1145/3377811.3380341,method,Checker's constant propagation analysis,19,,http://CheckerFramework.org/.,1453
+aysetosun,10.1145/3377811.3380342,method,experiment by Ray et al.,75,10.1145/2884781.2884848,,1074
+aysetosun,10.1145/3377811.3380342,dataset,Java Github corpus of Allamanis et al.,6,10.1109/MSR.2013.6624029,,1075
+aysetosun,10.1145/3377811.3380342,dataset,C corpus,29,10.5281/zenodo.3628775,,1076
+aysetosun,10.1145/3377811.3380342,dataset,Python corpus,31,10.5281/zenodo.3628784,,1076
+aysetosun,10.1145/3377811.3380342,tool,Java lexer,41,10.1145/3106237.3106290,https://github.com/SLP-team/SLP-Core,1076
+aysetosun,10.1145/3377811.3380342,tool,Pygments library,,,http://pygments.org/docs/lexers/ ,1076
+aysetosun,10.1145/3377811.3380342,method,experiment procedure ,41,10.1145/3106237.3106290,,1076
+aysetosun,10.1145/3377811.3380342,tool,BPE algorithm for data compression - evaluation,34,,10.5555/177910.177914,1077
+aysetosun,10.1145/3377811.3380342,statistics,learning rate and dropout of the GRU NLM,80,,,1078
+aysetosun,10.1145/3377811.3380342,method,unrolling GRU for 200 timesteps,56,10.18653/v1/P18-1027,,1078
+aysetosun,10.1145/3377811.3380342,method,pair merging strategy that cross token boundaries,79,,,1078
+aysetosun,10.1145/3377811.3380342,method,code completion scenarios,41,10.1145/3106237.3106290,,1080
+aysetosun,10.1145/3377811.3380342,tool,standard n-gram LMs,44,10.1109/ICSE.2012.6227135,,1080
+aysetosun,10.1145/3377811.3380342,tool,cache LMs,81,10.1145/2635868.2635875,,1080
+aysetosun,10.1145/3377811.3380342,tool,n-gram LMs with nested caching,41,10.1145/3106237.3106290,,1080
+aysetosun,10.1145/3377811.3380342,tool,token-level NLMs,88,10.1109/MSR.2015.38,,1080
+aysetosun,10.1145/3377811.3380342,tool,heuristic splitting NLMs,3,10.1145/2786805.278684,,1080
+aysetosun,10.1145/3377811.3380342,method,n-gram implementation,,,https://github.com/SLP-team/SLP-Core,1080
+aysetosun,10.1145/3377811.3380342,dataset,Defects4j,53,10.1145/2610384.2628055,,1082
+aysetosun,10.1145/3377811.3380348,dataset,Turing's Craft code stimuli,3,,https://www.turingscraft.com/,681
+aysetosun,10.1145/3377811.3380348,dataset,short programming exercises library,2,10.1145/384267.305835,,681
+aysetosun,10.1145/3377811.3380348,tool,preprocessing pipeline using Statistical Parametric Mapping 12 Matlab package,115,,https://www.fil.ion.ucl.ac.uk/spm/,683
+aysetosun,10.1145/3377811.3380348,method,spatially-normalization to MINI152 template,69,10.1016/S1361-8415(01)80026-8,,683
+aysetosun,10.1145/3377811.3380348,method,canonical hemodynamic response function,77,10.1073/pnas.87.24.9868,,683
+aysetosun,10.1145/3377811.3380348,method,robust weighted least squares,32,10.1016/j.neuroimage.2005.04.039,,683
+aysetosun,10.1145/3377811.3380348,method,cytoarchitectural similarity,43,10.1007/b138298,,
+aysetosun,10.1145/3377811.3380355,tool,Balanced RF,14,,https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf,227
+aysetosun,10.1145/3377811.3380355,tool,weighted SVM,10,10.1007/978-3-540-30115-8_7,,227
+aysetosun,10.1145/3377811.3380355,tool,weighted LR,46,10.1145/1007730.1007741,,227
+aysetosun,10.1145/3377811.3380355,method,Structural Similarity Index Method,41,10.1109/TIP.2003.819861,,228
+aysetosun,10.1145/3377811.3380355,tool,Tree Edit Distance algorithm,45,10.1137/0218082,,228
+aysetosun,10.1145/3377811.3380355,tool,DBSCAN,18,,10.5555/3001460.3001507,228
+aysetosun,10.1145/3377811.3380355,tool,Puppeteer library,4,,https://pptr.dev/,228
+aysetosun,10.1145/3377811.3380355,tool,V8 engine,6,,https://v8.dev/,228
+aysetosun,10.1145/3377811.3380377,dataset,Defects4j,45,10.1145/2610384.2628055,,94
+aysetosun,10.1145/3377811.3380377,tool,EvoSuite,26,10.1109/TSE.2012.14,,91
+aysetosun,10.1145/3377811.3380377,tool,Peach,,,https://github.com/MozillaSecurity/peach,91
+aysetosun,10.1145/3377811.3380377,tool,Fuzzer,,,https://github.com/mapbox/fuzzer,91
+aysetosun,10.1145/3377811.3380377,tool,InTrace,36,,https://mchr3k.github.io/org.intrace/,92
+aysetosun,10.1145/3377811.3380433,dataset,Stack Overflow post dataset,1,,https://archive.org/details/stackexchange,914
+aysetosun,10.1145/3377811.3380433,tool,NLTK toolkit,2,,https://nltk.org,914
+aysetosun,10.1145/3377811.3380433,method,open card sorting,37,10.1145/2786805.2786809,,914
+aysetosun,10.1145/3377811.3380433,statistics,Krippendorff's alpha and 0.8 threshold,32,,https://repository.upenn.edu/asc_papers/43,915
+aysetosun,10.1145/3377811.3380433,tool,Java AST parser and symbolic link resolver,25,,https://javaparser.org/,918
+aysetosun,10.1145/3377811.3380437,tool,HW17 technique as state of the art,23,10.1109/ESEM.2017.23,,14
+aysetosun,10.1145/3377811.3380437,dataset,Travis Torrent,3,10.1109/MSR.2017.62,,16
+aysetosun,10.1145/3377811.3380437,method,project filtering,27,10.1109/MSR.2017.30,,16
+aysetosun,10.1145/3377811.3380437,method,LOD to remove outliers,60,10.4103/2229-5186.79345,,16
+aysetosun,10.1145/3377811.3380437,method,project filtering,43,10.1109/MSR.2017.26,,16
+aysetosun,10.1145/3377811.3380437,metric,Correlated Features with all build failures,27,10.1109/MSR.2017.30,,16
+aysetosun,10.1145/3377811.3380437,metric,Correlated Features with all build failures,47,10.1109/MSR.2017.54,,16
+aysetosun,10.1145/3377811.3380437,metric,Correlated Features with all failures,23,10.1109/ESEM.2017.23,,18
+aysetosun,10.1145/3377811.3381749,method,flaky test category - Async Wait,20,10.1145/2635868.2635920,,1472
+aysetosun,10.1145/3377811.3381749,method,flaky test category - Async Wait,25,10.1109/ICSME.2017.12,,1472
+aysetosun,10.1145/3377811.3381749,tool,Azure data explorer for suppression of files of Flakes,1,,https://docs.microsoft.com/en-us/azure/dataexplorer,1473
+aysetosun,10.1145/3377811.3381749,method,asynchronous code testing,10,,https://martinfowler.com/articles/nonDeterminism.html,1471
+aaleti,10.1145/3324884.3416569,tool, MiniSAT v2.1.1,11,10.1007/978-3-540-24605-3_37,,7
+aaleti,10.1145/3324884.3416569,tool,EDUCIBone tool ,43,10.1109/TASE.2017.8285627,,9
+aaleti,10.1145/3324884.3416569,sanity check,configuration,43,10.1109/TASE.2017.8285627,,9
+aaleti,10.1145/3324884.3416569,dataset," SAT competitions of 2014, the SATLIB benchmark and the ISCAS85 librarie",39,10.1145/2975585,,11
+aaleti,10.1145/3324884.3416631,method,model- driven trace checking,19,10.1109/MODELS.2017.9,,1005
+aaleti,10.1145/3324884.3416631,method,SBTP proposed in a recent taxonomy ,11,,http://arxiv.org/abs/1910.08330,1006
+aaleti,10.1145/3324884.3416631,method,OMG,43,,http://www.omg.org/spec/OCL/ISO/,1007
+aaleti,10.1145/3324884.3416631,sanity check,checking linear temporal logic properties,19,10.1109/MODELS.2017.9,,1007
+aaleti,10.1145/3324884.3416631,sanity check,properties with temporal aggregations,10,10.5381/jot.2019.18.2.a15,,1007
+aaleti,10.1145/3324884.3416633,method,Transformer architecture of Vaswani et al.,64,,https://arxiv.org/abs/1706.03762,1018
+aaleti,10.1145/3324884.3416633,method, split the program as proposed by Zhang et al. [,68,10.1109/ICSE.2019.00086,,1020
+aaleti,10.1145/3324884.3416633,method,abstract syntax tree (AST),11,10.1109/ICSM.1998.738528,,1020
+aaleti,10.1145/3324884.3416633,dataset, 5687 programs taken from the software verification competition SV-COMP 2018,14,10.1007/978-3-030-03421-4_11,,1022
+aaleti,10.1145/3324884.3416633,method,tune hyper-parameter via Bayesian Optimization,2,10.1145/3292500.3330701,,1023
+aaleti,10.1145/3324884.3416633,tool,CLANG C compiler frontend,footnote 5,,https://clang.llvm.org/,1023
+aaleti,10.1145/3324884.3416553,dataset,11714 frequently-used real-world contracts,2,,https://etherscan.io/,1032
+aaleti,10.1145/3324884.3416553,method,CFG adopted from SlithIR,20,10.1109/WETSEB.2019.00008,,1034
+aaleti,10.1145/3324884.3416553,method,8 variables and 14 types of operations in SlitherIR,41,,https://github.com/crytic/slither/wiki/,1035
+aaleti,10.1145/3324884.3416553,dataset,public Google BigQuery dataset,23,,https://cloud.google.com/,1036
+aaleti,10.1145/3324884.3416635,tool,Coccinelle,8,,10.5555/3277355.3277413,108
+aaleti,10.1145/3324884.3416635,dataset,Linux kernel,23,10.1145/3280986,,108
+aaleti,10.1145/3324884.3416609,dataset,MNIST,18,,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf,1043
+aaleti,10.1145/3324884.3416609,dataset,CIFAR-10,21,,http://yann.lecun.com/exdb/mnist/,1043
+aaleti,10.1145/3324884.3416609,dataset, FashionMNIST,53,,arXiv:cs.LG/cs.LG/1708.07747,1043
+aaleti,10.1145/3324884.3416609,tool,Baseline,15,,http://arxiv.org/abs/1610.02136,1043
+aaleti,10.1145/3324884.3416609,tool,Odin,24,,https://openreview.net/forum?id=H1VGkIxRZ,1043
+aaleti,10.1145/3324884.3416609,tool,Mahalanobis,23,,http://papers.nips.cc/paper/7947-,1043
+aaleti,10.1145/3324884.3416609,tool,Outlier Exposure,16,,https://openreview.net/forum?id=HyxCxhRcY7,1043
+aaleti,10.1145/3324884.3416609,tool,Likelihood-Ratio,40,,https://openreview.net/forum?id=SyxIWpVYvr,1043
+aaleti,10.1145/3324884.3416609,metric,AUROC,14,,http://www.ncbi.nlm.nih.gov/pubmed/7063747,1044
+aaleti,10.1145/3324884.3416609,stepping stones,DeepTest,48,,http://arxiv.org/abs/1708.08559,1044
+aaleti,10.1145/3324884.3416609,stepping stones,DeepHunter,55,10.1145/3293882.3330579,,1044
+aaleti,10.1145/3324884.3416609,stepping stones,TensorFuzz,33,,https://arxiv.org/abs/1807.10875,1044
+aaleti,10.1145/3324884.3416584,tool, YOLACT,7,,https://github.com/dbolya/yolact,1057
+aaleti,10.1145/3324884.3416584,sanity check,empirical evidence,14,,arXiv:1904.02689,1057
+aaleti,10.1145/3324884.3416584,method,average hash,40,,http://www.hackerfactor.com/blog/index.php?/archives/432- Looks- Like- It.html,1058
+aaleti,10.1145/3324884.3416584,dataset, COCO image set ,45,10.1007/978-3-319-10602-1_48,,1058
+aaleti,10.1145/3324884.3416584,tool, models are disclosed by Google,3,,https://cloud.google.com/solutions/,1059
+aaleti,10.1145/3324884.3416584,tool,Amazon Rekognintion API,1,,https://aws.amazon.com/rekognition/,1060
+aaleti,10.1145/3324884.3416584,tool,Google AutoML Vision API,2,,https://cloud.google.com/vision/docs/detecting-objects,1060
+aaleti,10.1145/3324884.3416584,tool,Microsoft Azure Vision API,3,,https://cloud.google.com/solutions/creating- object- detection- application- tensorflow,1060
+aaleti,10.1145/3324884.3416584,tool,IBM Vision API,6,,https://developer.ibm.com/exchanges/models/all/max-object-detector//,1060
+aaleti,10.1145/3324884.3416584,tool,TensorFlow SSD Mobilenet,37,,https://arxiv.org/abs/1704.04861,1060
+aaleti,10.1145/3324884.3416584,tool,TensorFlow SSD Inception ,47,10.1007/978-3-319-46448-0_2,,1060
+aaleti,10.1145/3324884.3416584,tool,TensorFlow faster RCNN Resnet,29,,https://arxiv.org/abs/1504.08083,1060
+aaleti,10.1145/3324884.3416584,tool,TensorFlow faster RCNN Inception Resnet,72,,https://arxiv.org/abs/1512.00567,1060
+aaleti,10.1145/3324884.3416567,tool,Monkey,5,,https://developer.android.com/studio/test/monkey,1068
+aaleti,10.1145/3324884.3416567,dataset,F-droid ,18,,https://f-droid.org,1068
+aaleti,10.1145/3324884.3416567,tool,JaCoCo ,29,,https://www.eclemma.org/jacoco,1068
+aaleti,10.1145/3324884.3416567,tool,Android 4.4 KitKat ,-,,https://www.android.com/intl/en_au/versions/kit-kat-4-4/,1074
+aaleti,10.1145/3324884.3416623,dataset,GHTorrent database,28,10.1109/MSR.2013.6624034,,1081
+aaleti,10.1145/3324884.3416623,dataset,AndroZoo,17,,https://f-droid.org,1081
+aaleti,10.1145/3324884.3416623,dataset,F-droid ,3,10.1145/2901739.2903508,,1081
+aaleti,10.1145/3324884.3416623,sanity check,Cruz et al.,13,10.1007/s10664-019-09701-0,,1086
+aaleti,10.1145/3324884.3416630,method,Signal Temporal Logic,31,10.1007/978-3-540-30206-3_12,,1092
+aaleti,10.1145/3324884.3416630,method,variable- specific method ,9,10.1145/2635868.2635927,,1093
+aaleti,10.1145/3324884.3416630,method,variable- specific method ,49,10.1145/3106237.3106302,,1093
+aaleti,10.1145/3324884.3416630,tool,PX4,23,,https://px4.io,1096
+aaleti,10.1145/3324884.3416630,statistics,regression discontinuity analysis,8,10.1080/19345747.2011.578707,,1098
+aaleti,10.1145/3324884.3416630,statistics,regression discontinuity analysis,17,,https://www.scholars.northwestern.edu/en/publications/the-design-and-conduct-of-true-experiments-and-quasi-experiments--2,1098
+aaleti,10.1145/3324884.3416630,statistics,regression discontinuity analysis,44,10.1037/h0044319,,1098
+tugcecoskunn,10.1145/3324884.3416621,method,image transformation strategies,44,10.1145/3180155.3180220,,2
+tugcecoskunn,10.1145/3324884.3416621,method,adversarial attack strategies,17,10.1109/ICSE.2019.00108,,2
+tugcecoskunn,10.1145/3324884.3416621,dataset,MNIST,19,,http://yann.lecun.com/exdb/mnist/.,5
+tugcecoskunn,10.1145/3324884.3416621,dataset,CIFAR10,32,,http://www.cs.toronto.edu/~kriz/cifar.html.,5
+tugcecoskunn,10.1145/3324884.3416621,dataset,SVHN,31,,http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf,5
+tugcecoskunn,10.1145/3324884.3416621,method,DenseNet,15,10.1109/CVPR.2017.243,,5
+tugcecoskunn,10.1145/3324884.3416621,method,RCNN,22,10.1109/CVPR.2015.7298958,,5
+tugcecoskunn,10.1145/3324884.3416621,method,AAL (Adaptive Active Learning),20,10.1109/CVPR.2013.116,,6
+tugcecoskunn,10.1145/3324884.3416621,method,CES,21,10.1145/3338906.3338930,,6
+tugcecoskunn,10.1145/3324884.3416621,method,SADL,17,10.1109/ICSE.2019.00108,,6
+tugcecoskunn,10.1145/3324884.3416621,method,Wilcoxon rank-sum test,5,10.1016/J.SPL.2011.04.001,,7
+tugcecoskunn,10.1145/3324884.3416616,dataset,the dataset proposed by Zhang et al.,62,10.1145/3338906.3338917,,2
+tugcecoskunn,10.1145/3324884.3416616,method,the acceptable build time is 10 minutes,27,10.1145/3106237.3106270,,2
+tugcecoskunn,10.1145/3324884.3416616,method,the acceptable build time is 10 minutes,19,,http://martinfowler.com/articles/ originalContinuousIntegration.html,2
+tugcecoskunn,10.1145/3324884.3416616,method, it reuses the classifiers,45,10.1145/3183440.3195012,,10
+tugcecoskunn,10.1145/3324884.3416564,method,"the mean of this distribution is a vector p,",4,,https://en.wikipedia.org/wiki/Categorical_distribution,4
+tugcecoskunn,10.1145/3324884.3416564,method,Markov Decision Process (MDP),45,10.1002/9780470316887,,4
+tugcecoskunn,10.1145/3324884.3416564,method,word embedding vectors GloVe,44,10.3115/v1/D14-1162,,8
+tugcecoskunn,10.1145/3324884.3416564,method,the same configurations,33,,arXiv:1905.07387v1,8
+tugcecoskunn,10.1145/3324884.3416564,method,to reduce the data dimension to ? major components,20,10.1145/3338906.3338954,,8
+tugcecoskunn,10.1145/3324884.3416539,method,using the open coding method,20,,https://books.google.com.tr/books?id=gX1ZDwAAQBAJ&dq=Qualitative+inquiry+and+research+design:+Choosing+among+five+approaches+2016&hl=tr&lr=,4
+tugcecoskunn,10.1145/3324884.3416539,method,the empirical findings in existing studies,32,10.1109/QSIC.2014.19,,6
+tugcecoskunn,10.1145/3324884.3416539,method,the empirical findings in existing studies,36,10.1007/s10664-018-9663-0,,6
+tugcecoskunn,10.1145/3324884.3416539,method,the median solution,39,,https://books.google.com.tr/books/about/Understanding_Statistics.html?id=vXzWG09_SzAC&redir_esc=y,7
+tugcecoskunn,10.1145/3324884.3416539,method,under-sampling techniques,29,,https://www.site.uottawa.ca/~nat/Workshop2003/jzhang.pdf,7
+tugcecoskunn,10.1145/3324884.3416539,tool,EvoSuite,22,10.1145/2025113.2025179,,8
+tugcecoskunn,10.1145/3324884.3416539,method,Mann-Whitney U-Test,30,10.1214/AOMS/1177730491,,8
+tugcecoskunn,10.1145/3324884.3416612,tool,"D??????A ,  a state of the art SBST algorithm",52,10.1109/TSE.2017.2663435,,2
+tugcecoskunn,10.1145/3324884.3416612,tool,"the Schwa, as the defect predictor module",14,,https://sigarra.up.pt/fep/en/pub_geral.show_file?pi_doc_id=43612,3
+tugcecoskunn,10.1145/3324884.3416612,method,a time weighted risk (TWR),42,10.1109/ICSE.2013.6606583,,3
+tugcecoskunn,10.1145/3324884.3416612,tool,EvoSuite,19,10.1109/QSIC.2011.19,,5
+tugcecoskunn,10.1145/3324884.3416612,method,Mann-Whitney U-Test with the significance level (?) 0.05,5,10.1002/stvr.1486,,5
+tugcecoskunn,10.1145/3324884.3416612,method,Vargha and Delaney�s ?b12 statistic,60,10.3102/10769986025002101,,5
+tugcecoskunn,10.1145/3324884.3416612,dataset,Defects4J dataset,38,,https://github.com/rjust/defects4j,6
+tugcecoskunn,10.1145/3324884.3416612,statistical,"EvoSuite in previous work [20, 52] except for the following parameters.",20,10.1109/TSE.2012.14,,6
+tugcecoskunn,10.1145/3324884.3416551,method,"Following treatments in [16, 19] , declaration-based heuristic [16]",16,10.1109/ICSME.2018.00028,,4
+tugcecoskunn,10.1145/3324884.3416551,method,"Following treatments in [16, 19]",19,10.1145/3338906.3338971,,4
+tugcecoskunn,10.1145/3324884.3416551,tool,Stanford CoreNLP,21,10.3115/v1/P14-5010,,5
+tugcecoskunn,10.1145/3324884.3416551,method,the continuous skip-gram mode,22,,arXiv:1310.4546,6
+tugcecoskunn,10.1145/3324884.3416551,method,"a statistical sampling method, MIN",35,,,8
+tugcecoskunn,10.1145/3324884.3416551,method,MuBench,3,10.1145/2901739.2903506,,8
+tugcecoskunn,10.1145/3324884.3416591,metric,compare their model with Byte Pair Encoding based Neural Language Model (BPE NLM) ,25,10.1145/3377811.3380342,,3
+tugcecoskunn,10.1145/3324884.3416591,metric,compare their model with Pointer Mixture Network,27,10.24963/ijcai.2018/578,,3
+tugcecoskunn,10.1145/3324884.3416591,metric,compare their model with Transformer-XL,8,10.18653/v1/P19-1285,,7
+tugcecoskunn,10.1145/3324884.3416571,tool,Genetic Algorithm (GA),52,10.1145/2955129.2955178,,3
+tugcecoskunn,10.1145/3324884.3416571,method,adversarial attack techniques: logits layer,7,10.1109/SP.2017.49,,5
+tugcecoskunn,10.1145/3324884.3416571,method,adversarial attack techniques: logits layer,15,,arXiv:1412.6572,5
+tugcecoskunn,10.1145/3324884.3416571,method,to measure the output change of certain layer,34,10.1109/ICSE.2019.00107,,5
+tugcecoskunn,10.1145/3324884.3416571,tool,the state-of-the-art model converter MMdnn ,27,,https://github.com/Microsoft/MMdnn,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,LeNet-5,23,10.1109/5.726791,,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,MNIST,24,,http://yann.lecun.com/exdb/mnist/,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,ResNet 20 ,18,10.1109/cvpr.2016.90,,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,VGG-16,39,,arXiv:1409.1556,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,MobileNet-V2,36,10.1109/CVPR.2018.00474,,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,CIFAR-10,22,,http://www.cs.toronto.edu/kriz/ cifar.html.,6
+tugcecoskunn,10.1145/3324884.3416571,dataset,IMDb,2,,IMDb,6
+tugcecoskunn,10.1145/3324884.3416571,tool,TensorFuzz,30,,arXiv:1807.10875,9
+tugcecoskunn,10.1145/3324884.3416592,method,clustering,21,10.1109/TNNLS.2020.2967051,,5
+tugcecoskunn,10.1145/3324884.3416592,tool,AAlergia learning algorithm,29,10.1109/QEST.2011.21,,6
+tugcecoskunn,10.1145/3324884.3416592,method,probabilistic model checking techniques,12,10.1145/186025.186051,,8
+tugcecoskunn,10.1145/3324884.3416592,method,the same setting as in [46] to generate a training set and test set,46,,arXiv:1711.09576v4,9
+tugcecoskunn,10.1145/3324884.3416592,dataset,Tomita Grammars,45,10.1162/neco_a_01111,,9
+tugcecoskunn,10.1145/3324884.3416592,dataset,Rotten Tomatoes Movie Review dataset,33,10.3115/1219840.1219855,,9
+tugcecoskunn,10.1145/3324884.3416592,statistical,set the dimensions of hidden  states and the number of hidden layers for the two RNNs as 512  and 1 respectively as in [50],50,,arXiv:1509.01626v3,9
+tugcecoskunn,10.1145/3324884.3416592,tool,word2vec,30,,arXiv:1301.3781,9
+tugcecoskunn,10.1145/3324884.3416592,method,the recent approach reported in [47].,47,,arXiv:1910.13895,11
+tugcecoskunn,10.1145/3324884.3416592,tool,TEXTBUGGER,26,10.1145/3375627.3375833,,12
+tugcecoskunn,10.1145/3324884.3416593,method,type-checking,30,10.1145/301618.301665,,4
+tugcecoskunn,10.1145/3324884.3416593,tool,Checker Framework,59,10.1145/1390630.1390656,,4
+tugcecoskunn,10.1145/3324884.3416593,method,folding and interval analysis,23,,https:// checkerframework.org/manual/#constant-value-checker,4
+tugcecoskunn,10.1145/3324884.3416593,method,indexing analysis,44,10.1145/3213846.3213849,,4
+tugcecoskunn,10.1145/3324884.3416593,tool,whole-program type inference tool,24,,https: //checkerframework.org/manual/#whole-program-inference,5
+tugcecoskunn,10.1145/3324884.3416593,method,used the implementation from [45] ,45,10.1145/3377811.3380341,,6
+tugcecoskunn,10.1145/3324884.3416593,tool,do-like-javac,43,,https://github.com/kelloggm/do-like-javac,6
+tugcecoskunn,10.1145/3324884.3416593,replication,repeated their experiments and extended,65,10.1145/3319535.3345659,,7
+tugcecoskunn,10.1145/3324884.3416593,tool,SpotBugs,25,,https://spotbugs.github.io/.,7
+tugcecoskunn,10.1145/3324884.3416593,tool,Coverity,13,10.1145/1646353.1646374,,7
+tugcecoskunn,10.1145/3324884.3416593,tool,CogniCrypt???T,47,10.1109/TSE.2019.2948910,,7
+tugcecoskunn,10.1145/3324884.3416593,tool,CryptoGuard,65,10.1145/3319535.3345659,,8
+tugcecoskunn,10.1145/3324884.3416593,method,CryptoAPIBench,3,10.1109/SecDev.2019.00017,,8
+rusenhalepmollasi,10.1145/3324884.3416621,dataset,MNIST ,19,,http://yann.lecun.com/exdb/mnist/.,5
+rusenhalepmollasi,10.1145/3324884.3416621,dataset,CIFAR10,32,,http://www.cs.toronto.edu/~kriz/cifar.html.,5
+rusenhalepmollasi,10.1145/3324884.3416621,dataset,SVHN,31,,http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf,5
+rusenhalepmollasi,10.1145/3324884.3416621,method,image transformation strategy,44,10.1145/3180155.3180220,,5
+rusenhalepmollasi,10.1145/3324884.3416621,method,adversarial attack strategy,17,10.1109/ICSE.2019.00108,,5
+rusenhalepmollasi,10.1145/3324884.3416621,method,baseline method: LSA&DSA (SADL),17,10.1109/ICSE.2019.00108,,6
+rusenhalepmollasi,10.1145/3324884.3416621,method,baseline method: AAL,20,10.1109/CVPR.2013.116,,6
+rusenhalepmollasi,10.1145/3324884.3416621,method,baseline method: CES,21,10.1145/3338906.3338930,,6
+rusenhalepmollasi,10.1145/3324884.3416621,statistics,W/T/L (win/tie/lose),30,10.1109/TSE.2017.2720603,,7
+rusenhalepmollasi,10.1145/3324884.3416621,statistics,average rank (AR) ,23,10.1109/SANER.2018.8330212,,7
+rusenhalepmollasi,10.1145/3324884.3416616,dataset,the dataset proposed by Zhang et al.,62,10.1145/3338906.3338917,,2
+rusenhalepmollasi,10.1145/3324884.3416616,tool,CLDIFF,29,10.1145/3238147.3238219,,6
+rusenhalepmollasi,10.1145/3324884.3416616,method,baseline method1,26,10.1109/ESEM.2017.23,,7
+rusenhalepmollasi,10.1145/3324884.3416616,method,baseline method1,44,10.1109/MSR.2017.26,,7
+rusenhalepmollasi,10.1145/3324884.3416616,method,baseline method3,59,10.24963/ijcai.2018/399,,7
+rusenhalepmollasi,10.1145/3324884.3416616,metric,TravisTorrent database,7,10.1109/MSR.2017.24,,4
+rusenhalepmollasi,10.1145/3324884.3416616,method,it is orthogonal to their study and  it reuses the classifiers,45,10.1145/3183440.3195012,,10
+rusenhalepmollasi,10.1145/3324884.3416564,method,POPQORN to address the robustness verification of RNNs.,33,,arXiv:1905.07387v1,2
+rusenhalepmollasi,10.1145/3324884.3416564,method,categorical distribution,4,,https://en.wikipedia.org/wiki/Categorical_distribution,4
+rusenhalepmollasi,10.1145/3324884.3416564,method,followed the same configurations to train an LSTM model ,33,,arXiv:1905.07387v1,8
+rusenhalepmollasi,10.1145/3324884.3416564,dataset,The CogComp QC,37,10.3115/1072228.1072378,,8
+rusenhalepmollasi,10.1145/3324884.3416564,dataset,The Jigsaw Toxic Comment,1,,https://www.kaggle. com/c/jigsaw-toxic-comment-classification-challenge,8
+rusenhalepmollasi,10.1145/3324884.3416564,dataset,The Sentiment Analysis,39,,https://aclanthology.org/P11-1015/,8
+rusenhalepmollasi,10.1145/3324884.3416564,method,ω major components as in [20] when applying PCA,20,10.1145/3338906.3338954,,8
+rusenhalepmollasi,10.1145/3324884.3416539,method,the open coding method to identify common code-level characteristics ,20,,https://books.google.com.tr/books?id=gX1ZDwAAQBAJ&dq=Qualitative+inquiry+and+research+design:+Choosing+among+five+approaches+2016&hl=tr&lr=,4
+rusenhalepmollasi,10.1145/3324884.3416539,method,standardization method: subtracting the median from the dataset and scaling it according to the interquartile range,39,,https://books.google.com.tr/books/about/Understanding_Statistics.html?id=vXzWG09_SzAC&redir_esc=y,7
+rusenhalepmollasi,10.1145/3324884.3416539,metric,Empirical finding: ICB (feature),32,10.1109/QSIC.2014.19,,8
+rusenhalepmollasi,10.1145/3324884.3416539,metric,Empirical finding: JDK (feature),36,10.1007/s10664-018-9663-0,,8
+rusenhalepmollasi,10.1145/3324884.3416539,tool,EvoSuite,22,10.1145/2025113.2025179,,8
+rusenhalepmollasi,10.1145/3324884.3416539,metric/method?,EvoSuite MockList: list of dependencies to mock,4,,https://github.com/EvoSuite/ evosuite/blob/master/runtime/src/main/java/org/evosuite/runtime/mock/ MockList.java,8
+rusenhalepmollasi,10.1145/3324884.3416612,tool,Schwa:defect predictor,14,,https://sigarra.up.pt/fep/en/pub_geral.show_file?pi_doc_id=43612,3
+rusenhalepmollasi,10.1145/3324884.3416612,tool,EvoSuite: automated test generation framework that generates JUnit test suites for Java classes,19,10.1109/QSIC.2011.19,,5
+rusenhalepmollasi,10.1145/3324884.3416612,tool,DynaMOSA: Dynamic Many-Objective Sorting Algorithm,52,10.1109/TSE.2017.2663435,,5
+rusenhalepmollasi,10.1145/3324884.3416612,dataset,Defects4J,38,,https://github.com/rjust/defects4j,6
+rusenhalepmollasi,10.1145/3324884.3416612,method,Coverage criteria,31,10.1007/978-3-319-66299-2_5,,6
+rusenhalepmollasi,10.1145/3324884.3416612,method,Assertion strategy,59,10.1109/ASE.2015.86,,6
+rusenhalepmollasi,10.1145/3324884.3416612,method,EvoSuite default parameters in previous work,20,10.1109/TSE.2012.14,,6
+rusenhalepmollasi,10.1145/3324884.3416612,method,EvoSuite default parameters in previous work,52,10.1109/TSE.2017.2663435,,6
+rusenhalepmollasi,10.1145/3324884.3416551,method,General API knowledge graphs: following the threatment,16,10.1109/ICSME.2018.00028,,4
+rusenhalepmollasi,10.1145/3324884.3416551,method,General API knowledge graphs: following the threatment,19,10.1145/3338906.3338971,,4
+rusenhalepmollasi,10.1145/3324884.3416551,method,"following the threatment in [16,19], they use software-specific tokenizer ",5,10.1109/ICSE.2017.48,,4
+rusenhalepmollasi,10.1145/3324884.3416551,method,"following the threatment in [16,19], they use software-specific tokenizer ",46,10.1145/2884781.2884862,,4
+rusenhalepmollasi,10.1145/3324884.3416551,tool,Stanford CoreNLP,21,10.3115/v1/P14-5010,,4
+rusenhalepmollasi,10.1145/3324884.3416551,method,the web page parser,19,10.1145/3338906.3338971,,7
+rusenhalepmollasi,10.1145/3324884.3416551,method,API-caveat sentence patterns,16,10.1109/ICSME.2018.00028,,7
+rusenhalepmollasi,10.1145/3324884.3416551,method,set the word embeding dimension 200,6,10.1145/2970276.2970317,,6
+rusenhalepmollasi,10.1145/3324884.3416551,method,statistical sampling method to examine MIN randomly sampled instances of each type of constraint relation,35,10.1007/978-94-017-1404-4,,8
+rusenhalepmollasi,10.1145/3324884.3416551,dataset,MuBench: API misuse benchmark,3,10.1145/2901739.2903506,,8
+rusenhalepmollasi,10.1145/3324884.3416591,method,"For TypeScript programs, they apply the approach in Hellendoorn et al. to extract type annotations of the identifiers",16,10.1145/3236024.3236051,,6
+rusenhalepmollasi,10.1145/3324884.3416591,method,"randomly sample 200 program files from both Java and TypeScript test sets as the small test sets for Byte Pair Encoding based Neural Language Model (BPE NLM) [25] evaluation since when performing completion (testing) in their model, they use a variation of the beam search algorithm to combine the sub-units to complete tokens, which is very time- consuming",25,10.1145/3377811.3380342,,6
+rusenhalepmollasi,10.1145/3324884.3416591,method,"They choose 𝐾 (50,000) most frequent tokens in each training set to build the token vocabulary, which is the same as Li et al.’s study. ",27,10.24963/ijcai.2018/578,,7
+rusenhalepmollasi,10.1145/3324884.3416591,method,They compare their model with baseline model: Pointer Mixture Network,27,10.24963/ijcai.2018/578,,7
+rusenhalepmollasi,10.1145/3324884.3416591,method,They compare their model with baseline model: Byte Pair Encoding based Neural Language Model (BPE NLM),25,10.1145/3377811.3380342,,7
+rusenhalepmollasi,10.1145/3324884.3416591,method,They compare their model with baseline model: Transformer-XL,8,10.18653/v1/P19-1285,,7
+rusenhalepmollasi,10.1145/3324884.3416571,dataset,MNIST ,24,,http://yann.lecun.com/exdb/mnist/,2
+rusenhalepmollasi,10.1145/3324884.3416571,dataset,CIFAR10,22,,http://www.cs.toronto.edu/kriz/ cifar.html.,2
+rusenhalepmollasi,10.1145/3324884.3416571,dataset,IMDb,2,,https://www.imdb.com/interfaces/,2
+rusenhalepmollasi,10.1145/3324884.3416571,method,They randomly add the Cauchy noise,53,10.1145/3377811.3380358,,4
+rusenhalepmollasi,10.1145/3324884.3416571,method,selecting the logits layer as the target layer (inspired by SATO),7,10.1109/SP.2017.49,,5
+rusenhalepmollasi,10.1145/3324884.3416571,method,selecting the logits layer as the target layer (inspired by SATO),15,,arXiv:1412.6572,5
+rusenhalepmollasi,10.1145/3324884.3416571,method,CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries,34,10.1109/ICSE.2019.00107,,5
+rusenhalepmollasi,10.1145/3324884.3416571,tool,Mmdnn,27,,https://github.com/Microsoft/MMdnn,6
+rusenhalepmollasi,10.1145/3324884.3416571,tool,TENSORFUZZ,30,,arXiv:1807.10875,9
+rusenhalepmollasi,10.1145/3324884.3416592,tool,AAlergia learning algorithm,29,10.1109/QEST.2011.21,,4
+rusenhalepmollasi,10.1145/3324884.3416592,method,They apply the same setting as in [46] to generate a training set and test set based on the grammars,46,,arXiv:1711.09576v4,7
+rusenhalepmollasi,10.1145/3324884.3416592,dataset,Tomita Grammars,45,10.1162/neco_a_01111,,7
+rusenhalepmollasi,10.1145/3324884.3416592,dataset,Rotten Tomatoes Movie Review (RTMR),33,10.3115/1219840.1219855,,7
+rusenhalepmollasi,10.1145/3324884.3416592,method,set the dimensions of hidden  states and the number of hidden layers for the two RNNs as 512  and 1 respectively as in [50],50,,arXiv:1509.01626v3,7
+rusenhalepmollasi,10.1145/3324884.3416592,method,Baseline 1,21,10.1109/TNNLS.2020.2967051,,8
+rusenhalepmollasi,10.1145/3324884.3416592,method,Baseline 2,46,,arXiv:1711.09576v4,9
+rusenhalepmollasi,10.1145/3324884.3416592,method,Baseline 3,47,,arXiv:1910.13895,9
+rusenhalepmollasi,10.1145/3324884.3416592,method,Textbugger: Generating adversarial text against real-world applications,26,10.1145/3375627.3375833,,10
+rusenhalepmollasi,10.1145/3324884.3416593,method, type-checking,30,10.1145/301618.301665,,4
+rusenhalepmollasi,10.1145/3324884.3416593,tool,Checker Framework,59,10.1145/1390630.1390656,,4
+rusenhalepmollasi,10.1145/3324884.3416593,method,traditional constant propagation and folding analysis ,81,10.1145/103135.103136,,4
+rusenhalepmollasi,10.1145/3324884.3416593,method,enhanced constant folding and interval analysis ,23,,https:// checkerframework.org/manual/#constant-value-checker,4
+rusenhalepmollasi,10.1145/3324884.3416593,method,array indexing analysis,44,10.1145/3213846.3213849,,4
+rusenhalepmollasi,10.1145/3324884.3416593,tool,whole-program type inference tool,24,,https: //checkerframework.org/manual/#whole-program-inference,5
+rusenhalepmollasi,10.1145/3324884.3416593,method,the implementation from [45],45,10.1145/3377811.3380341,,6
+rusenhalepmollasi,10.1145/3324884.3416593,tool,do-like-javac,43,,https://github.com/kelloggm/do-like-javac,6
+rusenhalepmollasi,10.1145/3324884.3416593,method,CryptoAPIBench,3,10.1109/SecDev.2019.00017,,7
+rusenhalepmollasi,10.1145/3324884.3416593,tool,SpotBugs,25,,https://spotbugs.github.io/.,7
+rusenhalepmollasi,10.1145/3324884.3416593,tool,Coverity,13,10.1145/1646353.1646374,,7
+rusenhalepmollasi,10.1145/3324884.3416593,tool,CogniCrypt𝑆𝐴𝑆T,47,10.1109/TSE.2019.2948910,,7
+rusenhalepmollasi,10.1145/3324884.3416593,tool,CryptoGuard,65,10.1145/3319535.3345659,,8
+rusenhalepmollasi,10.1145/3324884.3416593,method,built CryptoGuard from source code [22],22,,https://github.com/CryptoGuardOSS/cryptoguard/commit/2898b5b5ec25d94bbedda271638385c0fa6e0c9c,8
+rusenhalepmollasi,10.1145/3324884.3416593,metric,Precision and recall are defined identically to CryptoAPIBench [3],3,10.1109/SecDev.2019.00017,,8
+karacitir,10.1145/3324884.3416590,Stepping stone,Reuses list of identified techniques in this review paper,57,,https://hal.archives-ouvertes.fr/hal-01956501/document,Page 3 - Specifically we consider the living review of APR by Monperrus [57]
+karacitir,10.1145/3324884.3416590,Tool,Test generation tool Randoop,59,10.1145/1297846.1297902,,Page 4- paragraph 1
+karacitir,10.1145/3324884.3416590,Tool,Test generation tool Evosuite,19,10.1145/2025113.2025179,,Page 4- paragraph 1
+karacitir,10.1145/3324884.3416590,Tool,Diffgen,79,10.1145/3092703.3092718,,Page 4 - DiffTGen is a tool that identifies overfitting patches through test case generation [79]
+karacitir,10.1145/3324884.3416590,Tool,Daikon invariant generation tool,18,10.1109/32.908957,,Page 4 - captured by Daikon [18]
+karacitir,10.1145/3324884.3416590,Sanity check,Use results from [85]: differences in running times to detect overfitting,85,10.1109/IBF50092.2020.9034821,,Page 4 - Based on their findings- in this study- we adopt a simple heuristic that is to see if the inferred invariant of a generated patch is different from that of the oracle program.
+karacitir,10.1145/3324884.3416590,Tool,Opad,86,,https://arxiv.org/abs/1703.00198,Page 4- paragraph 4
+karacitir,10.1145/3324884.3416590,Method,Use method from [81] to apply Opad tool on Java,81,10.1145/3180155.3180182,,Page 4 -  To apply it on Java- we adopt the method provided by a recent study [81]
+karacitir,10.1145/3324884.3416590,Method,Patch-Sim,81,10.1145/3180155.3180182,,Page 4 - PATCH-SIM is a similarity-based patch validation technique [81]
+karacitir,10.1145/3324884.3416590,Method,Also a variant of Patch-Sim is implemented,81,10.1145/3180155.3180182,,Page 4 - In our study- to better explore the performance of this technique- we also implemented another version of this tool by replacing the adopted Randoop with Evosuite for test generation.
+karacitir,10.1145/3324884.3416590,Method,Use method from [81] to apply Anti-patterns tool on Java. [81] is given in another instance as reference for adaptation of Opad tool to Java. I am not sure if these refer to exactly same approach or not. ,81,10.1145/3180155.3180182,,Page 4 - To apply it on Java- we follow the strategy adopted by a recent study [81]
+karacitir,10.1145/3324884.3416590,Metric,Static code features definein S3,34,10.1145/3106237.3106309,,Page 4- column 2- paragraph 2. Also in Table 2 on page 4: Table 2 displays the details of the selected eight features in total. We follow the original studies [34- 77- 80] to compute the values for each feature- and we do not list the formulas in detail due to page limit.
+karacitir,10.1145/3324884.3416590,Metric,Static code features CapGen,77,10.1145/3180155.3180233,,Page 4- column 2- paragraph 2. Also in Table 2 on page 4: Table 2 displays the details of the selected eight features in total. We follow the original studies [34- 77- 80] to compute the values for each feature- and we do not list the formulas in detail due to page limit.
+karacitir,10.1145/3324884.3416590,Metric,Static code features ssFix,80,10.1109/ASE.2017.8115676,,Page 4- column 2- paragraph 2. Also in Table 2 on page 4: Table 2 displays the details of the selected eight features in total. We follow the original studies [34- 77- 80] to compute the values for each feature- and we do not list the formulas in detail due to page limit.
+karacitir,10.1145/3324884.3416590,Dataset,Defects4j,28,10.1145/2610384.2628055,,Page 5- paragraph 2 - In this study- we focus on the patches generated for a widely used benchmark by existing APR techniques which is Defects4j [28]
+karacitir,10.1145/3324884.3416590,Dataset,Dataset generated for a previous study. I am not sure if it is public or not.,45,10.1145/3377811.3380338,,Page 5- paragraph 2 - Specifically- we select all the patches prepared by a recent large-scale study [45]
+karacitir,10.1145/3324884.3416590,Tool,jGenProg,54,10.1145/2931037.2948705,,Page 5- paragraph 2. Also Table 3
+karacitir,10.1145/3324884.3416590,Tool,jKali,54,10.1145/2931037.2948705,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,jMutRepair,54,10.1145/2931037.2948705,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,SimFix,54,10.1145/2931037.2948705,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,ARJA,90,10.1109/TSE.2018.2874648,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,GenProg-A,90,10.1109/TSE.2018.2874648,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,Kali-A,90,10.1109/TSE.2018.2874648,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,RSRepair-A,90,10.1109/TSE.2018.2874648,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,CapGen,77,10.1145/3180155.3180233,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,DynaMoth,16,10.1145/2896921.2896931,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,Nopol,83,10.1109/TSE.2016.2560811,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,ACS,82,10.1109/ICSE.2017.45,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,Cardumen,55,10.1007/978-3-319-99241-9_3,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,JAID,9,pdf/10.1109/ASE.2017.8115674,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,SketchFix,25,10.1145/3180155.3180245,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,kPAR,41,10.1109/ICST.2019.00020,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,FixMiner,32,10.1007/s10664-019-09780-z,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,AVATAR,42,10.1109/SANER.2019.8667970,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,TBar,43,10.1145/3293882.3330577,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,SOFix,46,10.1109/SANER.2018.8330202,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Tool,SequenceR,10,10.1109/tse.2019.2940179,,Page 5 - Table 3
+karacitir,10.1145/3324884.3416590,Method,Strategy for reducing author bias,88,10.1007/s10664-020-09920-w,,Page 5 - column 2 - paragraph 2 - To reduce such bias in our study - we further performed a sanity check to examine the correctness of the collected patches. To achieve such a goal - we followed the strategies adopted by a recent study [88]
+karacitir,10.1145/3324884.3416590,Method,learning-to-rank technique,40,10.1587/transinf.E94.D.1854,,Page 6 - section 3.4.2
+karacitir,10.1145/3324884.3416590,Method,cost-sensitive learning,17,,10.5555/1642194.1642224,Page 6 - section 3.4.2
+karacitir,10.1145/3324884.3416532,Dataset,Bears Java bug benchmark,38,10.1109/SANER.2019.8667991,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,Bugs.jar real-world Java bugs,47,10.1145/3196398.3196473,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,Defects4J,17,10.1145/2610384.2628055,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,ManySStubsBs4J,19,,http://arxiv.org/abs/1905.13334,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,QuixBugs,28,10.1145/3135932.3135941,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,RepairThemAll,10,10.1145/3338906.3338911,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,A labeled dataset of patches generated by 16 APR systems for the Defects4J bugs (Liu) ,36, 10.1145/3377811.3380338,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Dataset,Labeled patches used as a test dataset (Xiong),59,10.1145/3183519.3183540,,Page 3 - section 3.2 - Table 1
+karacitir,10.1145/3324884.3416532,Tool,Doc2Vec,22,,http://proceedings.mlr.press/v32/le14.html,Page 2 - section 2.2.1
+karacitir,10.1145/3324884.3416532,Tool,Bert:pre-trained language representation model,9,10.18653/v1/N19-1423,,Page 2 - section 2.2.2
+karacitir,10.1145/3324884.3416532,Tool,code2vec: attention-based neural code embedding model,3,10.1145/3290353,,Page 3 - section 2.2.3
+karacitir,10.1145/3324884.3416532,Tool,CC2Vec:specialized hierarchical attention neural network model,13,10.1145/3377811.3380361,,Page 3 section 2.2.4
+karacitir,10.1145/3324884.3416532,Method,reuse approach from 13 for merging vectors,13,10.1145/3377811.3380361,,Page 7 - Column 2 - paragraph 2 - We follow an approach that was demonstrated by Hoang et al. [13]
+karacitir,10.1145/3324884.3416579,Tool,BiGUL framework,26,10.1145/2847538.2847544,,Page 8 - Column 2 - Paragraph 1 - To provide tool support for our multiple-view analysis framework we realized a prototypical view generation and transformation tool based on BiGUL [26]
+karacitir,10.1145/3324884.3416579,Method,Generation of multi-LOD 3D city models in CityGML with the procedural modelling engine,5,10.5194/isprs-annals-IV-4-W1-51-2016,,Page 8 - Column 2 - last paragraph
+karacitir,10.1145/3324884.3416579,Tool,SPOT: Model checking tool on the transition systems,13,10.1007/978-3-319-46520-3_8,,Page 9 - Column 1 - paragraph 2 - Model checking on the transition systems produced can then be readily performed with typical tools (e.g.SPOT [13])
+karacitir,10.1145/3379597.3387464,Sanity check,how to avoid issues  from reworked commits,27,10.1145/2597073.2597074,,Page 2 - Section 3.1.3
+karacitir,10.1145/3379597.3387464,Dataset,with a public dataset of PRs from GitHub projects that use PRs in their development cycle,25,10.1145/2597073.2597122,,Page 3 - Section 3.3.1
+karacitir,10.1145/3379597.3387469,Dataset,AndroZoo: a repository of Android apps maintained by the University of Luxembourg,2,10.1145/2901739.2903508,,Page 5 - paragraph 2
+karacitir,10.1145/3379597.3387469,Tool,Axplorer: permission-method mapping extraction,8,,https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/backes_android,Page 7 - last paragraph
+karacitir,10.1145/3379597.3387469,Tool,DPSPEC: permission-method mapping extraction,10,,https://arxiv.org/abs/1706.05042,Page 7 - last paragraph
+karacitir,10.1145/3379597.3387469,Sanity check,why not automated tools are used,15,10.1145/2950290.2983958,,Page 8 - paragraph 2 - We do not resort to automated tools to explore the behavior of the app because we want to achieve a high behavior [15] coverage which is still a challenge for the state of the art tools
+karacitir,10.1145/3379597.3387475,Dataset,CROP: Code Review Open Platform,35,10.1145/3196398.3196466,,Page 4 - Section 4.2
+karacitir,10.1145/3379597.3387475,Tool,RefMiner,53,,10.5555/2555523.2555539,Page 4 - Section 4.2
+karacitir,10.1145/3379597.3387475,Method,Code review classification procedure,37,10.1109/TSE.2019.2912113,,Page 5 - Step 4 paragraph - To assess this threat to our study’s validity we make use of the code reviews classification performed by our previous work [37]
+karacitir,10.1145/3379597.3387459,Method,Categorization of the issues based on categories proposed in 15,15,10.1016/j.jss.2014.12.027,,Page 5 - Section 5.1 - paragraph 1 - we reused the categories described in a study performed by Li et al. [15].
+karacitir,10.1145/3379597.3387459,Method,open-card sorting,28,,https://books.google.com/books/about/Card_Sorting.html?id=_h4D9gqi5tsC&redir_esc=y,Page 7 - Colum 1 - last paragraph
+karacitir,10.1145/3379597.3387480,Tool,reuses Boa infrastructure to implement views,6,10.1109/ICSE.2013.6606588,,Page 1 - Section 1 - first paragraph
+karacitir,10.1145/3379597.3387480,Method,partial reproduction,10,10.1145/2786805.2786870,,Page 1 - Column 2 - last paragraph
+karacitir,10.1145/3379597.3387480,Method,partial reproduction,14,10.1007/s10664-013-9261-0,,Page 1 - Column 2 - last paragraph
+karacitir,10.1145/3379597.3387480,Dataset,test data for evaluating split algorithms,2,10.1109/MSR.2013.6624055,,Page 6 - Section 4.1 - first paragraph
+karacitir,10.1145/3379597.3387480,Method,greedy approach for splitting identifiers,9,10.1007/s10664-013-9261-0,,Page 6 - Section 4.1.1 - first paragraph
+karacitir,10.1145/3379597.3387480,Dataset,SCOWL word lists,16,,http://wordlist.sourceforge.net,Page 6 - Section 4.1.1 - first paragraph
+karacitir,10.1145/3379597.3387446,Method,Reuses theoretical model of emotions for annotation,42,10.1037/0022-3514.52.6.1061,,Page 2 - Column 1 - first paragraph
+karacitir,10.1145/3379597.3387446,Replication,partial replication of the previous study,19,10.1007/s10664-016-9493-x,,Page 4 - Experimental setting - To enable comparison with the within-platform benchmark [30] we replicate the former experimental setting.
+karacitir,10.1145/3379597.3387446,Replication,partial replication of the previous study,30,10.1145/3196398.3196403,,Page 4 - Experimental setting - To enable comparison with the within-platform benchmark [30] we replicate the former experimental setting.
+karacitir,10.1145/3379597.3387446,Tool,Senti4SD,8,10.1109/SEmotion.2019.00014,,Page 3 - Paragraph 3
+karacitir,10.1145/3379597.3387446,Tool,SentiCR,2,10.1109/ASE.2017.8115623,,Page 3 - Paragraph 4
+karacitir,10.1145/3379597.3387446,Tool,SentiStrength-SE,17,10.1109/MSR.2017.9,,Page 3 - Paragraph 5
+karacitir,10.1145/3379597.3387446,Tool,DEVA,18,10.1145/3167132.3167296,,Page 3 - Paragraph 6
+karacitir,10.1145/3379597.3387446,Method,reuses the same annotation scheme and guideline for labeling,6,10.1007/s10664-017-9546-9,,Page 3 - Column 2 - paragraph 1
+karacitir,10.1145/3379597.3387446,Dataset,Stack Overflow data set,6,10.1007/s10664-017-9546-9,,Page 3 - Column 2 - paragraph 2
+karacitir,10.1145/3379597.3387446,Dataset,Jira dataset,33,10.1145/2901739.2903505,,Page 3 - Column 2 - paragraph 3
+karacitir,10.1145/3379597.3387446,Tool,SMOTE,10,10.1613/jair.953,,Page 5 - Fist column - last paragraph
+afonsohfontes,10.1145/3324884.3416532,Dataset,,38,10.1109/SANER.2019.8667991,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,47,10.1145/3196398.3196473,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,17,10.1145/2610384.2628055,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,28,10.1145/3135932.3135941,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,10,10.1145/3338906.3338911,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,36, 10.1145/3377811.3380338,,
+afonsohfontes,10.1145/3324884.3416532,Dataset,,59,10.1145/3183519.3183540,,
+afonsohfontes,10.1145/3324884.3416532,Method,,13,10.1145/3377811.3380361,,
+afonsohfontes,10.1145/3324884.3416532,Tool,,22,,http://proceedings.mlr.press/v32/le14.html,
+afonsohfontes,10.1145/3324884.3416532,Tool,,9,10.18653/v1/N19-1423,,
+afonsohfontes,10.1145/3324884.3416532,Tool,,3,10.1145/3290353,,
+afonsohfontes,10.1145/3324884.3416532,Tool,,13,10.1145/3377811.3380361,,
+afonsohfontes,10.1145/3324884.3416579,Method,,5,10.5194/isprs-annals-IV-4-W1-51-2016,,
+afonsohfontes,10.1145/3324884.3416579,Tool,,26,10.1145/2847538.2847544,,
+afonsohfontes,10.1145/3324884.3416579,Tool,,13,10.1007/978-3-319-46520-3_8,,
+afonsohfontes,10.1145/3324884.3416590,Dataset,,28,10.1145/2610384.2628055,,
+afonsohfontes,10.1145/3324884.3416590,Dataset,,45,10.1145/3377811.3380338,,
+afonsohfontes,10.1145/3324884.3416590,Method,,81,10.1145/3180155.3180182,,
+afonsohfontes,10.1145/3324884.3416590,Method,,81,10.1145/3180155.3180182,,
+afonsohfontes,10.1145/3324884.3416590,Method,,81,10.1145/3180155.3180182,,
+afonsohfontes,10.1145/3324884.3416590,Method,,81,10.1145/3180155.3180182,,
+afonsohfontes,10.1145/3324884.3416590,Method,,88,10.1007/s10664-020-09920-w,,
+afonsohfontes,10.1145/3324884.3416590,Method,,40,10.1587/transinf.E94.D.1854,,
+afonsohfontes,10.1145/3324884.3416590,Method,,17,,10.5555/1642194.1642224,
+afonsohfontes,10.1145/3324884.3416590,Metric,,34,10.1145/3106237.3106309,,
+afonsohfontes,10.1145/3324884.3416590,Metric,,77,10.1145/3180155.3180233,,
+afonsohfontes,10.1145/3324884.3416590,Metric,,80,10.1109/ASE.2017.8115676,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,59,10.1145/1297846.1297902,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,19,10.1145/2025113.2025179,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,79,10.1145/3092703.3092718,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,18,10.1109/32.908957,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,54,10.1145/2931037.2948705,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,54,10.1145/2931037.2948705,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,54,10.1145/2931037.2948705,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,54,10.1145/2931037.2948705,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,90,10.1109/TSE.2018.2874648,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,90,10.1109/TSE.2018.2874648,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,90,10.1109/TSE.2018.2874648,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,90,10.1109/TSE.2018.2874648,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,77,10.1145/3180155.3180233,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,16,10.1145/2896921.2896931,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,83,10.1109/TSE.2016.2560811,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,82,10.1109/ICSE.2017.45,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,55,10.1007/978-3-319-99241-9_3,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,9,pdf/10.1109/ASE.2017.8115674,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,25,10.1145/3180155.3180245,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,41,10.1109/ICST.2019.00020,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,32,10.1007/s10664-019-09780-z,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,42,10.1109/SANER.2019.8667970,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,43,10.1145/3293882.3330577,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,46,10.1109/SANER.2018.8330202,,
+afonsohfontes,10.1145/3324884.3416590,Tool,,10,10.1109/tse.2019.2940179,,
+afonsohfontes,10.1145/3379597.3387446,Dataset,,6,10.1007/s10664-017-9546-9,,
+afonsohfontes,10.1145/3379597.3387446,Dataset,,33,10.1145/2901739.2903505,,
+afonsohfontes,10.1145/3379597.3387446,Method,,42,10.1037/0022-3514.52.6.1061,,
+afonsohfontes,10.1145/3379597.3387446,Method,,19,10.1007/s10664-016-9493-x,,
+afonsohfontes,10.1145/3379597.3387446,Method,,30,10.1145/3196398.3196403,,
+afonsohfontes,10.1145/3379597.3387446,Tool,,8,10.1109/SEmotion.2019.00014,,
+afonsohfontes,10.1145/3379597.3387446,Tool,,2,10.1109/ASE.2017.8115623,,
+afonsohfontes,10.1145/3379597.3387446,Tool,,17,10.1109/MSR.2017.9,,
+afonsohfontes,10.1145/3379597.3387446,Tool,,18,10.1145/3167132.3167296,,
+afonsohfontes,10.1145/3379597.3387446,Tool,,10,10.1613/jair.953,,
+afonsohfontes,10.1145/3379597.3387459,Method,,15,10.1016/j.jss.2014.12.027,,
+afonsohfontes,10.1145/3379597.3387464,Dataset,,25,10.1145/2597073.2597122,,
+afonsohfontes,10.1145/3379597.3387464,Metric,,27,10.1145/2597073.2597074,,
+afonsohfontes,10.1145/3379597.3387469,Dataset,,2,10.1145/2901739.2903508,,
+afonsohfontes,10.1145/3379597.3387475,Dataset,,35,10.1145/3196398.3196466,,
+afonsohfontes,10.1145/3379597.3387475,Method,,37,10.1109/TSE.2019.2912113,,
+afonsohfontes,10.1145/3379597.3387475,Tool,,53,,10.5555/2555523.2555539,
+afonsohfontes,10.1145/3379597.3387480,Dataset,,2,10.1109/MSR.2013.6624055,,
+afonsohfontes,10.1145/3379597.3387480,Method,,9,10.1007/s10664-013-9261-0,,
+afonsohfontes,10.1145/3379597.3387480,Tool,,6,10.1109/ICSE.2013.6606588,,
+yrahul3910,10.1145/3379597.3387481,tool,ActiveMQ,[12],,https://svn.apache.org/repos/infra/apachecon/archive.apachecon.com/na2011/presentations/10-Thursday/A-Enterprise_Java/A_1600_Snyder_ActiveMQ.pdf,2
+yrahul3910,10.1145/3379597.3387481,method,Effort estimation scenario,[7],10.1145/1370750.1370781,,7
+yrahul3910,10.1145/3379597.3387481,method,Effort estimation scenario,[11],10.1145/2597073.2597107,,7
+yrahul3910,10.1145/3379597.3387481,tool,PyDriller,[13],10.1145/3236024.3264598,,8
+yrahul3910,10.1145/3379597.3387481,dataset,dataset,[14],10.1145/2901739.2901753,,8
+yrahul3910,10.1145/3379597.3387458,method,SALSA,[34],10.1111/j.1471-1842.2009.00848.x,,2
+yrahul3910,10.1145/3379597.3387458,method,Literature review,[69],10.1016/bs.adcom.2018.10.001,,2
+yrahul3910,10.1145/3379597.3387458,method,Thematic analysis,[8],https://dx.doi.org/10.1191/1478088706QP063OA,,3
+yrahul3910,10.1145/3379597.3387444,tool,ftrace,[6],,https://elinux.org/Ftrace,4
+yrahul3910,10.1145/3379597.3387444,tool,dtrace,[4],,http://dtrace.org,4
+yrahul3910,10.1145/3379597.3387444,tool,PIN,[16],,https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool.,4
+yrahul3910,10.1145/3379597.3387444,tool,cscope,[21],,http://cscope.sourceforge.net/,5
+yrahul3910,10.1145/3379597.3387444,tool,Kernel glossary,[13],,https://kernelnewbies.org/KernelGlossary,5
+yrahul3910,10.1145/3379597.3387444,tool,spaCy,[22],,https://spacy.io/,6
+yrahul3910,10.1145/3379597.3387444,method,Hungarian algorithm,[63],10.1002/nav.3800020109,,6
+yrahul3910,10.1145/3379597.3387444,tool,graphviz,[46],10.1002/1097-024X(200009)30:11<1203::AID-SPE338>3.0.CO;2-N,,6
+yrahul3910,10.1145/3379597.3387465,method,Lehman's laws,[19],10.1007/BFb0017737,,1
+yrahul3910,10.1145/3379597.3387465,metric,McCabe,[23],10.1109/TSE.1976.233837,,2
+yrahul3910,10.1145/3379597.3387465,metric,Halstead,[12],,book/10.5555/540137,2
+yrahul3910,10.1145/3379597.3387465,metric,Midha et al.,[26],,https://www.tandfonline.com/doi/abs/10.1080/08874417.2010.11645410,2
+yrahul3910,10.1145/3379597.3387465,metric,Gill & Kemerer,[8],10.1109/32.106988,,2
+yrahul3910,10.1145/3379597.3387465,tool,cqmetrics,[41],10.1145/2884781.2884799,,2
+yrahul3910,10.1145/3379597.3387465,dataset,OpenSSL vulnerabilities list,,,https://www.openssl.org/news/vulnerabilities.html,4
+yrahul3910,10.1145/3379597.3387465,tool,PyDriller,[39],10.1145/3236024.3264598,,4
+yrahul3910,10.1145/3379597.3387479,tool,pysmell,[27],,https://github.com/chenzhifei731/Pysmell,2
+yrahul3910,10.1145/3379597.3387479,method,Code smell list,[6],10.1016/j.infsof.2017.09.011,,2
+yrahul3910,10.1145/3379597.3387479,method,Code smells,[10],,https://books.google.com/books?hl=en&lr=&id=2H1_DwAAQBAJ&oi=fnd&pg=PT14&dq=Refactoring:+improving+the+design+of+existing+code&ots=Ngyvvbr1PW&sig=GCwCe0_8UN9b781c5r52AYmUzTs,3
+yrahul3910,10.1145/3379597.3387479,tool,GitHub API Search,[9],,https://developer.github.com/v3/search/#search-topics,3
+yrahul3910,10.1145/3379597.3387479,tool,Radon,[7],,https://pypi.org/project/radon/,4
+yrahul3910,10.1145/3379597.3387479,tool,Sklearn,[19],,https://scikit-learn.org/stable,4
+yrahul3910,10.1145/3379597.3387479,method,keywords,[18],10.1145/2786805.2803183,,5
+yrahul3910,10.1145/3379597.3387479,method,SZZ,[23],10.1145/1082983.1083147,,5
+yrahul3910,10.1145/3379597.3387470,method,Soft attention alignment,[20],10.18653/v1/D16-1244,,1
+yrahul3910,10.1145/3379597.3387470,method,Ranking method,[30],10.1145/1806799.1806811,,2
+yrahul3910,10.1145/3379597.3387470,method,Ranking method,[29],10.1109/ASE.2011.6100061,,5
+yrahul3910,10.1145/3379597.3387470,method,replication,[6],10.1145/3183440.3195092,,5
+yrahul3910,10.1145/3379597.3387470,method,replication,[10],10.1109/ICSME.2017.69,,5
+yrahul3910,10.1145/3379597.3387470,dataset,Lazar et al,[14],10.1145/2597073.2597128,,6
+yrahul3910,10.1145/3379597.3387470,method,GloVe,[21],,http://www.aclweb.org/anthology/D14-1162,6
+yrahul3910,10.1145/3379597.3387473,tool,GHTorrent,[27],10.1109/MSR.2013.6624034,,2
+yrahul3910,10.1145/3379597.3387440,method,Time-based heuristic,[43],10.1145/3180155.3180207,,3
+yrahul3910,10.1145/3379597.3387440,method,Open coding technique,[29],,https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/CPSC681/opencoding.pdf,3
+yrahul3910,10.1145/3379597.3387440,tool,nltk,[9],,https://www.aclweb.org/anthology/P06-4018/,5
+yrahul3910,10.1145/3379597.3387440,metric,AP,[46],10.1109/SST.2015.13,,5
+yrahul3910,10.1145/3379597.3387440,statistics,Wilcoxon test,[56],10.1002/9780471462422.eoct979,,5
+yrahul3910,10.1145/3379597.3387440,tool,scipy,[25],,http://www.scipy.org,5
+yrahul3910,10.1145/3379597.3387440,method,CBOW,[38],,https://arxiv.org/abs/1712.09405,7
+yrahul3910,10.1145/3379597.3387440,method,RCSLS,[26],,https://aclanthology.info/papers/D18-1330/d18-1330,7
+yrahul3910,10.1145/3379597.3387447,method,Local outlier factor,[7],10.1145/335191.335388,,4
+yrahul3910,10.1145/3379597.3387447,method,Isolation forest,[23],10.1109/ICDM.2008.17,,4
+yrahul3910,10.1145/3379597.3387447,method,autoencoder,[32],10.1145/3097983.3098052,,5
+yrahul3910,10.1145/3379597.3387476,dataset,Npm registry,[26],,https://docs.npmjs.com/misc/registry.,3
+yrahul3910,10.1145/3379597.3387476,tool,GitHub API,GitHub,,https://developer.github.com/v4/,3
+yrahul3910,10.1145/3379597.3387476,tool,npms,[28],,https://npms.io,5
+yrahul3910,10.1145/3379597.3387476,tool,istanbul,istanbul,,https://istanbul.js.org,5
+afonsohfontes,10.1145/3379597.3387440,method,,[43],10.1145/3180155.3180207,,
+afonsohfontes,10.1145/3379597.3387440,method,,[29],,,
+afonsohfontes,10.1145/3379597.3387440,method,,[38],,,
+afonsohfontes,10.1145/3379597.3387440,method,,[26],,,
+afonsohfontes,10.1145/3379597.3387440,metric,,[46],10.1109/SST.2015.13,,
+afonsohfontes,10.1145/3379597.3387440,metric,,[56],,,
+afonsohfontes,10.1145/3379597.3387440,tool,,[9],,,
+afonsohfontes,10.1145/3379597.3387440,tool,,[25],,,
+afonsohfontes,10.1145/3379597.3387444,method,,[63],10.1002/nav.3800020109,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[6],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[4],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[16],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[21],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[13],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[22],,,
+afonsohfontes,10.1145/3379597.3387444,tool,,[46],10.1002/1097-024X(200009)30:11<1203::AID-SPE338>3.0.CO;2-N,,
+afonsohfontes,10.1145/3379597.3387447,method,,[7],10.1145/335191.335388,,
+afonsohfontes,10.1145/3379597.3387447,method,,[23],10.1109/ICDM.2008.17,,
+afonsohfontes,10.1145/3379597.3387447,method,,[32],10.1145/3097983.3098052,,
+afonsohfontes,10.1145/3379597.3387458,method,,[34],10.1111/j.1471-1842.2009.00848.x,,
+afonsohfontes,10.1145/3379597.3387458,method,,[69],10.1016/bs.adcom.2018.10.001,,
+afonsohfontes,10.1145/3379597.3387458,method,,[8],https://dx.doi.org/10.1191/1478088706QP063OA,,
+afonsohfontes,10.1145/3379597.3387465,method,,[19],10.1007/BFb0017737,,
+afonsohfontes,10.1145/3379597.3387465,metric,,[23],10.1109/TSE.1976.233837,,
+afonsohfontes,10.1145/3379597.3387465,metric,,[12],,,
+afonsohfontes,10.1145/3379597.3387465,metric,,[26],,,
+afonsohfontes,10.1145/3379597.3387465,metric,,[8],10.1109/32.106988,,
+afonsohfontes,10.1145/3379597.3387465,tool,,[41],10.1145/2884781.2884799,,
+afonsohfontes,10.1145/3379597.3387465,tool,,[39],10.1145/3236024.3264598,,
+afonsohfontes,10.1145/3379597.3387470,dataset,,[14],10.1145/2597073.2597128,,
+afonsohfontes,10.1145/3379597.3387470,method,,[20],10.18653/v1/D16-1244,,
+afonsohfontes,10.1145/3379597.3387470,method,,[30],10.1145/1806799.1806811,,
+afonsohfontes,10.1145/3379597.3387470,method,,[29], 10.1109/ASE.2011.6100061,,
+afonsohfontes,10.1145/3379597.3387470,method,,[6],10.1145/3183440.3195092,,
+afonsohfontes,10.1145/3379597.3387470,method,,[10],10.1109/ICSME.2017.69,,
+afonsohfontes,10.1145/3379597.3387470,method,,[21],,,
+afonsohfontes,10.1145/3379597.3387473,tool,,[27],,,
+afonsohfontes,10.1145/3379597.3387476,dataset,,[26],,,
+afonsohfontes,10.1145/3379597.3387476,tool,,[28],,,
+afonsohfontes,10.1145/3379597.3387479,method,,[6],10.1016/j.infsof.2017.09.011,,
+afonsohfontes,10.1145/3379597.3387479,method,,[10],,,
+afonsohfontes,10.1145/3379597.3387479,method,,[18],10.1145/2786805.2803183,,
+afonsohfontes,10.1145/3379597.3387479,method,,[23],10.1145/1082983.1083147,,
+afonsohfontes,10.1145/3379597.3387479,tool,,[27],,,
+afonsohfontes,10.1145/3379597.3387479,tool,,[9],,,
+afonsohfontes,10.1145/3379597.3387479,tool,,[7],,,
+afonsohfontes,10.1145/3379597.3387479,tool,,[19],,,
+afonsohfontes,10.1145/3379597.3387481,dataset,,[14],10.1145/2901739.2901753,,
+afonsohfontes,10.1145/3379597.3387481,method,,[7],10.1145/1370750.1370781,,
+afonsohfontes,10.1145/3379597.3387481,method,,[11],10.1145/2597073.2597107,,
+afonsohfontes,10.1145/3379597.3387481,tool,,[12],,,
+afonsohfontes,10.1145/3379597.3387481,tool,,[13],10.1145/3236024.3264598,,
+﻿XiaoLing941212,10.1145/3368089.3409722,metric,cibtruvytuib acceotace,[38],10.1145/2468356.2468382,,1068,3.1.3
+XiaoLing941212,10.1145/3368089.3409722,metric,introduced by Gousios et al.,[25],10.1145/2597073.2597122,,1069,3.1.4
+XiaoLing941212,10.1145/3368089.3409726,tool,Haven,[5],10.1145/2799647,,1078,1
+XiaoLing941212,10.1145/3368089.3409726,tool,Graphene-SGX,[31],,https://www.usenix.org/system/files/conference/atc17/atc17-tsai.pdf,1078,1
+XiaoLing941212,10.1145/3368089.3409726,tool,SGX-LKL,[21],,https://arxiv.org/abs/1908.11143,1078,1
+XiaoLing941212,10.1145/3368089.3409739,dataset ,Lending Club Load Data,,,https://www.kaggle.com/wendykan/lending-club-loan-data,1092,4.2
+XiaoLing941212,10.1145/3368089.3409739,method,Papernot attack,[21],,https://arxiv.org/abs/1605.07277,1093,5.1
+XiaoLing941212,10.1145/3368089.3409739,method,PGD,[16],,https://arxiv.org/abs/1706.06083,1093,5.2
+XiaoLing941212,10.1145/3368089.3409739,method,CW2,[7],10.1109/SP.2017.49,,1093,5.2
+XiaoLing941212,10.1145/3368089.3409678,tool,fastText,[6],,https://watermark.silverchair.com/tacl_a_00051.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsswggLHBgkqhkiG9w0BBwagggK4MIICtAIBADCCAq0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMw71zPUg2bM1fg1rnAgEQgIICfrwuchHNkfUWu602883Ly9InzXPMo0vYHn8g6GLdAe_C9nyPK4F-wN44it9u5efPtqlCfjFMVuvHnU2keaZ2ODiUbVdjK0FofwzWvNAur2e6hd9nLLMWw5J1jlOPKU1Py0MI-CS1yO79D4B79ty4BisLoZ-Gu-keQ6MPgkEDdFEfGDYABHCW59AwY3i1wXqWNnXf3t26DZlQQGIBJdHA4Z-RiHiKh8MsrtiHypEXLY7HxhHab-9lFDIkb3xsI0cBLjd0gJER_fr4F2Mn3vkrDV5iBY5EbOEyUA90wJz_ClZIvOBfJQeUzvIj0FJk8L_hDV7ZBXddAb31TkhHTUSThRBIf1ijPc_iW89YzYs2zhqbhd5WMj-xUDn6QzfPhmvZmYhcQ4MZMPuSfquI8zmMW4BI7n4Q1LT14NIH94EdLM7D6OdlnbCcmahnpsbnDjXfd4MzEARnb5Y6nmgF7rZMbRNd1s89k7BRsEAPh1aJaSCFF4aTkgyOLCRvuPYxgOQKnmfjqzufxqB1UJ6ChayFyWvXBaShiDBsKEivl_etQDEi1q8e9GLSz5aZciaOnt3XcgZR3FkuILD-V5NHXOCiDe62bXNEsoTVS8oX1zP2_tXZVkPWhUHq_4KGNSJpfM-rwSDZrbbypN2K2dA3N5unrad0e9JTopL0MwmnCuLA40lbuQQn9zBoFSBG3C4mYblkW2r3Rgx4o0duq3BmVLP9VWn4jIbc3Z3QuWZiB9rfRu_C_ud6kjk3jUasMFXCJ7c_5NxRHsD_PRadfbzU2NyfEALkjDGvQ9QOBhJKrRy9LNAa93mrYr84GjiUECshxL6-jcNlVqpvmKqu63O9r5nR,1104,3.1
+XiaoLing941212,10.1145/3368089.3409678,method,Spy idea,[33],10.1109/ICDM.2003.1250918,,1106,3.5
+XiaoLing941212,10.1145/3368089.3409678,method,ranking mechanism,[31],10.1145/1095430.1081755,,1107,4
+XiaoLing941212,10.1145/3368089.3409678,method,ranking mechanism,[55],,https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf,1107,4
+XiaoLing941212,10.1145/3368089.3409752,tool,ICE learning framework,[15],10.1007/978-3-319-08867-9_5,117,,5
+XiaoLing941212,10.1145/3368089.3409752,method,ICE-DT baseline,[16],10.1145/2837614.2837664,,118,5.1
+XiaoLing941212,10.1145/3368089.3409744,method,WAPS,[20],,WAPS: Weighted and Projected Sampling,1120,4
+XiaoLing941212,10.1145/3368089.3409744,method,ecos-icse11,[51],10.1109/ICST.2019.00032,,1120,4.1
+XiaoLing941212,10.1145/3368089.3409744,method,embtoolkit,[29],10.1145/3106237.3106252,,1120,4.1
+XiaoLing941212,10.1145/3368089.3409744,method,FinancialServices01,[50],10.1145/3336294.3336322,,1120,4.1
+XiaoLing941212,10.1145/3368089.3409742,method,reproduce of SM work,[63],10.1145/227607.227610,,1128,1
+XiaoLing941212,10.1145/3368089.3409742,tool,PIT v1.2.0,[10],10.1145/2931037.2948707,,1131,3.1
+XiaoLing941212,10.1145/3368089.3409742,statistical reuse,Spearman's rank correlation coefficient test,[27],10.1016/j.infsof.2017.03.002,,1131,3.2
+XiaoLing941212,10.1145/3368089.3409742,dataset ,SLR ,[75],10.1016/j.jss.2019.07.100,,1131,3.1
+XiaoLing941212,10.1145/3368089.3409742,tool,EvoSuite,[28],10.1109/QSIC.2011.19,,1134,4.4
+XiaoLing941212,10.1145/3368089.3409710,tool,SQLancer,[46],,https://www.usenix.org/system/files/osdi20-rigger.pdf,1145,3.5
+XiaoLing941212,10.1145/3368089.3409710,tool,C-Reduce,[43],10.1145/2254064.2254104,,1146,4.1
+XiaoLing941212,10.1145/3368089.3409694,method,microexecution,[19],10.1145/2568225.2568273,,1157,4.2
+XiaoLing941212,10.1145/3368089.3409694,method,SEMI-NCA,[18],,https://www.cs.princeton.edu/research/techreps/TR-737-05,1160,6
+XiaoLing941212,10.1145/3368089.3409694,tool,capstone,[11],,https://github.com/aquynh/capstone,1160,6
+XiaoLing941212,10.1145/3368089.3409713,method,variational execution,[3],10.1145/2103656.2103677,,1166,1
+XiaoLing941212,10.1145/3368089.3409713,method,variational execution,[53],10.1145/2970276.2970322,,1166,1
+XiaoLing941212,10.1145/3368089.3409713,method,variational execution,[54],10.1145/2568225.2568300,,1166,1
+XiaoLing941212,10.1145/3368089.3409713,tool,VarexC,[75],10.1145/3276487,,1169,3.2
+XiaoLing941212,10.1145/3368089.3409713,method,brute-force search_bf,[17],10.1145/2642937.2643008,,1169,3.2
+XiaoLing941212,10.1145/3368089.3409713,stepping stone,search_gen,[17],10.1145/2642937.2643008,,1169,3.2
+XiaoLing941212,10.1145/3368089.3409713,method,regression test selection technique,[60],10.1016/bs.adcom.2018.03.015,,1173,5.3
+afonsohfontes,10.1145/3368089.3409678,metric,,[31],10.1145/1095430.1081755,,,
+afonsohfontes,10.1145/3368089.3409678,metric,,[55],,,,
+afonsohfontes,10.1145/3368089.3409678,tool,,[6],,,,
+afonsohfontes,10.1145/3368089.3409694,tool,,[11],,,,
+afonsohfontes,10.1145/3368089.3409694,method,,[18],,,,
+afonsohfontes,10.1145/3368089.3409694,method,,[19],10.1145/2568225.2568273,,,
+afonsohfontes,10.1145/3368089.3409710,tool,,[43],10.1145/2254064.2254104,,,
+afonsohfontes,10.1145/3368089.3409710,tool,,[46],,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[17],10.1145/2642937.2643008,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[17],10.1145/2642937.2643008,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[3],10.1145/2103656.2103677,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[53],10.1145/2970276.2970322,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[54],10.1145/2568225.2568300,,,
+afonsohfontes,10.1145/3368089.3409713,method,,[60],10.1016/bs.adcom.2018.03.015,,,
+afonsohfontes,10.1145/3368089.3409713,tool,,[75],10.1145/3276487,,,
+afonsohfontes,10.1145/3368089.3409722,metric,,[25],10.1145/2597073.2597122,,,
+afonsohfontes,10.1145/3368089.3409722,metric,,[38],10.1145/2468356.2468382,,,
+afonsohfontes,10.1145/3368089.3409726,tool,,[21],,,,
+afonsohfontes,10.1145/3368089.3409726,tool,,[31],,,,
+afonsohfontes,10.1145/3368089.3409726,tool,,[5],10.1145/2799647,,,
+afonsohfontes,10.1145/3368089.3409739,method,,[16],,,,
+afonsohfontes,10.1145/3368089.3409739,method,,[7],10.1109/SP.2017.49,,,
+afonsohfontes,10.1145/3368089.3409742,tool,,[10],10.1145/2931037.2948707,,,
+afonsohfontes,10.1145/3368089.3409742,metric,,[27],10.1016/j.infsof.2017.03.002,,,
+afonsohfontes,10.1145/3368089.3409742,tool,,[28],10.1109/QSIC.2011.19,,,
+afonsohfontes,10.1145/3368089.3409742,method,,[63],10.1145/227607.227610,,,
+afonsohfontes,10.1145/3368089.3409744,method,,[20],,,,
+afonsohfontes,10.1145/3368089.3409744,method,,[29],10.1145/3106237.3106252,,,
+afonsohfontes,10.1145/3368089.3409744,method,,[50],10.1145/3336294.3336322,,,
+afonsohfontes,10.1145/3368089.3409744,method,,[51],10.1109/ICST.2019.00032,,,
+afonsohfontes,10.1145/3368089.3409752,tool,,[15],,,,
+afonsohfontes,10.1145/3368089.3409752,method,,[16],10.1145/2837614.2837664,,,
+yrahul3910,10.1145/3368089.3409758,method,OASI,[20],10.1145/2931037.2931062,,3
+yrahul3910,10.1145/3368089.3409758,method,OASI,[22],,https://2020.icse-conferences.org/details/icse-2020-Journal-First/84/An-Empirical-Validation-of-Oracle-Improvement,3
+yrahul3910,10.1145/3368089.3409758,method,Object serialization,[42],,10.5555/1025115.1025219,5
+yrahul3910,10.1145/3368089.3409758,method,Observers abstraction,[2],10.1145/3314221.3314641,,5
+yrahul3910,10.1145/3368089.3409758,tool,daikon,[9],,https://homes.cs.washington.edu/~mernst/pubs/invariants-tse2001.pdf,8
+yrahul3910,10.1145/3368089.3409708,method,AppFlow,[23],10.1145/3236024.3236055,,3
+yrahul3910,10.1145/3368089.3409708,method,CraftDroid,[25],10.1109/ASE.2019.00015,,3
+yrahul3910,10.1145/3368089.3409708,method,ATM,[21],10.1109/ASE.2019.00016,,3
+yrahul3910,10.1145/3368089.3409708,method,GTM,[20],10.1145/3213846.3213854,,3
+yrahul3910,10.1145/3368089.3409708,tool,Appium,[2],,http://appium.io/,6
+yrahul3910,10.1145/3368089.3409708,tool,Soot,[11],,https://github.com/Sable/soot,9
+yrahul3910,10.1145/3368089.3409691,method,EAST,[55],10.1109/CVPR.2017.283,,2
+yrahul3910,10.1145/3368089.3409691,method,ResNet50,[24],10.1109/CVPR.2016.90,,2
+yrahul3910,10.1145/3368089.3409691,method,Faster RCNN,[40],10.1109/TPAMI.2016.2577031,,3
+yrahul3910,10.1145/3368089.3409691,method,YOLOv2,[38],,https://arxiv.org/abs/1804.02767,4
+yrahul3910,10.1145/3368089.3409691,dataset,Rico,[15],10.1145/3126594.3126651,,4
+yrahul3910,10.1145/3368089.3409691,method,CenterNet,[17],10.1109/ICCV.2019.00667,,4
+yrahul3910,10.1145/3368089.3409691,method,REMAUI,[43],,https://github.com/soumikmohianuta/pixtoapp,5
+yrahul3910,10.1145/3368089.3409691,method,Xianyu,[52],,https://laptrinhx.com/ui2code-how-to-fine-tune-background-and-foreground-analysis-2293652041/,5
+yrahul3910,10.1145/3368089.3409691,tool,Tesseract,[42],10.1109/ICDAR.2007.4376991,,5
+yrahul3910,10.1145/3368089.3409682,tool,SmartThings,[69],,http://www.smartthings.com/,3
+yrahul3910,10.1145/3368089.3409687,method,fuzzer,[18],10.1109/ASE.2019.00027,,6
+yrahul3910,10.1145/3368089.3409687,dataset,dbgbench,[13],10.1145/3106237.3106255,,6
+yrahul3910,10.1145/3368089.3409687,method,More of the same,[29],,https://arxiv.org/abs/1812.07525,7
+yrahul3910,10.1145/3368089.3409734,tool,Wala,[17],,http://wala.sourceforge.net/wiki/index.php/Main_Page,3
+yrahul3910,10.1145/3368089.3409734,method,Green,[35],10.1145/2393596.2393665,,7
+yrahul3910,10.1145/3368089.3409734,method,Symbolic PathFinder,[24],10.1007/s10515-013-0122-2,,8
+yrahul3910,10.1145/3368089.3409734,tool,Z3,[12],,10.5555/1792734.1792766,8
+yrahul3910,10.1145/3368089.3409734,dataset,Benchmark,[37],10.1109/TSE.2016.2584063,,8
+yrahul3910,10.1145/3368089.3409734,dataset,MerArbiter,[40],10.1145/2338965.2336771,,8
+yrahul3910,10.1145/3368089.3409734,method,JBMC,[11],10.1007/978-3-319-96145-3_10,,8
+yrahul3910,10.1145/3368089.3409757,dataset,benchmark,[32],10.1145/2970276.2970364,,3
+yrahul3910,10.1145/3368089.3409757,dataset,benchmark,[34],10.1145/3238147.3238178,,3
+yrahul3910,10.1145/3368089.3409757,dataset,benchmark,[45],10.1007/978-3-319-66706-5_20,,3
+yrahul3910,10.1145/3368089.3409757,method,Uninterpreted functions,[29],10.1007/978-3-662-50497-0_4,,4
+yrahul3910,10.1145/3368089.3409757,tool,gumtree,[20],10.1145/2642937.2642982,,7
+yrahul3910,10.1145/3368089.3409757,tool,asm-defuse,[3],,https://github.com/saeg/asm-defuse,7
+yrahul3910,10.1145/3368089.3409757,tool,asm,[7],,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.5769,7
+yrahul3910,10.1145/3368089.3409757,tool,Symbolic PathFinder,[37],10.1145/1858996.1859035,,7
+yrahul3910,10.1145/3368089.3409757,tool,Z3,[17],,10.5555/1792734.1792766,7
+yrahul3910,10.1145/3368089.3409738,tool,Soot,[64],10.1145/1925805.1925818,,2
+yrahul3910,10.1145/3368089.3409738,method,CHA,[17],10.1007/3-540-49538-X_5,,4
+yrahul3910,10.1145/3368089.3409738,tool,asm,[12],,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.5769,4
+yrahul3910,10.1145/3368089.3409738,method,Dynamic features,[58],10.1007/978-3-030-02768-1_4,,4
+yrahul3910,10.1145/3368089.3409738,tool,JVM TI API,[3],,https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/,4
+yrahul3910,10.1145/3368089.3409738,method,TamiFlex,[11],10.1145/1985793.1985827,,4
+yrahul3910,10.1145/3368089.3409738,tool,BigQuery API,[2],,https://cloud.google.com/bigquery/public-data/,6
+yrahul3910,10.1145/3368089.3409738,method,Jax,[61],10.1145/320385.320414,,7
+yrahul3910,10.1145/3368089.3409738,method,JRed,[30],10.1109/COMPSAC.2016.146,,7
+yrahul3910,10.1145/3368089.3409738,method,ProGuard,[6],,https://www.guardsquare.com/en/products/proguard,7
+yrahul3910,10.1145/3368089.3409755,method,KLEE,[5],,10.5555/1855741.1855756,2
+yrahul3910,10.1145/3368089.3409737,tool,QVTrace,[5],,https://qracorp.com/qvtrace/,2
+yrahul3910,10.1145/3368089.3409737,tool,fitctree,[4],,https://nl.mathworks.com/help/stats/fitctree.html,7
+yrahul3910,10.1145/3368089.3409737,method,ART,[12],10.1145/2001420.2001452,,6
+yrahul3910,10.1145/3368089.3409737,method,ART,[25],10.1016/j.jss.2009.02.022,,6
+yrahul3910,10.1145/3368089.3409737,method,ART,[26],10.1007/978-3-540-30502-6_23,,6
+yrahul3910,10.1145/3368089.3409737,method,URT,[13],10.1109/TSE.2011.121,,6
+afonsohfontes,10.1145/3368089.3409682,tool,SmartThings,[69],,,
+afonsohfontes,10.1145/3368089.3409687,dataset,dbgbench,[13],10.1145/3106237.3106255,,
+afonsohfontes,10.1145/3368089.3409687,method,fuzzer,[18],10.1109/ASE.2019.00027,,
+afonsohfontes,10.1145/3368089.3409691,dataset,Rico,[15],10.1145/3126594.3126651,,
+afonsohfontes,10.1145/3368089.3409691,method,EAST,[55],10.1109/CVPR.2017.283,,
+afonsohfontes,10.1145/3368089.3409691,method,ResNet50,[24],10.1109/CVPR.2016.90,,
+afonsohfontes,10.1145/3368089.3409691,method,Faster RCNN,[40],10.1109/TPAMI.2016.2577031,,
+afonsohfontes,10.1145/3368089.3409691,method,YOLOv2,[38],,,
+afonsohfontes,10.1145/3368089.3409691,method,CenterNet,[17],10.1109/ICCV.2019.00667,,
+afonsohfontes,10.1145/3368089.3409691,method,REMAUI,[43],,,
+afonsohfontes,10.1145/3368089.3409691,method,Xianyu,[52],,,
+afonsohfontes,10.1145/3368089.3409691,tool,Tesseract,[42],10.1109/ICDAR.2007.4376991,,
+afonsohfontes,10.1145/3368089.3409708,method,AppFlow,[23],10.1145/3236024.3236055,,
+afonsohfontes,10.1145/3368089.3409708,method,CraftDroid,[25],10.1109/ASE.2019.00015,,
+afonsohfontes,10.1145/3368089.3409708,method,ATM,[21],10.1109/ASE.2019.00016,,
+afonsohfontes,10.1145/3368089.3409708,method,GTM,[20],10.1145/3213846.3213854,,
+afonsohfontes,10.1145/3368089.3409708,tool,Appium,[2],,,
+afonsohfontes,10.1145/3368089.3409708,tool,Soot,[11],,,
+afonsohfontes,10.1145/3368089.3409734,dataset,,[37],10.1109/TSE.2016.2584063,,
+afonsohfontes,10.1145/3368089.3409734,dataset,MerArbiter,[40],10.1145/2338965.2336771,,
+afonsohfontes,10.1145/3368089.3409734,method,Green,[35],10.1145/2393596.2393665,,
+afonsohfontes,10.1145/3368089.3409734,method,,[24],10.1007/s10515-013-0122-2,,
+afonsohfontes,10.1145/3368089.3409734,method,JBMC,[11],10.1007/978-3-319-96145-3_10,,
+afonsohfontes,10.1145/3368089.3409734,tool,Wala,[17],,,
+afonsohfontes,10.1145/3368089.3409734,tool,Z3,[12],,,
+afonsohfontes,10.1145/3368089.3409737,method,,[12],10.1145/2001420.2001452,,
+afonsohfontes,10.1145/3368089.3409737,method,,[13],10.1109/TSE.2011.121,,
+afonsohfontes,10.1145/3368089.3409737,tool,,[5],,,
+afonsohfontes,10.1145/3368089.3409737,tool,,[4],,,
+afonsohfontes,10.1145/3368089.3409738,method,,[17],10.1007/3-540-49538-X_5,,
+afonsohfontes,10.1145/3368089.3409738,method,Dynamic features,[58],10.1007/978-3-030-02768-1_4,,
+afonsohfontes,10.1145/3368089.3409738,method,TamiFlex,[11],10.1145/1985793.1985827,,
+afonsohfontes,10.1145/3368089.3409738,method,Jax,[61],10.1145/320385.320414,,
+afonsohfontes,10.1145/3368089.3409738,method,JRed,[30],10.1109/COMPSAC.2016.146,,
+afonsohfontes,10.1145/3368089.3409738,method,ProGuard,[6],,,
+afonsohfontes,10.1145/3368089.3409738,tool,Soot,[64],10.1145/1925805.1925818,,
+afonsohfontes,10.1145/3368089.3409738,tool,ASM,[12],,,
+afonsohfontes,10.1145/3368089.3409738,tool,JVM TI API,[3],,,
+afonsohfontes,10.1145/3368089.3409738,tool,BigQuery API,[2],,,
+afonsohfontes,10.1145/3368089.3409755,method,,[5],,,
+afonsohfontes,10.1145/3368089.3409757,dataset,,[32],10.1145/2970276.2970364,,
+afonsohfontes,10.1145/3368089.3409757,dataset,,[34],10.1145/3238147.3238178,,
+afonsohfontes,10.1145/3368089.3409757,dataset,,[45],10.1007/978-3-319-66706-5_20,,
+afonsohfontes,10.1145/3368089.3409757,method,,[29],10.1007/978-3-662-50497-0_4,,
+afonsohfontes,10.1145/3368089.3409757,tool,,[20],10.1145/2642937.2642982,,
+afonsohfontes,10.1145/3368089.3409757,tool,ASM-d,[3],,,
+afonsohfontes,10.1145/3368089.3409757,tool,ASM,[7],,,
+afonsohfontes,10.1145/3368089.3409757,tool,Symbolic PathFinder,[37],10.1145/1858996.1859035,,
+afonsohfontes,10.1145/3368089.3409757,tool,Z3,[17],,,
+afonsohfontes,10.1145/3368089.3409758,method,OASI,[20],10.1145/2931037.2931062,,
+afonsohfontes,10.1145/3368089.3409758,method,Observers abstraction,[2],10.1145/3314221.3314641,,
+afonsohfontes,10.1145/3368089.3409758,tool,DAIKON,[9],,,
+XueqiYang,10.1145/3368089.3409680,replication,,9,,https://zenodo.org/record/4022892#.YNPfIGZKgxk,447
+XueqiYang,10.1145/3368089.3409680,method,,19,10.1016/C2015-0-00521-4,,447
+XueqiYang,10.1145/3368089.3409681,stepping stone,,26,10.1109/ICSE.2017.24,,459
+XueqiYang,10.1145/3368089.3409681,dataset,,60,10.3758/s13428-014-0532-5,,459
+XueqiYang,10.1145/3368089.3409681,metrics,,22,10.1007/s11219-013-9196-0,,459
+XueqiYang,10.1145/3368089.3409684,method,,107,10.1145/2601248.2601268,,436
+XueqiYang,10.1145/3368089.3409684,method,,27,10.1109/ICSE-SEIS.2019.17,,460
+XueqiYang,10.1145/3368089.3409684,stepping stone,,26,,https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513798,436
+XueqiYang,10.1145/3368089.3409684,method,,110,10.1016/B978-0-12-804206-9.00027-1,,436
+XueqiYang,10.1145/3368089.3409701,stepping stone,,9,10.1136/bmj.c869,,411
+XueqiYang,10.1145/3368089.3409701,method,,26,10.4103/0974-1208.82352,,414
+XueqiYang,10.1145/3368089.3409712,dataset,,,,https://drive.google.com/drive/folders/1HeZY-bg6fLhgPF4xL2EQvl9FQZLIkWau,483
+XueqiYang,10.1145/3368089.3409712,method,,72,10.4103/0974-1208.82352,,482
+XueqiYang,10.1145/3368089.3409712,method,,35,10.1016/S0166-4115(08)62386-9,,483
+XueqiYang,10.1145/3368089.3409712,metrics,,73,10.1016/B978-0-12-387691-1.00002-8,,484
+XueqiYang,10.1145/3368089.3409724,dataset,,,10.1016/j.jss.2019.110487,,422
+XueqiYang,10.1145/3368089.3409724,method,,8,10.7748/nr.13.4.84.s4,,422
+XueqiYang,10.1145/3368089.3409724,method,,43,10.1016/j.jss.2019.110487,,423
+XueqiYang,10.1145/3368089.3409724,metrics,,9,10.1037/0033-2909.125.6.627,,426
+XueqiYang,10.1145/3368089.3409746,dataset,,10,10.1109/MSR.2013.6624034,,400
+XueqiYang,10.1145/3368089.3409746,metrics,,25,,https://www.tqmp.org/RegularArticles/vol04-1/p013/p013.pdf,402
+XueqiYang,10.1145/3368089.3409746,metrics,,31,10.1145/2393596.2393670,,404
+XueqiYang,10.1145/3368089.3409766,stepping stone,,,10.1145/3196369.3196374,,496
+XueqiYang,10.1145/3368089.3409766,method,,15,10.1207/s15327809jls0401_2,,497
+XueqiYang,10.1145/3368089.3409766,method,,30,10.1109/TSE.2016.2519887,,496
+XueqiYang,10.1145/3368089.3409767,tool,,,,https://github.com/diogocabral/sherlock,471
+XueqiYang,10.1145/3368089.3409767,method,,14,,https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed,473
+XueqiYang,10.1145/3368089.3409751,replication,,25,,https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/,391
+XueqiYang,10.1145/3368089.3409751,stepping stone,,23,10.1109/VLHCC.2019.8818816,,390
+afonsohfontes,10.1145/3368089.3409680,method,,9,,https://zenodo.org/record/4022892#.YNPfIGZKgxk,
+afonsohfontes,10.1145/3368089.3409680,method,,19,10.1016/C2015-0-00521-4,,
+afonsohfontes,10.1145/3368089.3409680,method,,13,10.1007/s10664-011-9161-0,,
+afonsohfontes,10.1145/3368089.3409680,method,,25,10.1145/2884781.2884833,,
+afonsohfontes,10.1145/3368089.3409680,method,,5,10.1023/A:1014866909191,,
+afonsohfontes,10.1145/3368089.3409681,method,,26,10.1109/ICSE.2017.24,,
+afonsohfontes,10.1145/3368089.3409681,dataset,,60,10.3758/s13428-014-0532-5,,
+afonsohfontes,10.1145/3368089.3409681,metrics,,22,10.1007/s11219-013-9196-0,,
+afonsohfontes,10.1145/3368089.3409681,method,,27,,,
+afonsohfontes,10.1145/3368089.3409681,method,,41,,,
+afonsohfontes,10.1145/3368089.3409684,method,,107,10.1145/2601248.2601268,,
+afonsohfontes,10.1145/3368089.3409684,method,,27,10.1109/ICSE-SEIS.2019.17,,
+afonsohfontes,10.1145/3368089.3409684,method,,26,,https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513798,
+afonsohfontes,10.1145/3368089.3409684,method,,110,10.1016/B978-0-12-804206-9.00027-1,,
+afonsohfontes,10.1145/3368089.3409701,method,,1,,http://www.consortstatement.org/,
+afonsohfontes,10.1145/3368089.3409701,method,,26,10.4103/0974-1208.82352,,
+afonsohfontes,10.1145/3368089.3409701,method,,9,10.1136/bmj.c869,,
+afonsohfontes,10.1145/3368089.3409701,method,,26,10.4103/0974-1208.82352,,
+afonsohfontes,10.1145/3368089.3409712,method,,72,10.4103/0974-1208.82352,,
+afonsohfontes,10.1145/3368089.3409712,method,,35,10.1016/S0166-4115(08)62386-9,,
+afonsohfontes,10.1145/3368089.3409712,metrics,,73,10.1016/B978-0-12-387691-1.00002-8,,
+afonsohfontes,10.1145/3368089.3409724,method,,8,10.7748/nr.13.4.84.s4,,
+afonsohfontes,10.1145/3368089.3409724,method,,9,,https://psycnet.apa.org/buy/1999-01567-001,
+afonsohfontes,10.1145/3368089.3409724,metrics,,20,https://dx.doi.org/10.2139/ssrn.443040,,
+afonsohfontes,10.1145/3368089.3409724,metrics,,24,10.1002/0471264385.wei1210,,
+afonsohfontes,10.1145/3368089.3409724,metrics,,26,10.1080/00220671.2016.1220359,,
+afonsohfontes,10.1145/3368089.3409724,method,,33,10.1109/TSE.2018.2796554,,
+afonsohfontes,10.1145/3368089.3409724,method,,37,,,
+afonsohfontes,10.1145/3368089.3409724,stepping stone,,43,10.1016/j.jss.2019.110487,,
+afonsohfontes,10.1145/3368089.3409724,method,,48,,https://google.github.io/gsocguides/mentor/index,
+afonsohfontes,10.1145/3368089.3409746,metrics,,3,,https://www.opalco.com/wp-content/uploads/2014/10/Reading-Sample-Size1.pdf,
+afonsohfontes,10.1145/3368089.3409746,Method,,7,10.2307/1937887,,
+afonsohfontes,10.1145/3368089.3409746,Method,,6,10.1109/ESEM.2011.36,,
+afonsohfontes,10.1145/3368089.3409746,dataset,,10,10.1109/MSR.2013.6624034,,
+afonsohfontes,10.1145/3368089.3409746,dataset,,12,10.1007/s10664-018-9636-3,,
+afonsohfontes,10.1145/3368089.3409746,metrics,,25,,https://www.tqmp.org/RegularArticles/vol04-1/p013/p013.pdf,
+afonsohfontes,10.1145/3368089.3409746,Method,,15,10.1145/2597073.2597074,,
+afonsohfontes,10.1145/3368089.3409746,Tool,,20,,https://arxiv.org/abs/cs/0205028,
+afonsohfontes,10.1145/3368089.3409746,Method,,24,10.1147/sj.153.0225,,
+afonsohfontes,10.1145/3368089.3409746,metrics,,21,10.1145/800174.809754,,
+afonsohfontes,10.1145/3368089.3409746,tool,,28,,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.1424&rep=rep1&type=pdf,
+afonsohfontes,10.1145/3368089.3409746,metrics,,31,10.1145/2393596.2393670,,
+afonsohfontes,10.1145/3368089.3409746,metrics,,36,10.1145/2568225.2568315,,
+afonsohfontes,10.1145/3368089.3409766,method,,15,10.1207/s15327809jls0401_2,,
+afonsohfontes,10.1145/3368089.3409766,method,,30,10.1109/TSE.2016.2519887,,
+afonsohfontes,10.1145/3368089.3409767,method,,14,,https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed,
+afonsohfontes,10.1145/3368089.3409751,Tool,,25,,https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/,
+afonsohfontes,10.1145/3368089.3409751,Method,,23,10.1109/VLHCC.2019.8818816,,
+afonsohfontes,10.1145/3368089.3409751,Method,,4,,,
+johannesduesing, 10.1145/3368089.3409760, dataset, uses Stack Overflow data dump Dec 2019, 2, , https://archive.org/details/stackexchange, p619
+johannesduesing, 10.1145/3368089.3409760, method, construction of set of relevant tag as in 8, 8, 10.1145/3338906.3338939, , p619
+johannesduesing, 10.1145/3368089.3409760, metric, metric for evaluating tags from 8, 8, 10.1145/3338906.3338939, , p620
+johannesduesing, 10.1145/3368089.3409760, metric, metric for evaluating tags from 30, 30, 10.1007/s11390-016-1672-0, , p620
+johannesduesing, 10.1145/3368089.3409760, method, open coding method from 24, 24, 10.1109/32.799955, , p620
+johannesduesing, 10.1145/3368089.3409760, sanity-check, evaluate resulting taxonomy compared to 13, 13, 10.1109/ESEM.2017.11, , p623
+johannesduesing, 10.1145/3368089.3409760, method, method for comparing taxonomies based on 21, 21, 10.1109/TSE.2018.2796554, , p623
+johannesduesing, 10.1145/3368089.3409725, dataset, uses evaluation corpus from 55, 55, 10.1145/3133909, , p630
+johannesduesing, 10.1145/3368089.3409725, method, method of excluding merge commits from 78, 78, 10.1145/2950290.2950305, , p630
+johannesduesing, 10.1145/3368089.3409725, stepping-stone, tooling builds upon RefactoringMiner from 84, 84, 10.1145/3180155.3180206, , p630
+johannesduesing, 10.1145/3368089.3409725, stepping-stone, tooling builds upon RefactoringMiner 2.0 from 83, 83, 10.1109/TSE.2020.3007722, , p630
+johannesduesing, 10.1145/3368089.3409725, method, method for evaluating tooling from 83, 83, 10.1109/TSE.2020.3007722, , p631
+johannesduesing, 10.1145/3368089.3409725, tool, using tool GumTree for evaluation, 36, 10.1145/2642937.2642982, , p631
+johannesduesing, 10.1145/3368089.3409725, method, using type fact graphs from 49, 49, 10.1109/ICSE.2019.00117, , p631
+johannesduesing, 10.1145/3368089.3409725, method, comparison with identifier renaming from 7, 7, 10.1109/TSE.2014.2312942, , p632
+johannesduesing, 10.1145/3368089.3409693, method, using Weisfeiler-Lehman graph kernel from 25, 25, , abs/10.5555/1953048.2078187 , p64
+johannesduesing, 10.1145/3368089.3409693, method, Incorporate Name Flow Graphs from 3, 3, 10.1145/3236024.3236042, , p65
+johannesduesing, 10.1145/3368089.3409693, method, Stable roommates problem algorithm from 9, 9, 10.1006/jagm.2002.1219, , p66
+johannesduesing, 10.1145/3368089.3409693, tool, Using GraKel for Weisfeiler-Lehman Graph Kernels from 26, 26, , https://arxiv.org/abs/1806.02193, p67
+johannesduesing, 10.1145/3368089.3409693, method, Mimic clustering behavior from 7, 7, 10.1109/MSR.2013.6624018, , p67
+johannesduesing, 10.1145/3368089.3409693, method, Use method from 6 as baseline comparison, 6, 10.1007/s10664-015-9376-6, , p68
+johannesduesing, 10.1145/3368089.3409693, method, Use method from 2 as baseline comparison, 2, 10.1109/ICSE.2015.35, , p68
+johannesduesing, 10.1145/3368089.3409693, method, Using Hungarian Algorithm for permutations from 15, 15, 10.1002/nav.3800020109, , p69
+johannesduesing, 10.1145/3368089.3409704, statistics, Using 10 time mean for fairness as suggested in 16, 16, 10.1145/3287560.3287589, , p644
+johannesduesing, 10.1145/3368089.3409704, tool, Using Python library AIF360 for fairness metrics, 4, , https://arxiv.org/abs/1810.01943, p644
+johannesduesing, 10.1145/3368089.3409704, stepping-stone, Extend list of metrics from 16, 16, , 10.1145/3287560.3287589, p645
+johannesduesing, 10.1145/3368089.3409704, method, Reweighting algorithm for biased datasets from 34, 34, 10.1007/s10115-011-0463-8, , p645
+johannesduesing, 10.1145/3368089.3409704, method, Disparate Impact Remover algorithm for biased datasets from 15, 15, 10.1145/2783258.2783311, , p645
+johannesduesing, 10.1145/3368089.3409704, method, Adversarial Debiasing algorithm from 52, 52, 10.1145/3278721.3278779, , p645
+johannesduesing, 10.1145/3368089.3409704, method, Prejudice Remover Regularizer algorithm from 36, 36, 10.1007/978-3-642-33486-3_3, , p645
+johannesduesing, 10.1145/3368089.3409704, method, Equalized odds approach to post-processing from 20, 20, , https://arxiv.org/abs/1610.02413v1, p645
+johannesduesing, 10.1145/3368089.3409704, method, Calibrated equalized odds approach to post-processing from 41, 41, , 10.5555/3295222.3295319, p645
+johannesduesing, 10.1145/3368089.3409704, method, Reject Option Classification from 35, 35, 10.1109/ICDM.2012.45, , p645
+johannesduesing, 10.1145/3368089.3409697, metric, Equal Opportunity Difference for measuring fairness from 42, 42, , https://arxiv.org/abs/1810.01943, p656
+johannesduesing, 10.1145/3368089.3409697, metric, Average Odds Difference for measuring fairness from 42, 42, , https://arxiv.org/abs/1810.01943, p657
+johannesduesing, 10.1145/3368089.3409697, method, Situation Testing method from 31, 31, 10.1145/3106237.3106277, , p656
+johannesduesing, 10.1145/3368089.3409697, dataset, Adult Census Income dataset from 49, 49, , http://mlr.cs.umass.edu/ml/datasets/Adult, p657
+johannesduesing, 10.1145/3368089.3409697, dataset, Compas criminal history dataset from 50, 50, , https://github.com/propublica/compas-analysis, p657
+johannesduesing, 10.1145/3368089.3409697, dataset, German Credit dataset from 51, 51, , https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit%20+Data), p657
+johannesduesing, 10.1145/3368089.3409697, dataset, Default Credit dataset from 52, 52, , https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients, p657
+johannesduesing, 10.1145/3368089.3409697, dataset, Heart Health dataset from 53, 53, , https://archive.ics.uci.edu/ml/datasets/Heart+Disease, p657
+johannesduesing, 10.1145/3368089.3409697, stepping-stone, Improve on FLASH algorithm from 57, 57, 10.1109/TSE.2018.2870895, , p660
+johannesduesing, 10.1145/3368089.3409740, method, Symbolic Execution from 35, 35, 10.1145/360248.360252, , p667
+johannesduesing, 10.1145/3368089.3409740, method, Strongest Postcondition operator from 20, 20, 10.1007/978-1-4612-3228-5, , p672,
+johannesduesing, 10.1145/3368089.3409740, tool, Dafny tool for program verification from 38, 38, 10.1007/978-3-642-17511-4_20, , p672,
+johannesduesing, 10.1145/3368089.3409740, tool, Z3 SMT solver, , 10.1007/978-3-540-78800-3_24, , p672
+johannesduesing, 10.1145/3368089.3409748, metric, Shannon entropy for measuring information from 39, 39, 10.1145/584091.584093, , p678
+johannesduesing, 10.1145/3368089.3409748, tool, Integrate approach into LibFuzzer from 27, 27, , https://www.llvm.org/docs/LibFuzzer.html, p678
+johannesduesing, 10.1145/3368089.3409748, statistics, STADS probabilistic model for blackbox fuzzing from 6, 6, 10.1145/3210309, , p679,
+johannesduesing, 10.1145/3368089.3409748, dataset, FTS benchmark for evaluating fuzzer performance from 37, 37, , https://github.com/google/fuzzer-test-suite/blob/master/engine-comparison/tutorial/abTestingTutorial.md, p684
+johannesduesing, 10.1145/3368089.3409748, dataset, OSS-Fuzz fuzzing platform from 31 used for evaluation, 31, , https://github.com/google/oss-fuzz/tree/master/infra, p684,
+johannesduesing, 10.1145/3368089.3409748, metric, Vargha-Delaney effect size metric from 4, 4, 10.1145/1985793.1985795, , p685
+johannesduesing, 10.1145/3368089.3409769, tool, Approach is implemented into AFL fuzzer, , , https://github.com/google/AFL, p695
+johannesduesing, 10.1145/3368089.3409769, tool, Approach is implemented into QSYM fuzzer, , , https://www.usenix.org/conference/usenixsecurity18/presentation/yun , p695,
+johannesduesing, 10.1145/3368089.3409769, tool, Approach is implemented into MOpt fuzzer, , , https://www.usenix.org/system/files/sec19-lyu.pdf, p695,
+johannesduesing, 10.1145/3368089.3409763, tool, Using Z3 from 24 to implement new approach, 24, 10.1007/978-3-540-78800-3_24, , p705,
+johannesduesing, 10.1145/3368089.3409763, dataset, Using seed instances from SMT-COMP 2019 (3), 3, , https://smt-comp.github.io/, p706,
+johannesduesing, 10.1145/3368089.3409729, tool, Using LibFuzz graybox fuzzer from 12 for experiments, 12, , https://www.llvm.org/docs/LibFuzzer.html, p714,
+johannesduesing, 10.1145/3368089.3409729, tool, Using AFL graybox fuzzer from 26 for experiments, 26, , https://github.com/google/AFL, p714,
+johannesduesing, 10.1145/3324884.3416633, dataset, OSS-Fuzz fuzzing platform from 15 used as benchmark, 15, , https://github.com/google/oss-fuzz/tree/master/infra, p714,
+johannesduesing, 10.1145/3368089.3409729, dataset, FTS benchmark for evaluating fuzzer performance from 20, 20, , https://github.com/google/fuzzer-test-suite/blob/master/engine-comparison/tutorial/abTestingTutorial.md, p714,
+johannesduesing, 10.1145/3368089.3409729, metric, Measure of fuzzer effectiveness from 5, 5, 10.1145/2976749.2978428, , p715,
+johannesduesing, 10.1145/3368089.3409729, statistics, STADS probabilistic model for blackbox fuzzing from 2, 2, 10.1145/3210309, , p718,
+XiaoLing941212,10.1145/3368089.3409719,tool,reproduce RESTler,[15],10.1109/ICSE.2019.00083,,726,2
+XiaoLing941212,10.1145/3368089.3409723,tool,reuse of MTNN architecture - hard parameter sharing,[18],10.1023/A:1007379606734,,738,2
+XiaoLing941212,10.1145/3368089.3409723,stepping stone,comparison of SOTA - Neuzz,[65],10.1109/SP.2019.00052,,747,6
+XiaoLing941212,10.1145/3368089.3409673,dataset reuse,reuse DSL data sets,[8],10.1145/2884781.2884786,,82,6.1.1
+XiaoLing941212,10.1145/3368089.3409673,tool,replicated rule-based synthesizer,[25],10.1145/2462456.2464443,,83,6.1.3
+XiaoLing941212,10.1145/3368089.3409673,tool,synonym list,[34],,https://books.google.com/books?hl=en&lr=&id=Rehu8OOzMIMC&oi=fnd&pg=PR11&dq=WordNet:+An+electronic+lexical+database&ots=IsiaJfRSda&sig=hizysrTqMm0d1dIms2EDW4VkOHg#v=onepage&q=WordNet%3A%20An%20electronic%20lexical%20database&f=false,77,4.1
+XiaoLing941212,10.1145/3368089.3409759,replication of questions extraction,extract questions tagged with top 5 DL framework,[84],10.1145/3377811.3380395,,752,3
+XiaoLing941212,10.1145/3368089.3409759,replication of questions extraction,extract questions tagged with top 5 DL framework,[85],10.1145/3338906.3338955,,752,3
+XiaoLing941212,10.1145/3368089.3409759,tool,DL framework,[83],10.1109/ASE.2019.00080,,752,3
+XiaoLing941212,10.1145/3368089.3409759,replication,popularity trend of DL software deployment,[74],10.1109/ESEM.2019.8870187,,752,3
+XiaoLing941212,10.1145/3368089.3409700,dataset reuse,PMLB,[38],,https://biodatamining.biomedcentral.com/track/pdf/10.1186/s13040-017-0154-4.pdf,764,6.3/6.4
+XiaoLing941212,10.1145/3368089.3409700,tool,TPOT,[37],10.1145/2908812.2908918,,768,5.3.1
+XiaoLing941212,10.1145/3368089.3409700,dataset reuse,code corpus,[28],,https://www.kaggle.com/kaggle/meta-kaggle/data,768,6
+XiaoLing941212,10.1145/3368089.3409700,tool,BERT embeddings,[3],,https://arxiv.org/abs/1903.10676,769,6.2
+XiaoLing941212,10.1145/3368089.3409671,method,DEEPSEC,[37],10.1109/SP.2019.00023,,779,3.4.1
+XiaoLing941212,10.1145/3368089.3409671,method,test generation technique - coverage criteria based,[71],10.1145/3293882.3330579,,780,3.4.2
+XiaoLing941212,10.1145/3368089.3409671,method,test generation technique - gradient based,[41],,https://arxiv.org/abs/1706.06083,780,3.4.2
+XiaoLing941212,10.1145/3368089.3409671,dataset reuse,MNIST,[32],10.1109/ICSE.2019.00108,,782,5.1
+XiaoLing941212,10.1145/3368089.3409671,dataset reuse,CIFAR-10,[48],,https://arxiv.org/abs/1712.01785,782,5.1
+XiaoLing941212,10.1145/3368089.3409671,dataset reuse,SVHN,[1],,https://github.com/RU-System-Software-and-Security/CovTesting,782,5.1
+XiaoLing941212,10.1145/3368089.3409761,method,intact-layer/inner-layer mutation rules,[46],10.1109/ISSRE.2018.00021,,790,3.1
+XiaoLing941212,10.1145/3368089.3409761,method,Metropolis-Hastings algorithm,[38],,https://www.tandfonline.com/doi/pdf/10.1080/00031305.1998.10480547,792,3.2.2
+XiaoLing941212,10.1145/3368089.3409761,method,differential testing,[56],10.1109/ICSE.2019.00107,,792,3.3
+XiaoLing941212,10.1145/3368089.3409761,tool & dataset,to test DL libraries,[43],10.1145/3338906.3338930,,793,4.1
+XiaoLing941212,10.1145/3368089.3409761,tool & dataset,to test DL libraries,[56],10.1109/ICSE.2019.00107,,793,4.1
+XiaoLing941212,10.1145/3368089.3409750,method,hierarchical grouping,[50],,http://proceedings.mlr.press/v97/moon19a/moon19a.pdf,800,1
+XiaoLing941212,10.1145/3368089.3409750,dataset reuse,SVHN,[53],,https://storage.googleapis.com/pub-tools-public-publication-data/pdf/37648.pdf,801,1
+XiaoLing941212,10.1145/3368089.3409750,dataset reuse,CIFAR-10,[38],,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.9220&rep=rep1&type=pdf,801,1
+XiaoLing941212,10.1145/3368089.3409750,dataset reuse,ImageNet,[61],10.1007/s11263-015-0816-y,801,,1
+XiaoLing941212,10.1145/3368089.3409750,tool,PGD attack,[49],,https://arxiv.org/abs/1706.06083,807,7.1
+XiaoLing941212,10.1145/3368089.3409733,dataset reuse,ByteWeight,[6],,https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-bao.pdf,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,tool,bidirectional RNN model,[57],,https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-shin.pdf,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,dataset reuse,Mimicus,[61],10.1145/2420950.2420987,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,tool,MLP based malware classifier,"[55]", 10.1145/2420950.2420987,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,tool,MLP based malware classifier,"[61]", 10.1145/2420950.2420987,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,dataset reuse,AndroZoo,[3],10.1145/2901739.2903508,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,tool,Drebin,"[62]",10.1145/2480362.2480701, https://www.researchgate.net/profile/Hugo-Gascon/publication/264785935_DREBIN_Effective_and_Explainable_Detection_of_Android_Malware_in_Your_Pocket/links/53efd0020cf26b9b7dcdf395/DREBIN-Effective-and-Explainable-Detection-of-Android-Malware-in-Your-Pocket.pdf ,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,method,LEMNA (baseline),[26],10.1145/3243734.3243792,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,method,Gradient (baseline),[36],10.1109/5.726791,,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,method,IG (baseline),[66],,http://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,method,DeepTaylor (baseline),[45],,https://reader.elsevier.com/reader/sd/pii/S0031320316303582,818,4.1
+XiaoLing941212,10.1145/3368089.3409733,method,DTExtract (baseline),[7],,https://arxiv.org/abs/1705.08504,819,4.1
+XiaoLing941212,10.1145/3368089.3409720,dataset reuse,8 architectures on TensorFlow bugs,[34],10.1145/3213846.3213866,,833,4.1
+XiaoLing941212,10.1145/3368089.3409720,dataset reuse,1 architecture from the study to evaluate TensorFuzz,[24],,http://proceedings.mlr.press/v97/odena19a/odena19a.pdf,833,4.1
+kpeng2019,10.1145/3368089.3409676,method,replication of prior work,57,10.1109/cvpr.2019.00491,,841
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,2,,https://arxiv.org/abs/1804.07729,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,8,,https://arxiv.org/abs/1712.04248,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,11,10.1109/sp.2017.49,,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,21,,https://arxiv.org/abs/1712.02779,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,27,,https://arxiv.org/abs/1412.6572,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,49,,https://arxiv.org/abs/1706.06083,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,50,10.1109/cvpr.2016.282,,845
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,52,10.1109/cvprw.2017.172,,945
+kpeng2019,10.1145/3368089.3409676,dataset,dataset used in experiment,55,10.1109/eurosp.2016.36,,845
+kpeng2019,10.1145/3368089.3409674,"metric, method","metric to criticize, and replication of method",47,10.1145/3132747.3132785,,973
+kpeng2019,10.1145/3368089.3409754,metric,eval metric,51,,https://arxiv.org/abs/1606.03498,973
+kpeng2019,10.1145/3368089.3409754        ,metric,eval metric,17,,10.5555/3295222.3295408,965
+kpeng2019,"10.1145/3368089.3409754	",method,replication of prior work,5,,https://arxiv.org/abs/1604.07316,965
+kpeng2019,"10.1145/3368089.3409754	",method,replication of prior work,16,10.1109/cvpr.2016.90,,965
+kpeng2019,"10.1145/3368089.3409754	",method,replication of prior work,19,10.17504/protocols.io.8j6hure,,965
+kpeng2019,"10.1145/3368089.3409754	",method,prior work evaluated in discussion section,58,10.1145/3180155.3180220,,973
+kpeng2019,10.1145/3368089.3409756,dataset,dataset used in experiment,30,10.1145/3377811.3380339,,864
+kpeng2019,10.1145/3368089.3409756,method,replication of prior work,30,10.1145/3377811.3380339,,864
+kpeng2019,10.1145/3368089.3409756,method,replication of prior work,69,10.1145/3377811.3380420,,868
+kpeng2019,10.1145/3368089.3409756,theory,theory reuse,20,10.18653/v1/N19-1423,,864
+kpeng2019,10.1145/3368089.3409756,algorithm,core component,51,,https://arxiv.org/abs/1301.3781,865
+kpeng2019,10.1145/3368089.3409732,dataset,benchmark problems,2,10.1109/FMCAD.2013.6679385,,93
+kpeng2019,10.1145/3368089.3409732,method,replication of prior work,20,10.1145/3133886,,95
+kpeng2019,10.1145/3368089.3409732,Benchmark suite,repo of benchmark suite,1,,https://github.com/SyGuS-Org/benchmarks/tree/master/comp/2019/PBE_SLIA_Track/from_2018,88
+kpeng2019,10.1145/3368089.3409730,dataset,dataset used in experiment,28,10.1109/5.726791,,878
+kpeng2019,10.1145/3368089.3409730,tool,tool to transform data format,45,,http://potrace.sourceforge.net/potrace.pdf,878
+kpeng2019,10.1145/3368089.3409730,core component,based on previous work,12,10.1109/4235.996017,,879
+kpeng2019,10.1145/3368089.3409730,core component,based on previous work,36,10.1007/978-3-642-18272-3_10,,879
+kpeng2019,10.1145/3368089.3409730,dataset,dataset used in experiment,5,,https://www.beamng.gmbh/research,878
+kpeng2019,10.1145/3368089.3409730,method,benchmark method,18,10.1145/3236024.3264835,,877
+kpeng2019,10.1145/3368089.3409668,theory,theory as a core component,23,10.1145/302405.302457,,891
+kpeng2019,10.1145/3368089.3409668,dataset,dataset used in experiment,2,,arxiv:1812.01718,895
+kpeng2019,10.1145/3368089.3409668,dataset,dataset used in experiment,3,10.1109/ijcnn.2017.7966217,,894
+kpeng2019,10.1145/3368089.3409668,dataset,dataset used in experiment,8,10.1109/9780470544976.ch9,,890
+kpeng2019,10.1145/3368089.3409668,dataset,dataset used in experiment,26,,https://arxiv.org/abs/1708.07747,895
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,24,10.1109/5.726791,,907
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,39,10.3115/1118693.1118704,,907
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,21,,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.222.9220,907
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,7,,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.222.2063,907
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,30,10.1007/978-3-642-15181-1,,907
+kpeng2019,10.1145/3368089.3409696,dataset,dataset used in experiment,9,10.1109/CVPR.2009.5206848,,907
+kpeng2019,10.1145/3368089.3409696,method,benchmark method,16,,https://arxiv.org/abs/1503.02531,908
+kpeng2019,10.1145/3368089.3409696,method,benchmark method,45,,http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.1639,908
+kpeng2019,10.1145/3368089.3409696,method,benchmark method,65,10.1145/775047.775151,,904
+kpeng2019,10.1145/3368089.3409702,method,method reuse,14,10.1145/24039.24041,,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of EdgeMiner,8,10.14722/ndss.2015.23140,,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of TIRO,42,,10.5555/3277203.3277297,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of PackerGrind,44,10.1109/TSE.2020.2996433,,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of FlowDroid,3,10.1145/2666356.2594299,,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of IC3,34,10.1109/ICSE.2015.30,,920
+kpeng2019,10.1145/3368089.3409702,tool,reuse of OpenWPM to extract domain,13,10.1145/2976749.2978313,,921
+kpeng2019,10.1145/3368089.3409677,method,reuse of LSTM,26,10.1162/neco.1997.9.8.1735,,931
+kpeng2019,10.1145/3368089.3409677,tool,reuse of uDroid,29,10.1145/3106237.3106244,,931
+kpeng2019,10.1145/3368089.3409677,method,reuse of attention mechanism,8,10.1109/TSE.2017.2689012,,931
+kpeng2019,10.1145/3368089.3409745,tool,FlowDroid to extract cal graph,28,10.1145/2666356.2594299,,943
+kpeng2019,10.1145/3368089.3409745,tool,Soot framework to extract cal graph,33,,https://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.221.5311,943
+kpeng2019,10.1145/3368089.3409745,dataset,AndroZoo dataset,20,10.1145/2901739.2903508,,945
+kpeng2019,10.1145/3368089.3409745,dataset,dataset reuse,34,,https://arxiv.org/abs/1709.05281,945
+XiaoLing941212,10.1145/3368089.3409676,stepping stone,compare to prior SOTA,[57],10.1109/cvpr.2019.00491,,844
+XiaoLing941212,10.1145/3368089.3409676,method,compare to baseline,[57],10.1109/cvpr.2019.00491,,844
+XiaoLing941212,10.1145/3368089.3409676,dataset,FGSM,[27],,https://arxiv.org/abs/1412.6572,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,Deepfool,[50],10.1109/cvpr.2016.282,,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,JSMA,[55],10.1109/EuroSP.2016.36,,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,PGD,[49],,https://arxiv.org/abs/1706.06083,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,Adef,[2],,https://arxiv.org/abs/1804.07729,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,LocalSearch,[52],,https://arxiv.org/abs/1612.06299,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,Boundary,[8],,https://arxiv.org/abs/1712.04248,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,Spatial,[21],,https://openreview.net/pdf?id=BJfvknCqFQ,845
+XiaoLing941212,10.1145/3368089.3409676,dataset,CWL2,[11],10.1109/SP.2017.49,,845
+XiaoLing941212,10.1145/3368089.3409754,metric,Inception Score,[51],,https://arxiv.org/abs/1606.03498,852
+XiaoLing941212,10.1145/3368089.3409754,metric,Frechet Inception Distance,[17],,https://arxiv.org/abs/1706.08500,852
+XiaoLing941212,10.1145/3368089.3409754,method,Pielou's evenness score,[49],,https://www.sciencedirect.com/science/article/abs/pii/0022519366900130,852
+XiaoLing941212,10.1145/3368089.3409754,dataset,CIFAR10,[27],,http://www.cs.toronto.edu/~kriz/cifar.html,853
+XiaoLing941212,10.1145/3368089.3409754,dataset,MNIST,[32],,http://yann.lecun.com/exdb/mnist/,853
+XiaoLing941212,10.1145/3368089.3409754,dataset,Undacity Self-Driving Car,[1],,https://github.com/udacity/self-driving-car,853
+XiaoLing941212,10.1145/3368089.3409754,method,Carlini-Wagner,[8],10.1109/SP.2017.49,,854
+XiaoLing941212,10.1145/3368089.3409754,method,Projected Gradient Descent,[39],,https://openreview.net/forum?id=rJzIBfZAb,854
+XiaoLing941212,10.1145/3368089.3409754,method,Kullback-Leibler divergence,[29],,https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-22/issue-1/On-Information-and-Sufficiency/10.1214/aoms/1177729694.full,854
+XiaoLing941212,10.1145/3368089.3409754,statistical method,correlative significance,[50],10.1057/jt.2009.5,,856
+XiaoLing941212,10.1145/3368089.3409754,tool,masked language model,[20],,https://arxiv.org/abs/1810.04805,864
+XiaoLing941212,10.1145/3368089.3409756,tool,MLM,[51],,https://arxiv.org/abs/1301.3781,865
+XiaoLing941212,10.1145/3368089.3409756,dataset,experimental dataset,[30],10.1145/3377811.3380339,,867
+XiaoLing941212,10.1145/3368089.3409756,stepping stone,compare to SOTA,[30],10.1145/3377811.3380339,,868
+XiaoLing941212,10.1145/3368089.3409756,stepping stone,compare to SOTA,[69],10.1145/3377811.3380420,,868
+XiaoLing941212,10.1145/3368089.3409732,dataset,SyGus 2018 banchmark set,[1],,https://github.com/SyGuS-Org/benchmarks/tree/master/comp/2019/PBE_SLIA_Track/from_2018,88
+XiaoLing941212,10.1145/3368089.3409732,method,DSL,[19],10.1145/3158151,,93
+XiaoLing941212,10.1145/3368089.3409732,replication,FTAs,[20],10.1145/3133886,,95
+XiaoLing941212,10.1145/3368089.3409730,dataset,MNIST,[28],10.1109/5.726791,,878
+XiaoLing941212,10.1145/3368089.3409730,method,Potrace algorithm,[45],,http://potrace.sourceforge.net/potrace.pdf,878
+XiaoLing941212,10.1145/3368089.3409730,algorithm,multi-objective evolutionary search algorithm,[12],10.1109/4235.996017,,879
+XiaoLing941212,10.1145/3368089.3409730,algorithm,novelty search,[36],,https://hal.archives-ouvertes.fr/hal-01300711/file/2011COS1944.pdf,879
+XiaoLing941212,10.1145/3368089.3409730,tool,DEAP v1.3.0,[15],,https://psychclassics.yorku.ca/Fisher/Methods/chap6.htm,879
+XiaoLing941212,10.1145/3368089.3409730,metric reuse,,[16],10.1145/3293882.3330566,,880
+XiaoLing941212,10.1145/3368089.3409730,dataset,BeamNG,[5],,https://beamng.gmbh/research/,882
+XiaoLing941212,10.1145/3368089.3409730,stepping stone,compare to SOTA,[18],10.1145/3236024.3264835,,883
+XiaoLing941212,10.1145/3368089.3409668,theory,theory used in algorithm,[23],10.1145/302405.302457,,891
+XiaoLing941212,10.1145/3368089.3409668,dataset,MNIST,[8],10.1109/9780470544976.ch9,,894
+XiaoLing941212,10.1145/3368089.3409668,dataset,EMNIST,[3],10.1109/IJCNN.2017.7966217,,894
+XiaoLing941212,10.1145/3368089.3409668,dataset,Kuzushiji MNIST,[2],,https://arxiv.org/abs/1812.01718,894
+XiaoLing941212,10.1145/3368089.3409668,dataset,Fashion MNIST,[26],,https://arxiv.org/abs/1708.07747,894
+XiaoLing941212,10.1145/3368089.3409696,dataset,MNIST,[24],10.1109/5.726791,,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,USPS,[11],,http://statweb.stanford.edu/~tibs/book/preface.ps,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,Polarity,[39],,https://arxiv.org/abs/cs/0205070,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,CIFAR-10,[21],,http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.222.9220,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,STL-10,[7],,http://proceedings.mlr.press/v15/coates11a/coates11a.pdf,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,Image-CLEF,[30],,https://books.google.com/books?hl=en&lr=&id=ww1PjB4DlUYC&oi=fnd&pg=PR7&dq=.+ImageCLEF:+Experimental+Evaluation+in+Visual+Information+Retrieval+(1st+ed.)&ots=A9Fbl9j6uD&sig=bZ29voY_PBw7xIvwnDIw3jcvdQg,907
+XiaoLing941212,10.1145/3368089.3409696,dataset,ImageNet,[9],10.1109/CVPR.2009.5206848,,907
+XiaoLing941212,10.1145/3368089.3409696,method,Temperature Scaling,[16],,https://arxiv.org/abs/1503.02531,908
+XiaoLing941212,10.1145/3368089.3409696,method,Platt Scaling,[45],,https://www.researchgate.net/profile/John_Platt/publication/2594015_Probabilistic_Outputs_for_Support_Vector_Machines_and_Comparisons_to_Regularized_Likelihood_Methods/links/004635154cff5262d6000000.pdf,908
+XiaoLing941212,10.1145/3368089.3409696,method,Isotonic Regression,[65],10.1145/775047.775151,,908
+XiaoLing941212,10.1145/3368089.3409702,tool,EdgeMiner,[8],,http://yinzhicao.org/EdgeMiner/2015_ndss_edgeminer.pdf,920
+XiaoLing941212,10.1145/3368089.3409702,tool,TIRO,[42],,https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wong.pdf,920
+XiaoLing941212,10.1145/3368089.3409702,tool,PackerGrind,[44],10.1109/ICSE.2017.40,,920
+XiaoLing941212,10.1145/3368089.3409702,tool,FlowDroid,[3],10.1145/2594291.2594299,,920
+XiaoLing941212,10.1145/3368089.3409702,tool,IC3,[34],10.1109/ICSE.2015.30,,920
+XiaoLing941212,10.1145/3368089.3409702,method,taint analysis,[3],10.1145/2594291.2594299,,921
+XiaoLing941212,10.1145/3368089.3409702,tool,OpenWPM,[13],10.1145/2976749.2978313,,921
+XiaoLing941212,10.1145/3368089.3409677,method,DL engine - Attention Mechanism,[8],,https://arxiv.org/abs/1409.0473,929
+XiaoLing941212,10.1145/3368089.3409677,tool,Udroid,[29],10.1145/3106237.3106244,,931
+XiaoLing941212,10.1145/3368089.3409677,tool,LSTM,[26],,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf,931
+XiaoLing941212,10.1145/3368089.3409745,dataset,AndroZoo,[20],10.1145/2901739.2903508,,940
+XiaoLing941212,10.1145/3368089.3409745,method,Soot Framework,[33],,https://pdfs.semanticscholar.org/ee6e/6d0f9a1d034ad00ea2179fa1fcb81bb26bd7.pdf,943
+XiaoLing941212,10.1145/3368089.3409745,tool,FlowDroid,[28],10.1145/2594291.2594299,,943
+XiaoLing941212,10.1145/3368089.3409745,dataset,lineage dataset,[37],10.1109/TR.2019.2956690,,946
+andre-motta,10.1145/3382494.3410683,method,SMS guidelines,[30],10.1016/j.infsof.2015.03.007,,p2
+andre-motta,10.1145/3382494.3410693,dataset,SoF dataset,[10],10.1145/3196398.3196430,,p2
+andre-motta,10.1145/3382494.3410693,tool,Google�s BigQuery,[19],,https://cloud.google.com/bigquery,p2
+andre-motta,10.1145/3382494.3410693,statistics,alpha,[4],10.1145/3239235.3239524,,p2
+andre-motta,10.1145/3382494.3410693,statistics,alpha,[8],10.1145/3338906.3338939,,p2
+andre-motta,10.1145/3382494.3410693,statistics,beta,[42],10.1007/s11390-016-1672-0,,p2
+andre-motta,10.1145/3382494.3410693,method,PUMiner,[23],10.1145/3379597.3387443,,p3
+andre-motta,10.1145/3382494.3410693,method,keyword list generation,[29],10.1145/2597073.2597117,,p3
+andre-motta,10.1145/3382494.3410693,dataset,NLTK English Stopwords,[26],,https://gist.github.com/sebleier/554280,p3
+andre-motta,10.1145/3382494.3410693,tool,Porter Stemmer,[30],,http://snowball.tartarus.org/texts/introduction.html,p3
+andre-motta,10.1145/3382494.3410693,method,LDA,[13],,10.5555/944919.944937,p3
+andre-motta,10.1145/3382494.3410688,method,energy consumption of Java�s Input/Output API,[9],10.1109/ESEM.2019.8870158,,p4
+andre-motta,10.1145/3382494.3410688,tool,test environment Mana,[17],10.1145/3236454.3236504,,p4
+andre-motta,10.1145/3382494.3410688,tool,Monsoon Power Monitor (HVPM),[11],,http://msoon.github.io/powermonitor/HVPM.html,p5
+andre-motta,10.1145/3382494.3410688,method,Energy consumption calculation method,[19],10.1145/2597073.2597085,,p6
+andre-motta,10.1145/3382494.3410688,dataset ,Maven Central Dependency Graph,[22],,https://arxiv.org/abs/1901.05392,p7
+andre-motta,10.1145/3382494.3410679,method,Guidelines for Literature Review,[11],10.1016/j.infsof.2018.09.006,,p3
+andre-motta,10.1145/3382494.3410679,tool,Paperpile,[31],,https://paperpile.com/?welcome,p3
+andre-motta,10.1145/3382494.3410679,tool,Airtable,[32],,https://airtable.com/pricing,p3
+andre-motta,10.1145/3382494.3410675,metric,graph edit distance,[6],10.1016/S0167-8655(97)00060-3,,p3
+andre-motta,10.1145/3382494.3410675,method,Method for using GED,[5],10.1016/j.patrec.2016.10.001,,p3
+andre-motta,10.1145/3382494.3410675,method,GraphSAGE,[17],,10.5555/3294771.3294869,p4
+andre-motta,10.1145/3382494.3410675,method,Neural Tensor Network,[46],,10.5555/2999611.2999715,p4
+andre-motta,10.1145/3382494.3410675,method,a data augmentation method,[34],10.1145/3340482.3342741,,p5
+andre-motta,10.1145/3382494.3410685,metric,Measures related to social proximity,[30],10.1145/2568225.2568315,,p4
+andre-motta,10.1145/3382494.3410685,method,partial dependence plots,[24],,http://www.milbo.org/doc/plotmo-notes.pdf,p6
+andre-motta,10.1145/3382494.3410686,method,Time data partitioning method,[35],10.1145/3077136.3080782,,p3
+andre-motta,10.1145/3382494.3410686,method,Porter Stemmer algorithm,[25],10.1108/00330330610681286,,p3
+andre-motta,10.1145/3382494.3410686,dataset,SentiStrength,[33],10.1002/asi.21416,,p3
+andre-motta,10.1145/3382494.3410686,dataset,opinion lexicon corpus,[12],10.1145/1014052.1014073,,p3
+andre-motta,10.1145/3382494.3410686,tool,ARdoc,[24],10.1109/ICSM.2015.7332474,,p3
+andre-motta,10.1145/3382494.3410673,tool,SonarQube,no reference,,https://github.com/SonarOpenCommunity/sonar-cxx,p2
+andre-motta,10.1145/3382494.3410673,method,Guidelines for case study research,[26],10.1007/s10664-008-9102-8,,p4
+andre-motta,10.1145/3382494.3410678,method,Grounded theory guidelines,[37],10.1145/2884781.2884833,,p2
+andre-motta,10.1145/3382494.3410676,dataset,open-source Android applications in Kotlin,[19],10.1007/s10664-019-09727-4,,p1
+yrahul3910,10.1145/3382494.3410677,method,Dropout,[14],,https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf,p3,
+yrahul3910,10.1145/3382494.3410677,method,GAN,[9],10.1145/3238147.3238187,,p3,
+yrahul3910,10.1145/3382494.3410677,method,GAN,[8],,https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf,p5,
+yrahul3910,10.1145/3382494.3410677,method,Adam,[19],,https://arxiv.org/abs/1412.6980,p7,
+yrahul3910,10.1145/3382494.3410677,method,DECART,[12],10.1007/s10664-017-9573-6,,p7,
+yrahul3910,10.1145/3382494.3410677,method,DeepPerf,[15],10.1109/ICSE.2019.00113,,p7,
+yrahul3910,10.1145/3382494.3410694,method,ML-REP,[39],10.1109/ASE.2011.6100061,,p2,
+yrahul3910,10.1145/3382494.3410694,method,DL-BiMPM,[53],,https://export.arxiv.org/abs/1702.03814v2,p2,
+yrahul3910,10.1145/3382494.3410694,method,IR-TF,[36],10.1109/ICSE.2007.32,,p4,
+yrahul3910,10.1145/3382494.3410694,method,IR-DBTM,[30],10.1145/2351676.2351687,,p4,
+yrahul3910,10.1145/3382494.3410694,method,ML-ADMA,[40],10.1145/1806799.1806811,,p4,
+yrahul3910,10.1145/3382494.3410694,method,ML-BugSim,[57],10.1145/2396761.2396869,,p4,
+yrahul3910,10.1145/3382494.3410694,method,DL-DCNN,[38],10.1145/2766462.2767738,,p4,
+yrahul3910,10.1145/3382494.3410694,method,DL-MALSTM,[29],,10.5555/3016100.3016291,p4,
+yrahul3910,10.1145/3382494.3410694,method,DL-CWEIR,[55],10.1109/ISSRE.2016.33,,p4,
+yrahul3910,10.1145/3382494.3410694,method,DL-CRNN,[12],10.1109/ICSME.2017.69,,p4,
+yrahul3910,10.1145/3382494.3410694,method,Kitchenham,[23],,https://www.inf.ufsc.br/~aldo.vw/kitchenham.pdf,p2,
+yrahul3910,10.1145/3382494.3410684,method,Union model,[11],10.1109/ASE.2003.1240292,,p2,
+yrahul3910,10.1145/3382494.3410684,method,Clustering,[23],,book/10.5555/1394399,p2,
+yrahul3910,10.1145/3382494.3410684,metric,Tarantula,[6],10.1145/581339.581397,,p2,
+yrahul3910,10.1145/3382494.3410684,method,Tarantula,[12],10.1145/581339.581397,,p2,
+yrahul3910,10.1145/3382494.3410684,metric,jaccard,[13],10.1111/j.1469-8137.1912.tb05611.x,,p3,
+yrahul3910,10.1145/3382494.3410684,metric,Ochiai,[15],,https://www.jstage.jst.go.jp/article/suisan1932/22/9/22_9_522/_article,p3,
+yrahul3910,10.1145/3382494.3410684,method,Ochiai usage,[16],10.1109/PRDC.2006.18,,p3,
+yrahul3910,10.1145/3382494.3410684,metric,Ochiai2,[17],,https://www.jstage.jst.go.jp/article/suisan1932/22/9/22_9_522/_article,p3,
+yrahul3910,10.1145/3382494.3410684,method,Ochiai2 usage,[18],,https://www.semanticscholar.org/paper/Automatic-Error-Detection-Techniques-Based-on-in-of-S%C3%A1nchez/bfcf204a00badb60f57691a6d0ced5ea85a95a1a,p3,
+yrahul3910,10.1145/3382494.3410684,metric,D*,[19],10.1109/TR.2013.2285319,,p3,
+yrahul3910,10.1145/3382494.3410684,metric,Wong3,[20],10.1109/COMPSAC.2007.109,,p3,
+yrahul3910,10.1145/3382494.3410684,method,Wong3,[21],10.1016/j.jss.2009.09.037,,p3,
+yrahul3910,10.1145/3382494.3410684,metric,Kulczynski2,[22]p3,
+yrahul3910,10.1145/3382494.3410684,statistics,Pratt correction,[26],10.1080/01621459.1959.10501526,,p5,
+yrahul3910,10.1145/3382494.3410684,statistics,Holm's correction,[27],, https://www.jstor.org/stable/4615733 ,p5,
+yrahul3910,10.1145/3382494.3410684,statistics,Vargha-Delaney,[28],,https://www.jstor.org/stable/1165329,p5,
+yrahul3910,10.1145/3382494.3410689,method,Award-Worker model,[26],10.1109/esem.2015.7321192,,p4,
+yrahul3910,10.1145/3382494.3410689,method,Clustering,[7],10.1109/SOFTWAREMINING.2017.8100851,,p5,
+yrahul3910,10.1145/3382494.3410632,method,Hoegl & Gemunden,[13],, https://www.jstor.org/stable/3085981 ,p1,
+yrahul3910,10.1145/3382494.3410632,method,Norwegian study,[27],10.1016/j.jss.2016.09.028,,p3,
+yrahul3910,10.1145/3382494.3410632,method,measurement,[30],10.1007/s10664-020-09860-5,,p5,
+yrahul3910,10.1145/3382494.3410632,method,Composition models,[4],10.1037/0021-9010.83.2.234,,p9,
+yrahul3910,10.1145/3382494.3410632,method,rwg,[24],http://dx.doi.org/10.1037/0021-9010.69.1.85,,p8,
+yrahul3910,10.1145/3382494.3410690,method,Collaborative filtering,[21],,10.5555/1768197.1768208,p1,
+yrahul3910,10.1145/3382494.3410690,method,MNBN,[8],10.1145/3383219.3383227,,p1,
+yrahul3910,10.1145/3382494.3410690,method,Encoding,[20],10.1145/371920.372071,,p3,
+yrahul3910,10.1145/3382494.3410690,metrics,Metrics used,[19],10.1109/MS.2009.161,,p6,
+yrahul3910,10.1145/3382494.3410674,method,Z3,[14],10.1007/978-3-540-78800-3_24,,p1,
+yrahul3910,10.1145/3382494.3410674,method,MathSAT5,[10],10.1007/978-3-642-36742-7_7,,p1,
+yrahul3910,10.1145/3382494.3410674,method,CVC4,[7],10.1007/978-3-642-22110-1_14,,p1,
+yrahul3910,10.1145/3382494.3410674,method,Yices2,[15],10.1007/978-3-319-08867-9_49,,p1,
+yrahul3910,10.1145/3382494.3410674,tool,JKind,[19],,https://arxiv.org/abs/1712.01222v1,p2,
+yrahul3910,10.1145/3382494.3410674,tool,JKind,[26],,https://clc.cs.uiowa.edu/Kind/Papers/Hag-PHD-08.pdf,p2,
+yrahul3910,10.1145/3382494.3410674,tool,Lustre,lustre,10.1109/5.97300,,p3,
+yrahul3910,10.1145/3382494.3410674,method,EV test oracles,[23],10.1109/TSE.2015.2436920,,p5,
+yrahul3910,10.1145/3382494.3410691,dataset,ISBSG,[16],,https://www.isbsg.org/isbsg-productivity-data-query/,p3,
+yrahul3910,10.1145/3382494.3410691,method,ISBSG guide,[15],,https://isbsg.org/wp-content/uploads/2017/01/Productivity-Data-Query-User-Guide.pdf,p3,
+yrahul3910,10.1145/3382494.3410691,method,Kitchenham & Mendes,[30],10.1109/METRIC.2004.1357920,,p4,
+yrahul3910,10.1145/3382494.3410691,method,Kitchenham & Mendes,[17],10.1145/1540438.1540444,,p4,
+yrahul3910,10.1145/3382494.3410691,statistics,Lavazza & Morasca,[22],10.1145/3084226.3084260,,p5,
